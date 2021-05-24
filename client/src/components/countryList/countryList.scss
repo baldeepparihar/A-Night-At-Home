@@ -1,0 +1,165 @@
+@use '../typography/typography.scss' as *;
+@use '../partials/reset.scss' as *;
+
+.CountryList {
+    width: 100vw;
+    min-height: 100vh;
+    min-width: 32rem;
+    background-image: linear-gradient(
+        rgba(black, 0.4), 
+        rgba(black, 0.4)),  
+        url(../../assets/choose-country.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 0 1.6rem;
+    padding-bottom: 3rem;
+    text-align: center;
+    background-size: auto;
+    background-repeat: repeat-y;
+
+    &__Header--Wrapper {
+        display: flex;
+        justify-content: center;
+        position: relative;
+    }
+
+    &__Header--Wrapper:After {
+        content: ' ';
+        border-bottom: 0.6rem solid #FFF;
+        width: 95%;
+        bottom: -1.5rem;
+        left: auto;
+        position: absolute;
+    }
+
+    &__Header {
+        display: block;
+        font-family: Chango;
+        font-size: 4rem;
+        color: #FFF;
+        margin-top: 2rem;
+        width: 98%;
+    }
+
+    &__List--Wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        margin-top: 4rem;
+        width: 80%;
+    }
+
+    &__List {
+        font-family: Chango;
+        color: #E50914;
+        list-style: none;
+        margin: 0.8rem 0;
+        text-decoration: none;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+    &__Button--Container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin-top: 3rem;
+    }
+        
+    &__Button {
+        width: 16rem;
+        height: 6rem;
+        border: 4px solid #FFF;
+        color: #E50914;
+        text-decoration: none;
+        font-size: 2.5rem;
+        font-family: Chango;
+        text-transform: uppercase;
+        padding-top: 1rem;
+        border-radius: .5rem;
+    }
+
+}
+
+
+@media (min-width: 550px) {
+ .CountryList {
+
+    &__List--Wrapper {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: auto;
+        margin-top: 4rem;
+        width: 80%;
+    }
+
+    &__List {
+        margin: 1rem 1rem;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+ }
+    
+}
+
+
+
+@media (min-width: 768px) {
+
+    .CountryList {
+
+        &__Header {
+            font-size: 6rem;
+            margin-top: 2rem;
+            width: 98%;
+        }
+
+        &__List--Wrapper {
+            margin-top: 6rem;
+            width: 90%;
+        }
+
+        &__List {
+            margin: 1rem 1.5rem;
+            font-size: 3rem;
+            font-weight: bold;
+        }
+
+        &__Button--Container {
+            margin-top: 4rem;
+        }
+
+    }
+
+}
+
+
+
+@media (min-width: 1280px) {
+
+    .CountryList {
+
+        &__Header {
+            font-size: 6rem;
+            margin-top: 2rem;
+            width: 95%;
+        }
+
+        &__List--Wrapper {
+            width: 80%;
+        }
+
+        &__Button--Container {
+            margin-top: 6rem;
+        }
+
+    }
+
+}

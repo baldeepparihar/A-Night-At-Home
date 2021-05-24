@@ -1,0 +1,209 @@
+@use '../typography/typography' as *;
+@use '../partials/reset.scss' as *;
+
+.Country {    
+    width: 100vw;
+    min-width: 32rem;
+    background-image: linear-gradient(
+        rgba(black, 0.3), 
+        rgba(black, 0.3)),  
+        url(../../assets/movie-reel.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 0 1.6rem;
+    margin: auto;
+    text-align: center;
+    background-size: auto;
+    background-repeat: repeat;
+
+    &__Header--Container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__Header {
+        font-size: 4rem;
+        font-family: Chango;
+        color: #E50914;
+        margin: 0 2rem auto;
+    }
+
+    &__BackArrow--Link {
+        display: flex;
+        flex-direction: column;
+        margin-right: 3rem;
+        padding-bottom: 3rem;
+        margin-top: 2rem;
+    }
+
+    &__BackArrow {
+        height: 4rem;
+        width: 4rem;
+        margin: auto;
+    }
+
+    &__BackArrow--Text {
+        color: #E50914;
+        font-size: 1.4rem;
+        font-family: Chango;
+        text-transform: uppercase;
+    }
+
+    &__Refresh--Container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 1rem 0;
+    }
+
+    &__Refresh {
+        color: white;
+        font-family: 'Koho', sans-serif;
+        font-size: 1.5rem;
+    }
+
+}
+
+
+.MovieInfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    &__Link {
+        text-decoration: none;
+        border-bottom: none;
+    }
+
+    &__Wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 20rem;
+        margin: 1.5rem 2.5rem;
+
+        background: rgb(185,169,169);
+        background: radial-gradient(circle, rgba(185,169,169,1) 65%, rgba(211,211,211,1) 93%);
+        box-shadow: 18px 16px 27px 5px rgba(0,0,0,0.93);
+        list-style: none;
+        border-radius: 1rem;
+        padding: 1rem 0;
+    }
+
+    &__Title {
+        color: #FFF;
+        font-size: 1.6rem;
+        font-family: Chango;
+        margin-bottom: 1rem;
+        max-width: 98%;
+    }
+
+    &__Image {
+        width: 15rem;
+        margin: auto;
+        margin-bottom: 1rem;
+    }
+
+    &__Synopsis {
+        color: #FFF;
+        font-size: 1.3rem;
+        font-family: 'Koho', sans-serif;
+        max-width: 98%;
+    }
+
+    &__Released {
+        color: #FFF;
+        font-size: 1.4rem;
+        font-family: 'Koho', sans-serif;
+        font-weight: bold;
+        margin-top: 1rem;
+    }
+
+    &__Runtime {
+        color: #FFF;
+        font-size: 1.4rem;
+        font-family: 'Koho', sans-serif;
+        font-weight: bold;
+        margin-top: 1rem;
+     }
+
+}
+
+@media (min-width: 550px) {
+    .Country {
+        width: 100vw;
+
+        &__BackArrow--Text {
+            font-size: 1.8rem;
+        }
+        
+        &__BackArrow {
+            height: 5rem;
+            width: 5rem;
+        }
+    
+        &__Header {
+            font-size: 6rem;
+            margin-bottom: 5rem;
+        }
+
+    }
+
+    
+}
+
+@media (min-width: 768px) {
+    .Country {
+
+        &__Header--Container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+
+        &__BackArrow--Text {
+            font-size: 1.8rem;
+        }
+        
+        &__BackArrow {
+            height: 5rem;
+            width: 5rem;
+            margin-top: 2rem;
+        }
+    
+        &__Header {
+            font-size: 8rem;
+            margin: 5rem 1rem 4rem 1rem;
+        }
+
+    }
+
+    .MovieInfo {
+        &__Title {
+            font-size: 2rem;
+        }
+        &__Image {
+            height: 25rem;
+            width: 18rem;
+        }
+    
+        &__Synopsis {
+            font-size: 1.5rem;
+        }
+    
+        &__Released {
+            font-size: 1.7rem;
+        }
+    
+        &__Runtime {
+            font-size: 1.7rem;
+         }
+
+    }
+
+}

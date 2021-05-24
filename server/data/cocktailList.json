@@ -1,0 +1,1128 @@
+[
+    {
+      "Id": 0,
+      "CocktailName": "Old-Fashioned",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/55a8fbafeace4a1798aed43801afe3ca.jpg?mw=1300",
+      "Ingredients": "Bourbon or Rye Whiskey 1.5oz, Angostura bitters 2 dashes, Sugar cube 1, Plain water a few dashes, Orange slice, Cocktail cherry",
+      "Directions": "Add sugar cube to the glass then add 2 dashes Angostura bitters and a dash of water.  Muddle until dissolved, then add ice cubes and pour in whiskey or Bourbon.  Stir to combine.  Squeeze orange peel over the glass to express some oil, then place it in the cocktail and add a maraschino cherry."
+    },
+    {
+        "Id": 1,
+      "CocktailName": "Bloody Mary",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/6ff1203db02243d39495c40d286d1d58.jpg?mw=1300",
+      "Ingredients": "Vodka 1.5oz, Tomato juice 3oz, Lemon juice 0.5oz, Worcestershire sauce 2-3 dashes, Tobasco, Celery salt, Pepper, Celery stalk, Lemon wedge",
+      "Directions": "Add vodka, tomato juice, lemon juice, the Worcestershire sauce, a few dashes of Tobasco, Few sprinkles of celery salt, and a few ice cubes in large glass.  Then roll the cocktail between glasses.  Pour it back and forth six to seven times, then strain into a highball glass filled with ice cubes.  Garnish with a celery stalk and a lemon wedge, if desired."
+    },
+    {
+        "Id": 2,
+      "CocktailName": "Tequila Sunrise",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/898a4406b87143f7a00e2c44c99e9b8e.jpg?mw=1300",
+      "Ingredients": "Tequila 1.5oz, Orange juice 3oz, Grenadine 0.5oz, Orange slice, cherry",
+      "Directions": "Fill glass with ice then add tequila and orange juice and stir.  Add the grenadine and wait until it settles at the bottom, or use a spoon, guide it down the sides of the glass with minimal mixing."
+    },
+    {
+        "Id": 3,
+      "CocktailName": "Cosmopolitan",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/25e6db4c0f7a435ba26af7e7bc51cb60.jpg?mw=1300",
+      "Ingredients": "Citron vodka 1 1/3oz, Cointreau 1/2oz, Cranberry juice 1oz, Fresh lime juice 1/2oz",
+      "Directions": "Add all ingredients to a shaker, fill it with ice and then shake.  Strain into a chilled cocktail glass."
+    },
+    {
+        "Id": 4,
+      "CocktailName": "S*x on the Beach",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/3b5f99328c70445983b9d5fe98ae9745.jpg?mw=1300",
+      "Ingredients": "Vodka 1.3oz, Peach schnapps 0.7oz, Cranberry juice 1.3oz, Orange juice 1.3oz, Orange slice for garnish",
+      "Directions": "Add all ingredients to a highball glass filled with ice.  Gently stir.  Garnish with an orange slice."
+    },
+    {
+        "Id": 5,
+      "CocktailName": "Screw Driver",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/3bea62b39e55417ab0f8e8597bb40e48.jpg?mw=1300",
+      "Ingredients": "Vodka 1.7oz, Orange juice 3.4oz, Orange slice for garnish",
+      "Directions": "Fill a highball glass with ice, then pour it in the ingredients.  Gently stir with a bar spoon.  Garnish a orange slice and serve."
+    },
+    {
+        "Id": 6,
+      "CocktailName": "Zombie",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/483fc8285535498dae15853c3b989a89.jpg?mw=1300",
+      "Ingredients": "Fresh lime juice 3/4oz, Falernum 1/2oz, Gold Puerto Rican rum 1 1/2oz, Gold or Dark Jamaican rum 1 1/2oz, 151-proof Lemon Hart Demerara rum 1oz, 1tsp grenadine, 6 drops Pernod, Dash of Angostura bitters, 1/2oz Don's mix (2 parts grapefruit juice to 1 part cinnamon sugar syrup), mint sprig for",
+      "Directions": "Put all ingredients together with 6 ounces of crushed ice into a blender and whizz for about five seconds.  Pour into a Collins glass filled with ice cubes and garnish with a mint sprig."
+    },
+    {
+        "Id": 7,
+      "CocktailName": "Whiskey Sour",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/563c5f450d594954b16390db15adb2c0.jpg?mw=1300",
+      "Ingredients": "Bourbon whiskey 1.5oz, Sugar syrup 0.5oz, Fresh lemon juice 1oz, Egg White a dash, Orange slice 1/2, Maraschino cherry",
+      "Directions": "Add all the ingredients to a shaker filled with ice.  Shake and strain into an old-fashioned glass filled with ice.  Garnish with half an orange slice and a maraschino cherry."
+    },
+    {
+        "Id": 8,
+      "CocktailName": "Bramble",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/c1e596e5277842fc8e440d654a4ed5ad.jpg?mw=1300",
+      "Ingredients": "Gin 1 1/3oz, Sugar syrup, Fresh lemon juice 1/2oz, Blackberry liqueur 1/2oz, lemon slice, 2 blackberries.",
+      "Directions": "Fill an Old-Fashioned glass with crushed ice, then pour in the gin, the sugar syrup, and the lemon juice.  Stir, then drizzle the blackberry liqueur over the ice, but do not stir the drink.  Garnish with a lemon slice and two blackberries and serve."
+    },
+    {
+        "Id": 9,
+      "CocktailName": "Mint Julep",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/e58803d85dda4174b4d084cfa97d11a1.jpg?mw=1300",
+      "Ingredients": "7-10 fresh mint leaves, 2 sugar cubes, 2 1/2oz bourbon, Mint sprig for garnish",
+      "Directions": "Muddle mint and two sugar cubes in a silver mint julep cup.  Add the crushed ice, and pour in the bourbon, then stir.  Top with more crushed ice, so it looks like a cone at the top.  Smake the mint sprig with the palm of your hand to release the flavors, then garnish the cocktail."
+    },
+    {
+        "Id": 10,
+      "CocktailName": "Boilermaker",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/65e66e5330964fdeb6554963a2801aaf.jpg?mw=1300",
+      "Ingredients": "Lager or Pale Ale 8oz, Whiskey 1.5oz",
+      "Directions": "Pour the whiskey into a shot glass.  Fill a pint glass halfway with beer.  Drop the shot glass into the beer."
+    },
+    {
+        "Id": 11,
+      "CocktailName": "Woo Woo",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/b8017dda78224d07b7a8b6051c28e754.jpg?mw=1300",
+      "Ingredients": "Vodka 1oz, Peach Schnapss 1oz, Cranberry Juice 2oz, lime wedge for garnish",
+      "Directions": "Shake the ingredients in a shaker with ice.  Strain into a highball glass filled with ice.  If desired garnish with a lime wedge."
+    },
+    {
+        "Id": 12,
+      "CocktailName": "Shandy",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/ca4573a11d334a64995f1ad0ad8b2fee.jpg?mw=1300",
+      "Ingredients": "Ginger Ale top up, Light Beer 2oz(or half Ginger Ale and half Light Beer)",
+      "Directions": "Mix ingredients together and enjoy."
+    },
+    {
+        "Id": 13,
+      "CocktailName": "Sazerac",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/46e37c2319ff4475924f4588f455053f.jpg?mw=1300",
+      "Ingredients": "Cognac(or, rye whiskey) 1 2/3oz, Absinthe 1/3oz, 1 sugar cube, 2 dashes Peychaud's bitters, Lemon peel for garnish.",
+      "Directions": "Fill one old-fashioned glass with ice, then set it aside.  To the second old-fashioned glass, add the sugar cube, the Cognac, and the Peychaud's bitters.  Muddle the sugar cube until it dissolves, then add the ice and stir.  Throw away the ice from the first old-fashioned glass and rinse it with Absinthe.  Strain the Cognac mixture into the absinthe-rinsed glass.  Lastly, add the lemon peel as garnish."
+    },
+    {
+        "Id": 14,
+      "CocktailName": "Rickey",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/b3eff3af38104414b2c8fc1140b27d93.jpg?mw=1300",
+      "Ingredients": "Gin or Whiskey 2oz, Lime (juiced and shell included), Soda water to top",
+      "Directions": "Add the spirit, the juice of half a lime, and the lime shell to a highball glass filled with ice.  Mix, then top with soda water.  Put in a straw and serve."
+    },
+    {
+        "Id": 15,
+      "CocktailName": "Bay Breeze",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/d74d702a94ca4a4facbb2564818d7877.jpg?mw=1300",
+      "Ingredients": "Vodka 1 1/3 oz, Cranberry juice 4oz, Pineapple juice 1oz",
+      "Directions": "Build the drink in a highball glass filled with ice.  Garnish with a lime wedge, if desired, add a straw and serve."
+    },
+    {
+        "Id": 16,
+      "CocktailName": "Champagne Cocktail",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/57b65eb91707492facbc6ff511722edc.jpg?mw=1300",
+      "Ingredients": "Champagne 3oz, Cognac 1/3oz, Angostura Bitters 2 dashes, 1 sugar cube, Cocktail cherry(optional), orange peel(optional)",
+      "Directions": "Saturate sugar cube with two dashes of Angostura bitters, then put it into a champagne flute."
+    },
+    {
+        "Id": 17,
+      "CocktailName": "Manhattan",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/e3a69ae4eeec44b6acfe4d79f4dd0295.jpg?mw=1300",
+      "Ingredients": "Rye whiskey 1 2/3oz, Sweet red vermout 2/3oz, Angostura bitters 1 dash, Maraschino cherry",
+      "Directions": "Add all the ingredients together with ice cubes to a mixing glass.  Stir, then strain into a cocktail glass.  Garnish with a cherry and serve."
+    },
+    {
+        "Id": 18,
+      "CocktailName": "Wine Cooler",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/3b5543c77a704fd0a8bbfdc7db83432b.jpg?mw=1300",
+      "Ingredients": "Lemon-Lime soda 4oz, Dry red wine 6oz, Lemon peel strip",
+      "Directions": "Combine the ingredients in a glass, server over ice.  Garnish with lemon peel strip."
+    },
+    {
+        "Id": 19,
+      "CocktailName": "Appletini",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/b392297c31cb4f4a926efa7f40a910d1.jpg?mw=1300",
+      "Ingredients": "Apple liqueur 1.5oz, Vodka 1.5oz, 1 1/2 teaspoons lemon juice, Green apple slice for garnish",
+      "Directions": "Fill a shaker three-fourths full with ice.  Add the vodka, apple liqueur and lemon juice.  Cover and shake for 10-15 seconds or until condensation forms on outside of shaker.  Strain into a chilled cocktail glass.  If desired garnish with apple."
+    },
+    {
+        "Id": 20,
+      "CocktailName": "Gin Fizz",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/0fdce0045d3b4d30bf31a32b3a5f2882.jpg?mw=1300",
+      "Ingredients": "Gin 1 1/2oz, Sugar syrup 1/3oz, Fresh lemon juice 1oz, Soda water 2 2/3oz, lemon slice for garnish",
+      "Directions": "Pour the gin, the sugar syrup, and the lemon juice into a shaker and shake.  Then, add the ice and shake for 10 secs max.  Strain into a tumbler glass, top with ice-cold soda water and garnish with a slice of lemon."
+    },
+    {
+        "Id": 21,
+      "CocktailName": "Sea-Breeze",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/4611a509c6a94feb83f600eb11005d97.jpg?mw=1300",
+      "Ingredients": "Grapefruit juice 1oz, Cranberry juice 4oz, Vodka 1.3oz, Lime wedge",
+      "Directions": "Add the vodka, cranberry juice and grapefruit juice into a highball glass with ice and stir.  Garnish with a lime wheel."
+    },
+    {
+        "Id": 22,
+      "CocktailName": "Pink Lady",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/f76376660f9f4714b71e20f67a2c85ce.jpg?mw=1300",
+      "Ingredients": "Egg white 1, Grenadine 0.3oz, Lemon juice 0.5oz, Gin 2oz",
+      "Directions": "Pour the egg white, grenadine, lemon juice, and gin into a cocktail shaker over ice.  Cover, and shake like crazy until the outside of the shaker has frosted.  Strain into a chilled glass to serve."
+    },
+    {
+        "Id": 23,
+      "CocktailName": "Long Island Iced Tea",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/8c8dd7d6d2bd4be1a8d6f538463c5d30.jpg?mw=1300",
+      "Ingredients": "Cola a dash, Lemon juice 0.7oz, Gomme Syrup 1oz, Triple sec 0.5oz, White Rum 0.5oz, Vodka 0.5oz, Tequila 0.5oz, Gin 0.5oz",
+      "Directions": "Fill a cocktail shaker with ice.  Pour vodka, rum, gin, tequila, triple sec, and sour mix over ice, cover and shake.  Pour cocktail into a Collins or hurricane glass; top with splash of cola for color.  Garnish with a lemon slice."
+    },
+    {
+        "Id": 24,
+      "CocktailName": "Jack and Coke",
+      "Region": "North America",
+      "Country": "United States, Canada",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/d4b13d5b4d1d4eb8866134fc604128d0.jpg?mw=1300",
+      "Ingredients": "Coca-Cola to top up, Jack Daniel's 2oz, Lemon Wheel",
+      "Directions": "Pour Jack Daniel's brand Tennessee whiskey into a Collins glass filled with ice.  Fill to desired level with Coca-Cola."
+    },
+    {
+        "Id": 25,
+      "CocktailName": "Margarita",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/05f818de291a48c798703cb3d9bba783.jpg?mw=1300",
+      "Ingredients": "Tequila 1.2oz, Cointreau 0.7oz, Freshly squeezed lime juice 0.5oz, Salt on the rim",
+      "Directions": "Shake all the ingredients in a shaker with ice, then strain into a margarita glass rimmed with salt."
+    },
+    {
+        "Id": 26,
+      "CocktailName": "Mojito",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/48e0be58840a43e4a8c184308cc42286.jpg?mw=1300",
+      "Ingredients": "White Cuban rum 1.3oz, Fresh lime juice 1oz, Yerba Buena mint sprigs 6, White sugar 2 tsp, soda water, sprig of mint (Yerba Buena in the original recipe), Lemon slice",
+      "Directions": "Add the mint leaves, the sugar, and the lime juice to a Collins glass, then muddle them gently to release the mint oils.  Add a splash of soda water, then fill the glass with crushed ice.  Pour the rum and the soda water, and garnish with a sprig of mint and a lemon slice.  Add a straw and serve."
+    },
+    {
+        "Id": 27,
+      "CocktailName": "Pina Colada",
+      "Region": "Latin America",
+      "Country": "Puerto Rico",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/0c9a2f1254d7436da83485a59f2a9954.jpg?mw=1300",
+      "Ingredients": "White rum 1oz, Pineapple juice 3oz, Coconut cream 1oz, Pineapple wedge, Maraschino cherry",
+      "Directions": "Process all the ingredients in a blender with ice then pour into a Hurricane glass or a goblet and serve with a pair of straws, garnished with fresh pineapple and a maraschino cherry."
+    },
+    {
+        "Id": 28,
+      "CocktailName": "Daiquiri",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/1bcacd8be3c24a16aff5d5e4891c7ede.jpg?mw=1300",
+      "Ingredients": "White Cuban rum 2oz, Fresh lime juice 2/3oz, 2 bar spoons 1/8oz",
+      "Directions": "Add the ingredients to a cocktail shaker, then first, stir to dissolve the sugar.  Add the ice to the shaker and shake, then strain into a chilled cocktail glass."
+    },
+    {
+        "Id": 29,
+      "CocktailName": "Cuba Libre",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/fa2fef7d566f453ab68e78cd360f43fc.jpg?mw=1300",
+      "Ingredients": "White rum 1.7oz, Cola 4oz, Fresh lime juice 0.3oz, lime wedge for garnish",
+      "Directions": "Fill a highball glass with ice then add the lime juice, the Cola, and the rum, and give it a gentle stir.  Garnish with a liime wedge and serve."
+    },
+    {
+        "Id": 30,
+      "CocktailName": "Culto a la Vida",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/fefa97c74a184a5f9a65e5ea03ec4e9a.jpg?mw=1300",
+      "Ingredients": "Cranberry juice 4oz, Dark rum 2oz, Lime juice 0.5oz, Sugar 1tsp, Lime wheel",
+      "Directions": "Squeeze limes into a cocktail shaker, drop in lime wedges and stir.  Add rum, simple syrup and cranberry juice.  Shake well; strain into glass filled with fresh ice."
+    },
+    {
+        "Id": 31,
+      "CocktailName": "Michelada",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/6ad658f1f0ae440eb73036e11466560f.jpg?mw=1300",
+      "Ingredients": "Coarse salt, Lime wedges 2, Tomato juice 2oz, Fresh lime juice 1oz, Hot sauce 1/2oz, Worcestershire sauce 1/4oz, Tajin Clasico 1/2tsp, Pale Lager 12oz",
+      "Directions": "Place about 1/4 cup salt on a small plate.  Rub the rim of a Collins or pint glass with one of the lime wedges to moisten it, then dip the rim in the salt to coat.  Combine the Tomato juice, lime juice, hot sauce, Worcestershire sauce, Tajin, and a pinch of salt in a small bowl and mix.  Fill the prepared glass about three quarters full with ice cubes and add the tomato juice mixture.  Top with beer and garnish with the remaining lime wedge."
+    },
+    {
+        "Id": 32,
+      "CocktailName": "Bacardi",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/5b290b4ddc3448aab09a0af4e4fdda95.jpg?mw=1300",
+      "Ingredients": "Bacardi Carta Blanca rum 1 1/2oz, Fresh lime juice 2/3oz, Grenadine 1/3oz",
+      "Directions": "Add all the ingredients to a shaker with ice and shake.  Strain into a chilled cocktail glass."
+    },
+    {
+        "Id": 33,
+      "CocktailName": "Paloma",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/c5e899ac57be48d996efb7225e578c67.jpg?mw=1300",
+      "Ingredients": "Tequila 2oz, Lime juice 1/2oz, Pinch of salt, Grapefruit soda",
+      "Directions": "Add the Tequila, lime juice, the salt, and ice to a highball glass and stir.  Top with grapefruit soda and stir."
+    },
+    {
+        "Id": 34,
+      "CocktailName": "Matador",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/2e8e07dd6d6f4d338d6b0e7a6bb5da7c.jpg?mw=1300",
+      "Ingredients": "Tequila 1 1/2oz, Pineapple juice 3oz, Lime juice 1/2oz",
+      "Directions": "Strain into a chilled cocktail glass. Strain into a chilled cocktail glass."
+    },
+    {
+        "Id": 35,
+      "CocktailName": "Culto a la Vida",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/fefa97c74a184a5f9a65e5ea03ec4e9a.jpg?mw=1300",
+      "Ingredients": "Cranberry juice 4oz, Dark rum 2oz, Lime juice 0.5oz, Sugar 1tsp, Lime wheel",
+      "Directions": "In a Collins glass dissolve the sugar in the lime juice, then add ice.  Next add rum and cranberry juice.  Garnish with the lime wheel."
+    },
+    {
+        "Id": 36,
+      "CocktailName": "Sangrita",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/da7dd0523fcf41348a8ad6a390e68c64.jpg?mw=1300",
+      "Ingredients": "Tomato juice 15oz, Grapefruit juice 6oz, Orange juice 6oz, Lime juice 2oz, Tabasco 2oz, Ground black pepper 2tsp, Salt 1tsp, Jalapeno pepper halved (with seeds) 1",
+      "Directions": "Add all the ingredients into a pitcher and stir until the salt dissolves.  Let stand for 15 to 30 minutes, then remove and discard the jalapeno.  (The longer the jalepeno infuses, the spicier the Sangrita will be.)  Serve as an accompaniment to a shot of tequila."
+    },
+    {
+        "Id": 37,
+      "CocktailName": "White Sangria",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/76ae2ab2570b427896e4b5abed627516.jpg?mw=1300",
+      "Ingredients": "White wine (dry, crisp, chilled) 1 750ml bottle, Strawberries 1 cup, Ripe peach or nectarine(thinly sliced) 1, Green apple(cored, skin, chopped into small pieces) 1/2, Apple brandy 1/4 cup, Organic Cane sugar 1/4 cup, Lemon(thinly sliced into rounds) 1, Lime(thinly sliced into rounds) 1",
+      "Directions": "Add lime, lemon and sugar to a large pitcher and muddle with a muddler or gently crush with a wooden spoon for 45 seconds.  Add Apple brandy and muddle again.  Add apple, nectarine and strawberries and stir to incorporate.  Then add wine and stir once more.  Taste and adjust flavor as needed, adding more sweetener of choice for sweetness, lemon or lime juice for acidity, or fruit.  Add ice or frozen berries and stir once more to chill.  Serve as is or with a bit more ice and mint."
+    },
+    {
+        "Id": 38,
+      "CocktailName": "Frozen Daiquiri",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/b006df0d6c184cc0a7a40b0afb7618ae.jpg?mw=1300",
+      "Ingredients": "Light rum 3oz, Lime juice 1 1/2oz, Simple syrup 1 1/2oz, Crushed ice, Lime wedge for garnish",
+      "Directions": "In a blender, combine all ingredients.  Cover and blend on high until smooth.  Pour beverage into your favorite style of cocktail glass.  Garnish with lime wedge."
+    },
+    {
+        "Id": 39,
+      "CocktailName": "Tequila and Tonic",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/a9ffb82409854b189366a19b7990de0e.jpg?mw=1300",
+      "Ingredients": "Tequila 2oz, Tonic water 5oz, Lime wedge",
+      "Directions": "Fill a highball glass with ice.  Squeeze the lime over the ice and drop into glass.  Add tequila and top with tonic."
+    },
+    {
+        "Id": 40,
+      "CocktailName": "Hemingway Special",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/00f93c8edb504650b4be1140e4814823.jpg?mw=1300",
+      "Ingredients": "White rum 2oz, Grapefruit juice 1.3oz, Maraschino 0.5oz, Lime juice 0.5oz",
+      "Directions": "Gather ingredients, In a cocktail shaker filled with ice, pour the rum, maraschino liquer, and grapefruit and lime juices.  Shake well.  Strain into a chilled cocktail glass.  Garnish with a lime wheel.  Serve and enjoy."
+    },
+    {
+        "Id": 41,
+      "CocktailName": "Rossini",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/dd7535b04b6646ff8e96b9d4813c263c.jpg?mw=1300",
+      "Ingredients": "Prosecco 3oz, Strawberry puree 1oz, Strawberry slices for garnish",
+      "Directions": "First, pour in the strawberry puree into a chilled Champagne flute.  Top with Prosecco and garnish with a strawberry."
+    },
+    {
+        "Id": 42,
+      "CocktailName": "Jagertee",
+      "Region": "Europe",
+      "Country": "Austria, Germany",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/07b46b7f0ac64002be7b618c724a7464.jpg?mw=1300",
+      "Ingredients": "Black tea 6.7oz, Rum 0.7oz, Cloves 2, Sugar 1tsp, Cinnamon 1 stick",
+      "Directions": "Boil water and add black tea, sugar, cloves and cinnamon.  After about 5-7 minutes, remove the tea spices and fill into a cup and add the rum.  Enjoy."
+    },
+    {
+        "Id": 43,
+      "CocktailName": "Mulled Wine",
+      "Region": "Europe",
+      "Country": "Austria, Germany",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/0641d131eb8c494b900225fe2ae18add.jpg?mw=1300",
+      "Ingredients": "Wine(dry red or white), Fresh oranges, Cinnamon, Mulling spices, Sweetener, Extra liqueur",
+      "Directions": "Combine ingredients in saucepan and stir.  Heat until wine just barely reaches a simmer over a medium-high heat.(Don't let it bubble or it will burn off the alcohol)  Reduce heat to low and cover let wine simmer for at least 15 minutes up to 3 hours.  Strain and season.  Using a fine mesh strainer, remove and discard the orange slices, cloves, cinnamon sticks, star anise and ginger.  Serve warm."
+    },
+    {
+        "Id": 44,
+      "CocktailName": "Gemist",
+      "Region": "Eastern Europe",
+      "Country": "Croatia",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/c9488e0f3e4a44f19dfe7d8f336d479d.jpg?mw=1300",
+      "Ingredients": "White wine, Sparkling water",
+      "Directions": "For a strong drink, mix 2 parts sparkling water with 8 parts wine.  For a midday refreshment mix 1/2 sparkling water and 1/2 wine."
+    },
+    {
+        "Id": 45,
+      "CocktailName": "Agua de Sevilla",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/1B801066-C5D8-408C-94D0-CEDD4C746334/Derivates/41A70BEE-1DC9-49DC-9BF4-46656D85225A.jpg",
+      "Ingredients": "Pineapple juice 1L, Cava sparkling wine 1 Bottle, Whiskey 1 cup, Cointreau 1 cup, Ice, Heavy cream(optional)",
+      "Directions": "Crush the ice until it is shaved and serve in champagne glasses with a leaf of hierba buena."
+    },
+    {
+        "Id": 46,
+      "CocktailName": "Sol y Sombra",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/d6b97b436da148d88f43ecac6a9075c1.jpg?mw=1300",
+      "Ingredients": "1 1/2 Brandy, 1 1/2oz Anisette",
+      "Directions": "Shake ingredients with ice, strain into a brandy snifter and serve."
+    },
+    {
+        "Id": 47,
+      "CocktailName": "Corpse Reviver",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/71601edab52147868e18576b2e661a29.jpg?mw=1300",
+      "Ingredients": "Gin 1oz, Cointreau 1/2oz, Lillet Blonde 1/2oz, Fresh Lemon Juice 3/4oz, Dash Absinthe, Orange or Lemon twist for garnish",
+      "Directions": "Combine gin, Cointreau, Lillet, Lemon Juice, and absinthe in a cocktail shaker.  Shake with ice until well chilled.  Strain into a cocktail glass and garnish with twist if desired."
+    },
+    {
+        "Id": 48,
+      "CocktailName": "Boulevardier",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/ea57a0739b8e4b68af0f4151ff25898c.jpg?mw=1300",
+      "Ingredients": "Campari 1oz, Sweet red vermouth 1oz, Rye whisky or bourbon 1 to 1.5oz",
+      "Directions": "Stir with ice, strain, garnish and serve over ice in a old-fashioned glass.  Garnish with Cherry, Orange peel."
+    },
+    {
+        "Id": 49,
+      "CocktailName": "Rebujito",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/84c3d05c796d422ab72785b5580c7b63.jpg?mw=1300",
+      "Ingredients": "Fino Sherry 2 1/2oz, Sprite/7Up 3 1/2oz.",
+      "Directions": "Pour ingredients into Collins glass filled with ice."
+    },
+    {
+        "Id": 50,
+      "CocktailName": "John Collins",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/82c844e2aa414100b10ac12ae4cd97f8.jpg?mw=1300",
+      "Ingredients": "London Dry Gin 1.5oz, Lemon juice 1oz, Angostura bitter a dash, Sugar Syrup 0.5oz, Soda Water 2oz, Maraschino Cherry, Lemon.",
+      "Directions": "Combine bourbon, lemon juice, and simple syrup in a cocktail shaker.  Add 1 cup ice, cover and shake until chilled.  Strain into a Collins glass.  Add 1 cup ice, fill with club soda and stir.  Garnish with slice of orange and lemon and maraschino cherry."
+    },
+    {
+        "Id": 51,
+      "CocktailName": "Pink Gin",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/0dfc85c3561d425c8ed614a729b97580.jpg?mw=1300",
+      "Ingredients": "Pink Gin 2oz, Tonic water 4oz, Lime juice 1/2oz",
+      "Directions": "Add Pink Gin and lime juice to a shaker with ice.  Shake vigorously.  Pour in tonic and stir.  Pour cocktail with ice into glass.  You can garnish with lime, herbs and some nice flowers."
+    },
+    {
+        "Id": 52,
+      "CocktailName": "Krambambula",
+      "Region": "Eastern Europe",
+      "Country": "Belarus", 
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/23cf471cb9014285a1c45acbc4950d94.jpg?mw=1300",
+      "Ingredients": "Water 250ml, Vodka 0.5L, Liquid Honey 3tbsp, 3 Peppercorns, Cinnamon Stick 1, Cloves 3 buds, Nutmeg 1 pinch, Allspices 3.",
+      "Directions": "Crush nutmeg, cloves, and allspice in mortar or coffee grinder.  Pour water 250ml of vodka in cooking pot.  Add crushed or milled spices and cinnamon stick and stir.  Bring to boil at low heat.  Cover with lid and simmer for 10 minutes.  Take pot off the stove and cool it to 50-60C.  Add vodka(250ml) and honey. Stir.  Cover with a lid and leave for 5 minutes.  Strain the infusion through 2-3 layers of cheesecloth and decant into a fermentation container.  Infuse for 8-10 days in dark place at room temperature.  Decant your homemade Krambambula through a tube into a storing container."
+    },
+    {
+        "Id": 53,
+      "CocktailName": "Yorsh",
+      "Region": "Eastern Europe",
+      "Country": "Russia",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/504cea329f884ea8b761fb78e4aacadc.jpg?mw=1300",
+      "Ingredients": "Beer 9oz, Vodka 2oz.",
+      "Directions": "Fill chilled mug with any beer.  Pour vodka over top and serve without stirring."
+    },
+    {
+        "Id": 54,
+      "CocktailName": "Karsk",
+      "Region": "Eastern Europe",
+      "Country": "Norway",
+      "Image": "https://laboratorioespresso.it/wp-content/uploads/2019/12/karsk-norvegese-710x470.jpeg",
+      "Ingredients": "Cofee, Alcohol",
+      "Directions": "Put a coin in a cup, add coffee until you can't see the coin.  Add alcohol until you do see the coin."
+    },
+    {
+        "Id": 55,
+      "CocktailName": "Jagerbomb",
+      "Region": "Europe",
+      "Country": "Germany",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/62be1505d09845c7b7d32ea5d5ffac62.jpg?mw=1300",
+      "Ingredients": "Jagermeister 1 shot, Red Bull 1/2",
+      "Directions": "Fill a shot glass with Jagermeister, Pour half a can of Red Bull into a pub glass.  Drop a shot glass into a pub glass.  Guzzle it down in one take."
+    },
+    {
+        "Id": 56,
+      "CocktailName": "Agua de Valencia",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/4a692bf23d4f41808ae808c75588ecbc.jpg?mw=1300",
+      "Ingredients": "Orange juice 17oz, Cava Semisweet sparkling wine 10oz, Vodka 3.4oz, Gin 3.4oz",
+      "Directions": "Mix together all ingredients in a 1 liter pitcher or carafe.  Serve in champagne or martini cocktail glasses."
+    },
+    {
+        "Id": 57,
+      "CocktailName": "French 75",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/03f7783293974bc8a155a9aa48b89ab2.jpg?mw=1300",
+      "Ingredients": "Gin 1oz, Sugar Syrup 2 dashes, Lemon juice 1/2oz, Champagne 2oz",
+      "Directions": "Add the gin, the sugar syrup, the lemon juice, and the ice to a shaker.  Shake and double strain into a champagne flute.  Top with Champagne."
+    },
+    {
+        "Id": 58,
+      "CocktailName": "Between the Sheets",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/5de7523ee97641c6bb5b862790fd3a18.jpg?mw=1300",
+      "Ingredients": "Rum 1oz, Cognac 1oz, Triple Sec 1oz, Lemon Juice 0.7oz",
+      "Directions": "Shake all the ingredients with ice and fine strain into a chilled glass.  Garnish with Lemon zest twist."
+    },
+    {
+        "Id": 59,
+      "CocktailName": "Rose",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/3f8791c218a84430893acfd6b545f0aa.jpg?mw=1300",
+      "Ingredients": "Gin 1.5oz, Dry Vermout 0.5oz, Cherry Brandy 0.5oz",
+      "Directions": "Stir all ingredients with ice, strain into a cocktail glass and serve."
+    },
+    {
+        "Id": 60,
+      "CocktailName": "Bombardino",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/274b15da526d4ddc83b079e86db436b5.jpg?mw=1300",
+      "Ingredients": "Vov 2 parts, Whiskey or Brandy 1 part, Whipped cream, Cinnamon, for garnish.",
+      "Directions": "Heat the VOV but do not let it boil.  Add whisky and stir.  Pour into an Irish coffee mug, top with whipped cream, and sprinkle with cinnamon."
+    },
+    {
+        "Id": 61,
+      "CocktailName": "Spritzer",
+      "Region": "Europe",
+      "Country": "Austria",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/4b3f1b6c922d467091151a4825692222.jpg?mw=1300",
+      "Ingredients": "Dry White Wine 1 part, Soda Water 1 part.",
+      "Directions": "First add the soda water to the glass, then pour in the wine."
+    },
+    {
+        "Id": 62,
+      "CocktailName": "Gluhwein",
+      "Region": "Europe",
+      "Country": "Germany",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/c036b37bd9dd4ab2885b1e42061f1a82.jpg?mw=1300",
+      "Ingredients": "Red wine 1 bottle(750ml), Whole cloves 10, Orange 1, Cinnamon stick 1, White Sugar 3/4 cup, Water 3/4 cup.",
+      "Directions": "In a saucepan, combine the water, sugar, and cinnamon stick.  Bring to boil, reduce heat and simmer.  Cut orange in half, and squeeze the juice into the simmering water.  Push the cloves into the outside of the orange peel, and place peel in the simmering water.  Continue simmering for 30 minutes, until thick and syrupy.  Pour in the wine, and heat until steaming but not simmering.  Remove the clove-studded orange halves.  Serve hot in mugs or glasses that have been pre-heated in warm water."
+    },
+    {
+        "Id": 63,
+      "CocktailName": "Vesper",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/c59eef82a5224cfcacf25ac3368e1f3c.jpg?mw=1300",
+      "Ingredients": "Gin 2oz, Vodka 2/3oz, Lillet Blanc 1/3oz, Lemon twist for garnish",
+      "Directions": "Add all the ingredients to a shaker together with ice.  Shake, then strain into a chilled champagne goblet or a cocktail glass.  Garnish with a lemon twist.  Optionally, you can express the lemon oils over the drink before you drop the lemon peel into the cocktail."
+    },
+    {
+        "Id": 64,
+      "CocktailName": "Gimlet",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/ff88c8bd71ac4e15bf655add51eb2c16.jpg?mw=1300",
+      "Ingredients": "Gin 2oz, Lime Cordial 3/4oz, Lime wedge or lime wheel, for garnish",
+      "Directions": "Add the ice, the gin, and the lime cordial to a mixing glass.  Stir, then strain into a chilled cocktail or a couple glass.  If desired, garnish with a lime wedge or a lime wheel."
+    },
+    {
+        "Id": 65,
+      "CocktailName": "Earthquake",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/5ae03c01fe044973b1fd90f2d282640e.jpg?mw=1300",
+      "Ingredients": "Absinthe 3oz, Cognac 3oz",
+      "Directions": "Mix the absinthe and the cognac in a mixing glass, then pour into a chilled cocktail glass."
+    },
+    {
+        "Id": 66,
+      "CocktailName": "Kalimotxo",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/5467672a201247659da53a113e456891.jpg?mw=1300",
+      "Ingredients": "Coca-Cola 4oz, Rioja Wine 4oz, Lemon Wheel",
+      "Directions": "Stir together over plenty of ice.  Serve on the rocks."
+    },
+    {
+        "Id": 67,
+      "CocktailName": "Rum Swizzle",
+      "Region": "Europe",
+      "Country": "Bermuda",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/cf9d6af2c1934fc9a89fa7f568b39a7d.jpg?mw=1300",
+      "Ingredients": "Gosling's Black Seal rum 4oz, Gosling's Gold Seal rum 4oz, Orange Juice 8oz, Pineapple juice 8oz, Grenadine 3/4oz, Angostura bitters 6 dashes, Garnish with orange slice, pineapple wedge, cherry.",
+      "Directions": "Fill a pitcher a third of the way with crushed ice, then add the two rums, orange juice, pineapple juice grenadine and bitters.  Churn vigorously with a swizzle stick until frothing.  Fill four rocks glasses with fresh ice, and divide the contents of the pitcher between glasses.  Garnish each drink with an orange slice, a pineapple wedge and a cherry."
+    },
+    {
+        "Id": 68,
+      "CocktailName": "Bramble",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/c1e596e5277842fc8e440d654a4ed5ad.jpg?mw=1300",
+      "Ingredients": "Gin 1 1/3oz, Sugar syrup 1/3oz, Fresh lemon juice 1/2oz, Blackberry liqueur 1/2oz, Lemon slice and 2 blackberries for garnish.",
+      "Directions": "Fill an Old-Fashioned glass with crushed ice, then pour in the gin, the sugar syrup, and the lemon juice."
+    },
+    {
+        "Id": 69,
+      "CocktailName": "Snakebite",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/28e1cbbfd04a4a65a8af8723cd4dabb7.jpg?mw=1300",
+      "Ingredients": "Lager beer 8oz, Cider 8oz",
+      "Directions": "Fill a chilled beer glass halfway full with cider.  Top the cider with choice of beer-preferably lager or stout-and serve."
+    },
+    {
+        "Id": 70,
+      "CocktailName": "Espresso Martini",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/6c9bde9a4da64188a9de0d29b658bf01.jpg?mw=1300",
+      "Ingredients": "Vodka 1 2/3oz, Kahlua 1/3oz, Sugar syrup, Short Strong Espresso, 3 coffee beans for garnish.",
+      "Directions": "Put all the ingredients, plus ice, into a shaker, then shake and strain into a pre-chilled cocktail glass.  Garnish with three coffee beans."
+    },
+    {
+        "Id": 71,
+      "CocktailName": "Boilermaker",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/65e66e5330964fdeb6554963a2801aaf.jpg?mw=1300",
+      "Ingredients": "Lager or Pale Ale 8oz, Whiskey 1.5oz.",
+      "Directions": "Pour the whiskey into a shot glass.  Fill a pint glass halfway with beer.  Drop the shot glass into the beer."
+    },
+    {
+        "Id": 72,
+      "CocktailName": "Black Velvet",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/4ef49806e5274139bc05db96d9aa50b1.jpg?mw=1300",
+      "Ingredients": "Chilled Champagen 4oz, Chilled Stout 4oz",
+      "Directions": "Pour the Champagne into a wine flute, filling the glass about halfway.  Slowly pour the stout on top to fill the glass.  Serve and enjoy."
+    },
+    {
+        "Id": 73,
+      "CocktailName": "Rakomelo",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/a341e121d3064e0a9e70586004a5787d.jpg?mw=1300",
+      "Ingredients": "Raki(or Grappa) 1/2 cup, Honey 2tsp, Cinammon stick 1, Clove buds 2",
+      "Directions": "Add the raki in the briki along with honey and the spices.  Warm up the liquid on low heat, while stirring until honey melts.  Remove from heat when it is just about to come to a boil, and let it sit for a few minutes.  Strain and serve in shot glasses."
+    },
+    {
+        "Id": 74,
+      "CocktailName": "Kir Royale",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/77501b39739f4dba926af8192d53c2ba.jpg?mw=1300",
+      "Ingredients": "Creme de cassis liqueur 1/4oz, Dry white wine 5oz",
+      "Directions": "Gather the ingredients.  In a wine glass pour the creme de cassis.  Slowly add the dry white wine.  Serve and enjoy."
+    },
+    {
+        "Id": 75,
+      "CocktailName": "French 75",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/03f7783293974bc8a155a9aa48b89ab2.jpg?mw=1300",
+      "Ingredients": "Gin 1oz, Sugar syrup 2 dashes, Lemon juice 1/2oz, Champagne 2oz",
+      "Directions": "Add the gin, the sugar syrup, the lemon juice, and the ice to a shaker.  Shake and double strain into a champagne flute.  Top with Champagne."
+    },
+    {
+      "Id": 76,
+      "CocktailName": "Mulled Wine",
+      "Region": "Europe",
+      "Country": "Italy, Greece",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/0641d131eb8c494b900225fe2ae18add.jpg?mw=1300",
+      "Ingredients": "Wine(dry red or white), Fresh oranges, Cinnamon, Mulling spices, Sweetener, Extra liqueur",
+      "Directions": "Combine ingredients in saucepan and stir.  Heat until wine just barely reaches a simmer over a medium-high heat.(Don't let it bubble or it will burn off the alcohol)  Reduce heat to low and cover let wine simmer for at least 15 minutes up to 3 hours.  Strain and season.  Using a fine mesh strainer, remove and discard the orange slices, cloves, cinnamon sticks, star anise and ginger.  Serve warm."
+    },
+    {
+      "Id": 77,
+      "CocktailName": "Feuerzangenbowle",
+      "Region": "Europe",
+      "Country": "Germany",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/ceeb49d3d35548909326ed443f140322.jpg?mw=1300",
+      "Ingredients": "Oranges 2, Lemons 2, Dry Red Wine 2 bottles, Cinnamon stick 1, Cloves 5, Ginger 1 pinch ground, Sugar cone 1, Brown rum 2 cups(54% alcohol or more)",
+      "Directions": "Wash oranges and lemons, pat dry and cut into slices or wedges.  In a large pot combine red wine, oranges, lemons, cinammon, cloves and ginger.  Heat slowly making sure it does not come to a boil.  Remove pot from heat source and pace on a heat source(such as a Fondue set)  Place sugar cone into metal holder('Feuerzange') Soak sugar cone with rum and carefully light it.  The sugar will melt and drip into the wine.  Little by little start adding more rum to the sugar cone using a long-handled ladle.  Once sugar cone and rum have completely burned off, gently stir the concoction and serve in mugs or heatproof glasses."
+    },
+    {
+      "Id": 78,
+      "CocktailName": "Americano",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/50ea4031c55442b8a481757b96590630.jpg?mw=1300",
+      "Ingredients": "Red vermouth 1oz, Soda water splash, Campari 1oz",
+      "Directions": "Fill a highball glass with ice, then add the Campari and sweet vermouth.  Top with club soda and stir gently to combine.  Garnish with an orange twist."
+    },
+    {
+      "Id": 79,
+      "CocktailName": "Dark 'n' Stormy",
+      "Region": "Europe",
+      "Country": "Bermuda",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/c378e14db1804456b6a7aea82b5d981d.jpg?mw=1300",
+      "Ingredients": "Dark rum 2oz, ginger beer 3-4oz, Lime wedge",
+      "Directions": "In a highball glass filled with ice, add dark rum and top with ginger beer.  Garnish with lime wedge."
+    },
+    {
+      "Id": 80,
+      "CocktailName": "Black Russian",
+      "Region": "Europe",
+      "Country": "Belgium",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/2fb9c2ff884a4148b221552f31f9084b.jpg?mw=1300",
+      "Ingredients": "Coffee liqueur 0.7oz, Vodka 1.7oz",
+      "Directions": "Pour the ingredients into an old fashioned glass filled with ice cubes.  Stir gently."
+    },
+    {
+      "Id": 81,
+      "CocktailName": "U-Boot",
+      "Region": "Europe",
+      "Country": "Germany",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/bfdec5a7d1d4427f810bd223aabf84d8.jpg?mw=1300",
+      "Ingredients": "Lager or Pale Ale 16oz, Vodka 1.5oz",
+      "Directions": "Fill a shot glass with Vodka.  Fill a beer glass with the beer.  Drop the shot glass with Vodka into the beer glass.  Drink fast."
+    },
+    {
+      "Id": 82,
+      "CocktailName": "Rakomelo",
+      "Region": "Europe",
+      "Country": "Greece",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/a341e121d3064e0a9e70586004a5787d.jpg?mw=1300",
+      "Ingredients": "Raki(or Grappa) 1/2 cup, Honey 2tsp, Cinammon stick 1, Clove buds 2",
+      "Directions": "Add the raki in the briki along with honey and the spices.  Warm up the liquid on low heat, while stirring until honey melts.  Remove from heat when it is just about to come to a boil, and let it sit for a few minutes.  Strain and serve in shot glasses."
+    },
+    {
+      "Id": 83,
+      "CocktailName": "Tschunk",
+      "Region": "Europe",
+      "Country": "Germany",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/2e51c7f1cd2f40cd91a716d9682dd239.jpg?mw=1300",
+      "Ingredients": "Gold rum 2oz, Fresh Lime(cut into wedges) 1, Cane Sugar 1tsp, Club-Mate, Crushed ice",
+      "Directions": "Dice limes, put them together with the brown sugar into a high glass and crush both.  Add crushed ice and pour the rum and the Club Mate over it.  Serve with a straw."
+    },
+    {
+      "Id": 84,
+      "CocktailName": "Tinto de Verano",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/ff02e5ce776c46c28de3e4df02375c1d.jpg?mw=1300",
+      "Ingredients": "Red table wine 1 part, Lemon-flavored soft drink 1 part, Lemon wheel for garnish.",
+      "Directions": "Add all the ingredients to a highball glass filled with ice and stir.  Garnish with a lemon wheel."
+    },
+    {
+      "Id": 85,
+      "CocktailName": "Monkey Gland",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/32b78c022a09461392785cfdc30e738d.jpg?mw=1300",
+      "Ingredients": "Gin 1.7oz, Orange juice 1oz, Absinth 2 drops, Grenadine 2 drops",
+      "Directions": "Swirl a dash of absinthe in a chilled cocktail glass to coat it, then discard any excess liqueur.  In a cocktail shaker filled with ice cubes, pour the gin, orange juice, and grenadine.  Shake well.  Strain into the prepared glass.  Garnish with an orange slice or a flamed orange peel.  Serve and enjoy."
+    },
+    {
+      "Id": 86,
+      "CocktailName": "Blue Lagoon",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/390b2b47621e47ceb156547611723167.jpg?mw=1300",
+      "Ingredients": "Lemonade 5oz, Curacao 1 1/2oz, Vodka 1 1/2oz, Ice, Citrus slices or Cherries for garnish.",
+      "Directions": "Add ice to a tall glass, Pour in the lemonade.  Top with Curacao and Vodka and use a drink stirrer to mix together the ingredients.  Garnish with citrus slices or cherries."
+    },
+    {
+      "Id": 87,
+      "CocktailName": "Glogg",
+      "Region": "Europe",
+      "Country": "Sweden",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/9c2a827b74794acdb03bf924ca48298a.jpg?mw=1300",
+      "Ingredients": "Red wine 1 bottle, Bourbon (Vodka) 1 1/2 cup, Sugar 1/2 cup, Orange Zest 2 tbsp, Raisins 2tbsp, Cardamom pods 1tbsp, Ginger root 2 tbsp, Cinnamon 1, Cloves 8, Almonds 2 tbsp, Orange slices.",
+      "Directions": "Combine the wine, bourbon or vodka, sugar, orange zest, raisins, cardamom pods, ginger root, cinnamon stick, and cloves into a 2-3 quart pot."
+    },
+    {
+      "Id": 88,
+      "CocktailName": "Spritz Veneziano",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/7cb73f8567074fb2a60196b98874db5d.jpg?mw=1300",
+      "Ingredients": "Prosecco 2oz, Aperol 1 1/3oz, Soda Water a splash, Orange slice for garnish",
+      "Directions": "Add the prosecco and the Aperol to an old fashioned glass, fill with ice, then add a splash of soda water.  Stir briefly, garnish with half of an orange slice and serve."
+    },
+    {
+      "Id": 89,
+      "CocktailName": "Black and Tan",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/d35b18664a544e619628e388f8d43b7f.jpg?mw=1300",
+      "Ingredients": "Stout 8oz, Pale Ale 8oz",
+      "Directions": "Pour Pale Ale into a pint glass.  Now pour the stout into the pint glass slowly over the back of the spoon."
+    },
+    {
+      "Id": 90,
+      "CocktailName": "Death in the Afternoon",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/f31c9c08d0bf4b12acf58327c440ce6b.jpg?mw=1300",
+      "Ingredients": "Absinthe 1 1/2oz, Very cold Champagne",
+      "Directions": "Pour the absinthe into a Champagne flute, then pour in the ice-cold Champagne until filled."
+    },
+    {
+      "Id": 91,
+      "CocktailName": "Kir",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/84842ee5def74fbb98181737e3f44549.jpg?mw=1300",
+      "Ingredients": "Dry White wine 3oz, Creme de cassis 0.3oz",
+      "Directions": "First, pour creme de cassis into a white wine glass, then add the white wine."
+    },
+    {
+      "Id": 92,
+      "CocktailName": "Vino Navegado",
+      "Region": "Latin America",
+      "Country": "Chile",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/8079888d33c0449c9343179fb0241003.jpg?mw=1300",
+      "Ingredients": "Merlot or Cabernet Sauvignon 1 bottle, Clementines 2 sliced with peel on, White sugar to taste 1/2 cup, Anise Stars 3, Cinnamon stick 1",
+      "Directions": "Add all ingredients into a small medium saucepan.  Warm wine mixture over low-medium heat, stirring once in a while.  DO NOT boil.  Lower heat and simmer for about 3 minutes.  Serve warm in hot tea cups or mugs.  Garnish with Clementine slices, cinnamon sticks."
+    },
+    {
+      "Id": 93,
+      "CocktailName": "Negroni",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/993c2e421d894aa2aca4b2b9a32c0ca7.jpg?mw=1300",
+      "Ingredients": "Gin 1oz, Campari 1oz, Sweet red vermout 1oz, half and orange slice.",
+      "Directions": "Add all the ingredients to an old fashioned glass, then add the ice and stir.  Garnish with half of an orange slice and serve."
+    },
+    {
+      "Id": 94,
+      "CocktailName": "Bellini",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/c8f1e3e54e6a408ba0a366ebe6daa9a7.jpg?mw=1300",
+      "Ingredients": "Prosecco 3-4oz, Fresh peach puree 1.7oz",
+      "Directions": "First, pour the peach puree into a well-chilled champagne flute, then top with Prosecco, and stir gently."
+    },
+    {
+      "Id": 95,
+      "CocktailName": "Mimosa",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/a21c2d2b08634fa788a76e29987dbaf4.jpg?mw=1300",
+      "Ingredients": "Champagne 2.5oz, Orange juice 2.5oz",
+      "Directions": "Pour first, the orange juice into a flute, and then the Champagne.  Stir carefully and serve."
+    },
+    {
+      "Id": 96,
+      "CocktailName": "Sangria",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/3f78baf112b444f599ad31dc78f9e047.jpg?mw=1300",
+      "Ingredients": "Red wine 1 bottle, Soda 1 bottle, Sugar 7oz, Orange 1, Lemon 1, Ice",
+      "Directions": "Cut the lemon and orange in pieces, remove the seeds, and put them in a large pitcher.  Add the sugar and the wine.  Mix with a spoon, then cover tightly with a plastic wrap and refrigerate for 2-3 hours.  Once ready to serve, add the soda water, then divide the sangria and ice between four large glasses."
+    },
+    {
+      "Id": 97,
+      "CocktailName": "Caipiroska",
+      "Region": "Latin America",
+      "Country": "Brazil",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/77e977811b714750872f7ec099209c4b.jpg?mw=1300",
+      "Ingredients": "Vodka 2oz, Lime 1/2(cut into quarters), Brown Sugar 2 heaped tsp, Lime Wedge or Wheel, for garnish.",
+      "Directions": "Muddle the lime quarters and the sugar in a rocks glass.  Once the juice has been released, pour in the vodka and the crushed ice, and stir.  Garnish with a lime wedge or a wheel."
+    },
+    {
+      "Id": 98,
+      "CocktailName": "Batida",
+      "Region": "Latin America",
+      "Country": "Brazil",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/b30808114ad9413fa3531dd443c7f1aa.jpg?mw=1300",
+      "Ingredients": "1 part fruit juice, 1 tbsp sugar, 2 parts Cachaca",
+      "Directions": "Mix and pour into chilled glass."
+    },
+    {
+      "Id": 99,
+      "CocktailName": "Caipirinha",
+      "Region": "Latin America",
+      "Country": "Brazil",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/a0321bc195a941638fe1e80664e60d9f.jpg?mw=1300",
+      "Ingredients": "Cachaca 2oz, Fresh lime 1/2(4 wedges), Sugar 4tsp",
+      "Directions": "Put the lime wedges and the sugar in a rocks glass.  Muddle to release the juice.  Add the ice and the Cachaca to the glass and stir.  Top with more ice and serve."
+    },
+    {
+      "Id": 100,
+      "CocktailName": "Oinomelo",
+      "Region": "Europe",
+      "Country": "Greece",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/ff9c5f6390b84b9f81275c1c373abf9e.jpg?mw=1300",
+      "Ingredients": "Semi-sweet red wine 1 bottle, Honey 5tbsp, Cinnamon sticks 2, Whole cloves 4-5, Orange 1",
+      "Directions": "Pour the wine in a sauce pan and bring to a boil.  As soon as the wine starts to get frothy, turn the heat down to low and add the rest of the ingredients.  Let the wine simmer, whilst stirring for about 10 minutes.  Until the honey melts and the flavors combine."
+    },
+    {
+      "Id": 101,
+      "CocktailName": "Ginza Mary",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://3.bp.blogspot.com/-8_V3OSxFR_I/WMVmb0G78AI/AAAAAAAADSY/GJg-O5YdfGMJOGCt3IU01HaIKzGeTYHLACLcB/s640/IMG_5231.jpg",
+      "Ingredients": "Vodka 1oz, Sake 1oz, Tomato juice 2oz, Lemon juice 0.5oz, Tabasco sauce 2-5 dashes, Soy sauce 2 dashes, Ground black pepper.  Ice.",
+      "Directions": "Add vodka, sake, tomato juice, lemon juice, tabasco, soy sauce, and ice to a cocktail shaker.  Shake to combine.  Strain into a short ice-filled glass.  Garnish with ground black pepper."
+    },
+    {
+      "Id": 102,
+      "CocktailName": "Tamagozake",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://i.pinimg.com/originals/98/cc/93/98cc93e80f91d472caac4829f692092d.png",
+      "Ingredients": "Pasteurized Egg 1, Sake(Junmai-shu) 1 cup, Ginger 1 slice, Sugar 1-2tbsp",
+      "Directions": "Break egg into a small bowl and mix well with sugar.  Heat up sake in a small pot over low heat.  Whisk in just a little bit of hot sake into the egg mixture.  Gradually and very slowly, pour in the rest of the sake while whisking.  Adding the sake too quickly will cause the egg to coagulate.  Mix well until the texture becomes foamy."
+    },
+    {
+      "Id": 103,
+      "CocktailName": "Sake Bomb",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/4a1f0ff4d8924b5b861bd143f86571e3.jpg?mw=1300",
+      "Ingredients": "Beer 1 pint, Sake 1 shot",
+      "Directions": "The shot of sake is dropped into the beer, causing it to fizz violently.  The drink should then be consumed immediately."
+    },
+ 
+    {
+      "Id": 104,
+      "CocktailName": "Chuhai",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/2d9cb047c2ec4fffa4dc2a322274f37a.jpg?mw=1300",
+      "Ingredients": "Club soda 1/2 cup, Shochu 1/4 cup, Simple syrup 1tbsp, Yuzu juice 1tsp, ice cubes, Korean citron tea 1-2tbsp, lime",
+      "Directions": "Combine club soda, shochu, simple syrup, and yuzu extract in a glass and mix well.  Add ice cube and Korean citron tea and mix well.  Garnish with a slice of lime, and serve immeiately."
+    },
+    {
+      "Id": 105,
+      "CocktailName": "Kamikaze",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/937ba406a07746e1a104c1e501cb8c42.jpg?mw=1300",
+      "Ingredients": "Vodka 1oz, Triple Sec 1oz, Fresh Lime juice 1oz, Lime wheel for garnish",
+      "Directions": "Add all the ingredients and ice to a shaker.  Shake and strain into a chilled cocktail glass.  If desired, garnish with a lime wheel, and serve."
+    },
+    {
+      "Id": 106,
+      "CocktailName": "Highball(Japan)",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/994dddaec68b419e8224c1457a16271e.jpg?mw=1300",
+      "Ingredients": "Japanese whisky 2oz, Soda water to top(3-4 times amount of whisky)",
+      "Directions": "Add a large ice cube to a highball glass.  With a bar spoon, stir until frost appears on the glass-in case the ice melts, pour off the leftover water.  Add another ice cube to the glass, then top with whisky, and stir with a bar spoon 13 1/2 times clockwise.  Now add a third ice cube, filling the glass with ice completely.  Pour the soda water into the glass, taking care not to touch the ice.  With a bar spoon, stir the drink three times, then gently lift the ice to incorporate the two drinks without disturbing bubbles."
+    },
+    {
+      "Id": 107,
+      "CocktailName": "Whisky Mac",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/ac1b1252632e4073af389645c7ee806a.jpg?mw=1300",
+      "Ingredients": "Scotch 1 1/2oz, Stone's Original green ginger wine 1oz",
+      "Directions": "Fill an old fashioned glass with ice.  Add scotch and green ginger wine, and lightly stir to combine."
+    },
+    {
+      "Id": 108,
+      "CocktailName": "Refajo",
+      "Region": "Latin America",
+      "Country": "Columbia",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/6ac5f79e1426477aa059c0857565ea09.jpg?mw=1300",
+      "Ingredients": "Colombiana Soda 1L, Beer 2L, ice 4 cups, 3 aguardiente",
+      "Directions": "Mix all the ingredients and enjoy."
+    },
+    {
+      "Id": 109,
+      "CocktailName": "Pegu Club",
+      "Region": "Asia",
+      "Country": "Myanmar",
+      "Image": "https://www.liquor.com/thmb/2ubvvQKt7wnm0tbudrykuwFT_Rg=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/peguclub-720x720-primary-fe4120064a864e6e9965fa4b5c3b971c.jpg",
+      "Ingredients": "Gin 2oz, Orange curacao 3/4oz, Fresh lime juice 1/2oz, Orange bitters 1 dash, Angostura bitters 1 dash",
+      "Directions": "Add all the ingredients to a shaker and fill with ice.  Shake, and strain into a chilled cocktail glass."
+    },
+    {
+      "Id": 110,
+      "CocktailName": "Singapore Sling",
+      "Region": "Asia",
+      "Country": "Singapore",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/ef13106b2061451a8feccebe42cc8903.jpg?mw=1300",
+      "Ingredients": "Gin 1 1/2oz, Cherry-flavored brandy 1/2oz, Triple sec 1/4oz, Benedictine liqueur 1/4oz, Pineapple juice 4oz, Lime juice 1/2oz, Grenadine syrup 1/2oz, Ice 1 cup, Pineapple 1 slice, Maraschino cherry 1.",
+      "Directions": "Fill a Collins glass with 1 cup ice and set aside in freezer.  Combine gin, cherry-flavored brandy, triple sec, Benedictine, pineapple juice, lime juice, and grenadine in a cocktail shaker.  Add 1 cup ice, cover and serve chilled.  Strain into the prepared Collins glass.  Garnish with slice of pineapple and a cherry."
+    },
+    {
+      "Id": 111,
+      "CocktailName": "Gin and Tonic",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "https://cdn.tasteatlas.com/images/ingredients/0ae82e24fc934430a47c937a43c16bce.jpg?mw=1300",
+      "Ingredients": "Gin 1 part, Tonic 1-3 parts, Lime wedge for garnish.",
+      "Directions": "Fill a highball glass with ice, then add the gin and the tonic, and garnish with a lime wedge."
+    },
+    {
+      "Id": 112,
+      "CocktailName": "Gin Pahit",
+      "Region": "Asia",
+      "Country": "Malaysia",
+      "Image": "https://www.thespruceeats.com/thmb/681XnVYEKH0Md5xneBwQgS8OziA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pink-gin-classic-cocktail-759332-hero-01-16793d76e9664df5ba4ff90cfcc2ff9b.jpg",
+      "Ingredients": "Rutte Dry Gin 1 1/2oz, Sugar syrup 1/6oz, Angostura Bitters 2 dash, Chilled water 1/2oz",
+      "Directions": "Stir all ingredients with ice and fine strain into chilled glass."
+    },
+    {
+      "Id": 113,
+      "CocktailName": "The NRI Iced Tea",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170328/thumbs/o-ICED-TEA-570.jpg?2",
+      "Ingredients": "Gin 15ml, Vodka 15ml, Desmondji Pure cane rum 15ml, Desmondji 51% agave spirit 15ml, Desmondji Orange liquer 15ml, Kokum syrup 30ml, Peppercorns 8, Lime Wedges 2, Starfruit sliced 1/2, Sprite/7Up to top, Green/Red Chilli for garnish",
+      "Directions": "Crush the pepper in the shaker can.  Add Starfruit and muddle together.  Fill can 3/4 with ice.  Add kokum syrup and all spirits.  Squeeze both wedges of lime and drop in shaker.  Shake hard for 10 seconds and strain over hurricane (or any tall) glass filled with ice.  Top with Sprite/7Up."
+    },
+    {
+      "Id": 114,
+      "CocktailName": "The Mojito Cooch Behar",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4169992/thumbs/o-COCKTAIL-570.jpg?7",
+      "Ingredients": "White rum 60ml, Fresh lime juice 10ml, Ginger flavored sugar syrup 20ml, Green lime 1 piece cut in chunks, Fresh mint leaves 12 pieces, Jeera powder 1/2tsp, Chaat masala 1/3tsp, Salt 1/4tsp, Raw mango paste 1tbsp, Green chilly paste 1/3tsp, Cracked ice, Chilled soda water 60ml",
+      "Directions": "Muddle the ingredients together.  Gently, add chilled soda water, and stir for 10-12 seconds.  Transfer the drink in a masala-rimmed glass.  Garnish with mint and lime and serve immediately."
+    },
+    {
+      "Id": 115,
+      "CocktailName": "The Martinez",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170342/thumbs/o-MARTINEZ-570.jpg?3",
+      "Ingredients": "Gin 30ml, Triple sec 15ml, Vermouth 20ml, Dashes of Angostura bitter",
+      "Directions": "Pour all ingredients in a shaker.  Fill the shaker with ice.  Stir it gently.  Fine strain into a chilled martini glass.  Finally, garnish with lemon zest."
+    },
+    {
+      "Id": 116,
+      "CocktailName": "The Tulsi Spritz",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170358/thumbs/o-TULSI-SPRITZ-570.jpg?6",
+      "Ingredients": "Vodka 45ml, Martini Rosso 15ml, Sprig of Tulsi (Basil), Orange 2 slices",
+      "Directions": "Toss in all the ingredients into a chilled white glass (do not muddle or crush the tulsi.) Instead tap gently between the palm of your hands to release the aromas and flavor.  Always remember, herbs are meant to contribute aroma more than being able to taste them.  Fill with ice and top with sparkling water and tonic water."
+    },
+    {
+      "Id": 117,
+      "CocktailName": "The Ananda Brew",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170366/thumbs/o-ANANDA-BREW-570.jpg?1",
+      "Ingredients": "Masala Tea Bag 1 number, Vodka 60ml, Eggwhite 50ml, Lime juice 20ml, Sugar syrup 20ml",
+      "Directions": "Fuse all ingredients in a shaker, and simply shake it!  Serve the final result in a martini glass, and garnish with a slice of orange and a cinnamon stick for a yummy aroma."
+    },
+    {
+      "Id": 118,
+      "CocktailName": "The Bengal Tiger",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170610/thumbs/o-COCKTAIL-570.jpg?2",
+      "Ingredients": "White rum 50ml, Brandy 10ml, Pineapple juice 60ml, Pomegranate juice 20ml, Gondraj lemon for flavour and garnish",
+      "Directions": "In a shaker filled with ice pour the spirits, some sweet and sour mix, pour the juices and shake in the mixture.  In a tall glass filled with ice pour the drink.  Garnish with a wedge of gondoraj lemon and a twist a peel of the lemon over the drink and rub the peel on the glass for the freshness and aroma.  Serve with a smile!"
+    },
+    {
+      "Id": 119,
+      "CocktailName": "The Mango and Apricot Swizzle",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170610/thumbs/o-COCKTAIL-570.jpg?2",
+      "Ingredients": "Vanilla vodka 45ml, Apricot jam 1tbsp, Mango juice 120ml, Lime juice 10ml, Few drops of orange bitter (optional), Cinnamon stick 1 number, Crushed ice",
+      "Directions": "Add all the ingredients into a shaker, except the cinnamon stick.  Fill it with ice cubes and shake.  Strain in a tall glass, preferably a hurricane glass.  Fill the glass with crushed ice.  Take a long cinnamon stick, heat it with a lighter till you can smell the cinnamon oil.  Stir the drink with the cinnamon stick, then leave it in along with a slice of mango and a sprig of mint. (Bonus trick: If you don't have access to Orange Bitters just take the skin of an orange and spray the essential oil over the drink.)"
+    },
+    {
+      "Id": 120,
+      "CocktailName": "The Cocktail Banaras",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170616/thumbs/o-COCKTAIL-570.jpg?3",
+      "Ingredients": "Gin 60ml, Dried betel leaves 2-3 pieces, Lime juice 10ml",
+      "Directions": "Muddle pan leaves and mix along with lime juice.  Add gin, shake well with ice cubes & strain into a martini glass.  (Bonus trick: Rub the betal leaf with the rim and stem of the glass to get a bit of fragrance as well.)"
+    },
+    {
+      "Id": 121,
+      "CocktailName": "The Mogito 6",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170632/original.jpg",
+      "Ingredients": "Bacardi Superior 60ml, Star fruit juice 45ml, Honeywater 15ml, Angostra 1/2 dash, Star fruit 5-6 pieces, Mint 10 leaves",
+      "Directions": "Shake together with crushed ice.  Fill into a hurricane glass.  Garnish with a starfruit."
+    },
+    {
+      "Id": 121,
+      "CocktailName": "The Sol of Colaba",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170630/thumbs/o-SOL-OF-COLABA-570.jpg?2",
+      "Ingredients": "Vodka 60ml, Lime juice 30ml, Sugar syrup 30ml, Masala mix 1gm (1part Jaljeera powder, 1 part Amchoor, 1/2 part white pepper)",
+      "Directions": "Infuse kokum in little hot water and extract juice.  Cool and add along with lime juice, sugar syrup, masala mix, vodka and ice cubes in a cocktail shaker and shake well.  Serve chilled in a martini glass."
+    },
+    {
+      "Id": 122,
+      "CocktailName": "The High-Tai",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4170646/thumbs/o-HIGHTAI-570.jpg?2",
+      "Ingredients": "Gold rum infused 50ml, Pineapple juice 30ml, Lime juice (may vary according to the sourness/citric content of lime) 20ml, Monin passion fruit puree 15ml, Spice syrup (200gm of Indian spices with 500gm of sugar dissolved in 500ml water, bring it to boil and take it off) 10ml",
+      "Directions": "Pour all the ingredients into a mixing glass.  Shake and fine strain the mix in a highball glass (roll it in a tatami mat for added effect.  Garnish with a few sprigs of mint, and serve with a bamboo straw."
+    },
+    {
+      "Id": 123,
+      "CocktailName": "The Southern Somras",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "http://i.huffpost.com/gen/4190000/original.jpg",
+      "Ingredients": "Dark Rum 50ml, Orange liqueur 10ml, Curry leaves 8, Jaggery 10gm, Apple juice 60ml, Tamarind Water 30ml",
+      "Directions": "In a cocktail shaker add the jaggery and sweet lime juice and muddle to mix and infuse the two.  Add the rest of the ingredients and fill with ice.  Shake well and pour along with ice into a stem goblet and serve."
+    }
+]

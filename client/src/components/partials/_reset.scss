@@ -1,0 +1,21 @@
+html { 
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+html {
+    // This defines what 1rem is (1rem = 10px)
+    font-size: 62.5%;
+
+}

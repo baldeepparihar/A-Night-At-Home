@@ -1,0 +1,983 @@
+[
+    {
+      "Id": 0,
+      "CuisineName": "Poutine",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/8cb5894ea6fb4a48825b435f0bcab90e.jpg?mw=1300",
+      "Ingredients": "6 large russet potatoes, peeled, cut into 1/4 inch thick sticks, Canola oil, Salt, 1 1/2lbs cheese curds, (For Gravy-->) 1tbsp cornstarch, 1tbsp water, 3tbsp unsalted butter, 1/2cup unbleached all-purpose flour, 1 clove garlic finely chopped, 1 can(10oz) chicken broth undiluted, pepper",
+      "Directions": "Place a large bowl of potatoes submerged in cold water for 30min to 24hours.  Heat oil in deep fryer to 170C and put a wire rack on baking tray.  Drain and pat dry potatoes.  Place in fryer basket.  Fry for 2min.  Remove potatoes and put on wire rack to cool.  Raise fryer temp to 180C.  Fry the fries a second time for 2-4 minutes.  When they are golden brown, place on paper towels to drain.  Season with salt and keep warm in oven until ready to serve.  In a small bowl dissolve cornstarch in water.  Place saucepan over medium-low heat.  Melt butter and add flour and while constantly stirring cook for five minutes until golden brown.  Add garlic and cook for 30min.  Pour in broth and bring to a boil, constantly stirring.  Last add cornstarch and simmer for 3-5min until broth thickens, then season with pepper.  Serve fries with cheese and gravy."
+    },
+    {
+      "Id": 1,
+      "CuisineName": "Hawaiian Pizza",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/0c232387a1064e27bd5b3a098a87acd9.jpg?mw=1300",
+      "Ingredients": "1 Packaged Pizza Dough, 1/4 cup tomato sauce, 1 1/2 cups grated mozzarella, 150g pineapple(cut into 1/4inch slices), 60g sliced ham(cut into 1 1/2 pieces)",
+      "Directions": "Preheat oven to 450F.  Sprinkle bottom of a 51inch pizza pan with cornmeal.  Put dough on lightly floured worktop and roll it out to 14 inch circle.  Place cirlce of dough into pan.  Coat the dough with tomato sauce, then sprinkle it with mozzarella and dot with pineapple slices and pieces of ham.  Bake for 20min."
+    },
+    {
+      "Id": 2,
+      "CuisineName": "Kraft Dinner",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/183eeac9a18547a2a5465f788eb0274f.jpg?mw=1300",
+      "Ingredients": "1 box of Kraft Dinner",
+      "Directions": "Fill pot with 3-4 cups of water(about twice the serving size of the pasta).  Add a teaspoon of salt.  Bring water to a boil.  Add Noodles to boiling water.  Boil for 6-8min until noodles are soft and chewy.  Drain noodles.  Prepare cheese sauce as directed.  Either by adding milk and margarine/butter or straight from the pouch.  Stir drained noodles together with cheese sauce until thoroughly mixed."
+    },
+    {
+      "Id": 3,
+      "CuisineName": "Nanaimo Bars",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/42136c18cbab42a7b0088392e2a85806.jpg?mw=1300",
+      "Ingredients": "(Bottom)FIRST LAYER: 1/2 cup unsalted butter, 1/4 cup sugar, 5tbsp cocao, 1 egg beaten, 1 3/4 cups graham wafer crumbs, 1/2 cup finely chopped almonds, 1 cup coconut. SECOND LAYER: 1/2 cup unsalted butter, 2 tbsp + 2tsp cream, 2 tbsp vanilla custard powder, 2 cups icing sugar.  (Top)THIRD LAYER: 4oz semi-sweet chocolate, 2tbsp unsalted butter.",
+      "Directions": "(Bottom)FIRST LAYER: Add the butter, sugar and the cocoa to a bain-marie and cook until melted and combined.  Whisk the egg and add to the bain-marie.  Cook constantly stirring until thickened.  Take off heat.  Stir in the graham wafer crumbs, the coconut, and the nuts.  Press the mass into an ungreased 8x8 inch pan.  MIDDLE LAYER: Add butter, cream, vanilla custard powder and the icing sugar to a large bowl.  Beat with mixer until creamed and light.  Spread over the bottom layer.  THIRD LAYER: Add the chocolate and the butter to a saucepan.  Melt over very low heat, stirring constantly.  Let cool down.  Once cooled but pourable, spread over the second layer.  Refrigerate until chilled and hard, then cut into 24 bars."
+    },
+    {
+      "Id": 4,
+      "CuisineName": "Pemmican",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://marksdailyapple.com/uploads/2009/05/driedbison-639x426.jpg",
+      "Ingredients": "1 1/2lbs of lean, grass-fed shoulder roast.  Fresh or frozen wild blueberries.  Grass-fed bison or beef kidney fat, leaf fat, suet, or tallow.",
+      "Directions": "Let meat firm up in the freezer, then slice thin.  After adding liberal amounts of salt and pepper, set oven to lowest possible temperature(around 150 degrees) lay out strips of meat directly onto a rack.  Keep oven door slightly open to prevent buildup.  Put handful of frozen wild blueberries on small oven pan to dry out the meat.  Let the meat dry out for about 15hours, or until it takes on a crispy jerky characteristic that breaks apart easily.  Pulverize the jerky in the food processor or blender until it becomes powder.  Do the same for the blueberries, pulverize into powder.  Now render the fat.  Grass-fed bison kidney fat works.  Put about half a pound of that into a cast iron pan and cooked it slowly over super-low heat.  When fat stops bubling, the rendering is done.  Use strainer, you just want pure liquid fat.  Mix the meat and the berry powder together.  Then slowly add the hot liquid fat.  Make sure fat soaks into powder.  If you poured too much fat too quickly, you can add a bit of almond meal to firm it up.  Once it firms, cut it into bars or roll it into bars."
+    },
+    {
+      "Id": 5,
+      "CuisineName": "Garlic Fingers",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/f25d57252a224133a289baa315fe6375.jpg?mw=1300",
+      "Ingredients": "DONAIR SAUCE: 2/3 Cup sweetened condensed milk, 1/4 cup white vinegar, 1/2tsp garlic powder.  GARLIC FINGERS: 1 pkg Pizza dough, 1tbsp garlic butter melted, 2 cups shredded mozzarella cheese, 2tbsp cornmeal flour to dust pan.",
+      "Directions": "DONAIR SAUCE: Combine sweetened condensed milk with vinegar and garlic powder.  GARLIC FINGERS: Preheat oven to 450F.  Dust a 15 inch pan with cornmeal.  Turn out dough onto lightly floured surface.  Roll dough into a 14 inch cirlce.  Transfer to pan.  Brush garlic butter evenly over dough.  Sprinkle with cheese.  Bake until cheese and crust are golden brown(15 min).  Cut into 2 inch strips.  Serve with donair sauce."
+    },
+    {
+      "Id": 6,
+      "CuisineName": "Salmon Pie",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/5bf4c9c11cb34b8bb6782a2daea4a8f6.jpg?w=905&h=510",
+      "Ingredients": "2 cans Wild Pacific Pink or Sockeye Salmon, 2cups Mashed potatoes, 1 egg, 3tbsp Chopped onion, 1 clove garlic minced, 1tbsp butter, 1tsp dried thyme, Salt and pepper to taste, 1 box Two-crust pie refrigerated and uncooked.",
+      "Directions": "Preheat oven to 220C.  Thoroughly mix the salmon with the mashed potatoes and egg.  Saute onions and garlic in butter.  Add thyme, salt and pepper to taste.  Stir this into salmon mixture.  Ease the pie crust dough into the pie plate without stretching it.  Pour in the mixture evenly.  Cover with second crust.  Seal the two crusts together by pinching the edges.  Make slits on top crust.  Bake for 10 minutes.  Reduce temperature to 180C and back for additional 30 minutes.  Remove from oven, cut and serve hot, with mixed greens if preferred."
+    },
+    {
+      "Id": 7,
+      "CuisineName": "Pate Chinois",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/c89eff9add44400a8c7a5517fe7b6c72.jpg?mw=1300",
+      "Ingredients": "MASHED POTATOES: 2lbs potatoes peeled and quartered, 1/3 milk, 1tbsp salted butter, 3/4 tsp salt, 1/4 garlic powder, 1/8 ground black pepper. FOR DISH: 1tbsp salted butter, 1 onion diced, 1lb ground beef(90% lean), 1tsp paprika, 1tsp thyme, 3/4 tsp salt, 2 sweet corn.",
+      "Directions": "Preheat oven to 350F.  Put peeled and quartered potatoes into a medium soup pot and cover with water.  Bring to a boil and simmer for 15-20min until the potatoes are very tender.  Drain and add the milk, 1tbsp butter, 3/4 tsp salt, garlic powder, and black pepper.  Beat using and electric hand mixer to achieve very smooth and fluffy mashed potatoes.  In a large skillet, heat 1tbsp butter.  Add the diced onion and saute over medium-high heat until the onions are golden, 3-5 minutes.  Add the ground beef and brown the beef until it is cooked through.  Add the paprika, thyme and salt.  Pour the onion and beef mixture into the bottom of a greased 8x8 baking dish.  Evenly distribute the corn over the meat.  Finally dollop the potatoes over the corn.  Spreading them to create an even top crust.  Place dish in oven and bake for 30-40 minutes.  Until top is golden brown."
+    },
+    {
+      "Id": 8,
+      "CuisineName": "Pizza-Ghetti",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/41631e2e4994493988f097c185b7d771.jpg?mw=1300",
+      "Ingredients": "1lb ground beef, 2cups mozzarella cheese, 1/2lb spaghetti, 1 jar chunky garden vegetable spaghetti sauce, 1/2 pepperoni, cooking spray.",
+      "Directions": "Boil the spaghetti in water.  Set aside and let cool for a bit.  Brown the ground beef until well-cooked and then stir in the sauce.  Let simmer for about 10 minutes.  Spray a 9 by 12 glass casserole dish with cooking spray.  Spread a little of the sauce mixture on the bottom of the pan and then top with a layer of spaghetti.  Add another thicker layer of sauce, followed by a layer of pepperoni and a layer of cheese.  Repeat until you are out of sauce, ending with a layer of cheese.  Bake in a 350 degree oven about 25 minutes or until the cheese is completely melted and bubbling."
+    },
+    {
+      "Id": 9,
+      "CuisineName": "Rappie Pie",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/db2e730769c842f7a1ec6c74b287e273.jpg?w=905&h=510",
+      "Ingredients": "2tbsp margarine, 2 onions chopped, 4 quarts chicken broth, 4 pounds boneless skinless chicken breasts, 10 pounds potatoes peeled and diced, 2tbsp salt, 1tbsp ground black pepper.",
+      "Directions": "Preheat oven to 400F.  Heat margarine in skillet over medium heat.  Stir in onion.  Cook and stir until onion has softened and turn translucent about 5 min.  Reduce heat to low and continue to cook and stir until onion is very tender and dark brown(about 40min).  Bring chicken broth to a boil in a large pot.  Stir in chicken breasts, reduce heat, and simmer until chicken is no longer pink at the center(about 20min)  Remove from heat.  Remove chicken breasts to a plate using a slotted spoon.  Preserve broth.  Juice potaotes with an electric juicer.  Place dry potato flesh into a bowl and discard juice.  Stir salt and pepper into potatoes.  Stir in enough reserved broth to make the mixture the consistency of oatmeal.  Set remaining broth aside.  Spread half of potato mixture evenly into the prepared pan. Lay cooked chicken breast evenly over potatoes.  Scatter caramelized onion evenly over chicken.  Spread remaining potato mixture over onions and chicken to cover.  Bake in preheated oven until golden brown(about 1hour).  Reheat chicken broth.  Pour over individual servings as desired."
+    },
+    {
+      "Id": 10,
+      "CuisineName": "Fish and Brewis",
+      "Region": "North America",
+      "Country": "Canada",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/91b1bdbc11484cebbdddf4f507f689b8.jpg?mw=1300",
+      "Ingredients": "2 hard bread cakes spit horizontally, 1 pound salt cod steaks skinned and cut into 1/2inch strips, 1tsp salt, 1/2 pound fatback diced.",
+      "Directions": "Place hard bread into a pot.  Cover bread with several inches of cool water and place a lid on the pot.  Soak 8 hours overnight.  Rinse salt cod under running cool water.  Place into pot.  Cover fish with several inches of cold water.  Place a lid on the pot and soak in refrigerator 8 hours overnight.  Add salt to soaked bread and bring just to a simmer over medium-low heat and simmer for 2min.  Drain immediately and cover to keep warm  Drain fish and cover with fresh water.  Bring to a boil.  Cook until fish is opaque and flakes easily with a fork(about 20min).  Drain fish.  Remove bones.  Stir fish into prepared hard bread.  Cook and stir fatback in a frying pan over medium heat until golden brown(about 10min).  Pour fatback and drippings over fish and bread mixture.  Stir gently to combine and serve immediately."
+    },
+    {
+      "Id": 11,
+      "CuisineName": "Burger",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/223d2928b1e04701854f387c30d940f0.jpg?mw=1300",
+      "Ingredients": "1.2kg of freshly ground chuck, 1tbsp of onion powder, 1tsp salt, 1tsp freshly ground black pepper, 12 slices of American cheese, 6 large burger buns, lettuce, onions sliced, tomatoes sliced, ketchup, pickles sliced.",
+      "Directions": "In a large bowl gently mix ground beef and onion powder, then shape into 6 patties that are slightly larger than your hamburger buns and have a dent in the center.  Heat your grill, pan, or skillet over high heat.  Season the patties liberally with salt and pepper, then place on grill to cook.  Cook for about two minutes until the crust on the bottom has formed.  Flip the burgers once you can lift them up easily then add two cheese slices to each.  Cook for another 2-3 minutes.  Remove from the grill and transfer into buns.  Add the desired garnishings and condiments like lettuce, onions, tomatoes, ketchup and then serve."
+    },
+    {
+      "Id": 12,
+      "CuisineName": "Grilled Cheese",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/fbefddd4e4de4f6ab8d43d6fda3dc21f.jpg?mw=1300",
+      "Ingredients": "1tbsp salted butter, 2 slices cheddar, monterey jack or swiss cheese, 2 slices country white bread.",
+      "Directions": "First assemble the sandwich and press it slightly to hold.  Melt a tablespoon of butter over medium-low heat then place the sandwich in the pan.  Cook each side for 3-5min until golden."
+    },
+    {
+      "Id": 13,
+      "CuisineName": "Pulled Pork",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/77c0b1d19f8a49509278bde67c1d6cb7.jpg?mw=1300",
+      "Ingredients": "1tsp vegetable oil, 1 (4lb) pork shoulder roast, 1cup barbeque sauce, 1/2 cup apple cider vinegar, 1/2cup chicken broth, 1/4 cup light brown sugar, 1tbsp prepared yellow mustard, 1tbsp Worcestershire sauce, 1tbsp chili powder, 1 extra large onion chopped, 2 large cloves garlic crushed, 1 1/2 teaspoons dried thyme, 8 hamburger buns split, 2tbsp butter.",
+      "Directions": "Pour the vegetable oil into the bottom of slow cooker.  Place the pork roast into the slow cooker.  Pour in the barbecue sauce, apple cider vinegar, and chicken broth.  Stir in the brown sugar, yellow mustard, Worcestershire sauce, chili powder, onion, garlic, and thyme.  Cover and cook on high until the roast shreds easily with a fork.  5 to 6 hours.  Remove the roast from the slow cooker and shred the meat using two forks.  Return the shredded pork to the slow cooker and stir the meat into the juices.  Spread the inside of both halves of hamburger buns with butter.  Toast the buns butter side down in a skillet over medium heat until golden brown.  Spoon pork into the toasted buns."
+    },
+    {
+      "Id": 14,
+      "CuisineName": "BLT Sandwich",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/3f4736feb0a54cf59cba5ef99aef5a17.jpg?mw=1300",
+      "Ingredients": "1/2lb bacon, 8 slices white bread, 8 lettuce leaves, 8 slices of ripe tomatoes, 8tbsp mayonnaise.",
+      "Directions": "Prepare the bacon first.  Cook it so it becomes crispy and then place on some paper towels to drain.  Next toast the bread and spread a tablespoon of mayonnaise on each slice.  Now assemble the sandwiches in the following order.  Toast with mayonnaise side up.  1 lettuce leaf, 2 slices of tomato, 3 bacon slices, 1 lettuce leaf, toast with mayonnaise side down.  This will make 4 sandwiches."
+    },
+    {
+      "Id": 15,
+      "CuisineName": "Chicken Nuggets",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/ababa03e411f4568a68b012779be5976.jpg?mw=1300",
+      "Ingredients": "2 boneless skinless chicken breasts, 1tsp salt, 1/2tsp parsley flakes, 1/2tsp of oregano, 1/4tsp onion powder, 1/4tsp pepper, 2 eggs beaten, 1cup flour, 1.5cups oil for frying.  HONEY MUSTARD SAUCE: 1tbsp of honey + 1tbsp of mustard.  SPICY HONEY MUSTARD SAUCE: 1tbsp of honey + 1tsp mustard + few dashes of hot sauce",
+      "Directions": "Cube the chicken and grind it in a food processor until meat turns into a paste.  Transfer the meat slurry into a bowl, season with salt, parsley, oregano, onion powder, pepper and mix.  Prepare the flour and eggs to coat the meat.  Place the flour onto a plate and whisk the eggs in a small bowl.  Divide the chicken slurry into 34 ping pong ball-sized balls.  Dip each ball of chicken into flour then in eggs, then in flour once again.  Once breaded, to make a nugget, flatten each ball by pressing down on it.  Place as many nuggets in oil as possible and fry them on each side for about 4-5min or until golden.  As each nugget is done, transfer it to a paper-towel lined plate."
+    },
+    {
+      "Id": 16,
+      "CuisineName": "Crab Cake",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/e6f2f5b3a8ee4663b699a8f3d186d0d0.jpg?mw=1300",
+      "Ingredients": "1/3cup mayonnaise, 1 large egg beaten, 2tbsp Dijon mustard, 2tsp Worcestershire sauce, 1/2tsp hot sauce, kosher salt, freshly ground black pepper, 1lb jumbo lump crabmeat, 3/4cup panko bread crumbs, 2tbsp freshly chopped parsley, canola oil for frying, lemon wedges, tartar sauce.",
+      "Directions": "In small bowl whisk together mayo, egg, dijon mustard, Worcestershire, and hot sauce, and season with salt and pepper.  In a medium bowl stir together crabmeat, panko, and parsley.  Fold in mayo mixture then form into 8 patties.  In a large skillet over medium-high heat, coat pan with oil and heat until shimmering.  Add crab cakes and cook, in batches, until golden and crispy.  3-5min per side.  Serve with lemon and tartar sauce."
+    },
+    {
+      "Id": 17,
+      "CuisineName": "Gumbo",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/6eb46d0e684042bf90883b55029a24c9.jpg?mw=1300",
+      "Ingredients": "2 1/2lbs fresh heads on shrimp, 1/2 chicken, 6 live crabs, 4tbsp butter, 4tbsp flour, 1 1/2 large onions chopped, 1 green pepper chopped, 3 scallions with tops chopped, 2 cloves garlic minced, 1/2 cup chopped celery, 1 1/2 pound fresh okra chopped, 1/4 pound country ham diced, 2 strips bacon, 1/2 pound of stewing beef, 2 dozen oysters and their liquor, 1 small ham bone, 2 large tomatoes peeled and diced, 1 bay leaf, 1/2 tsp thyme, pinch of cayenne, 1/2 tsp ground black pepper, 3 quarts stock or watter, 2tbsp salt.",
+      "Directions": "Boil shrimp in salted water for 5min then drain, peel, and devein the shrimp.  Set aside shrimp and shrimp water for later.  Crush shrimp heads and shells in a pot, transfer to shrimp water and boil at full rolling boil for 15min.  Strain liquid and set aside.  Cook chicken by boiling it in salted water, then remove and dice the skin, and also, remove the meat from the bones.  Using the flour and oil make a dark roux in a big skillet and proceed by sauteing the onions, green peppers, scallions, and garlic and celery until soft and translucent.  Next, add the okra and cook until it softens.  Transfer the mixture into a large stew pot to which you add all the previously prepared: shrimp water, chicken stock, chicken meat and skin.  While you're doing this the heat under the pot should not be on.  Fry the bacon and the diced country ham in a clean skillet until browned.  Drain and crumble the bacon, then together with ham add to the stew pot.  Place the washed live crabs in a pot, cover them with boiling water and cook for 20 min.  When cooked, transfer the crab water to the stew pot as well as the large claws that you've broken off.  Add as well the crab fat that you've scraped from the outer shell and proceed by removing the dead man's fingers, small claws and apron.  Crush the crab shells and boil them in water for 15 minutes, strain, then add to the stew pot.  Halve the remaining crabs by breaking them and together with oyster liquid add to the stew pot.  Finish by adding tomatoes, ham bone, and all the seasonings.  If the liquid is not about two inches over all the ingredients, add more, be it chicken stock, shrimp stock, oyster liquor, crab stock or just water.  Now turn the heat on the stove and let it simmer for 1 1/2 to 2 hours while occasionally stirring.  Ten minutes before serving add the oysters and shrimp, taste and add salt if needed.  Serve over a bowl of rice."
+    },
+    {
+      "Id": 18,
+      "CuisineName": "Jambalaya",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/e089298a98844dc4aa0b0d24eeb3ac48.jpg?mw=1300",
+      "Ingredients": "1lb boneless skinless chicken breasts cut into 1 inch cubes, 1/2 pound andouille sausage diced, 1 can diced tomatoes, 1 medium onion chopped, 1 green bell pepper seeded and chopped, 1 stalk celery chopped, 1 cup reduced-sodium chicken broth, 2 teaspoons dried oregano, 2 teaspoons Cajun or Creole seasoning, 1tsp hot sauce, 2 bay leaves, 1/2 teaspoon dried thyme, 1lb frozen peeled and cooked shrimp thawed, 2 cups cooked rice.",
+      "Directions": "You will need a slow cooker in which you will combine the sausage, tomatoes, chicken, green pepper, onion, and celery.  Pour in the chicken broth and stir in the spices: thyme, Cajun seasoning, bay leaves, hot sauce, and oregano.  Cover the cooker and set it to cook on low for 7 hours or 3 hours on high.  When the dish is cooked, incorporate the thawed shrimp, cover and leave to cook for five minutes until heated through.  Remove the bay leaves and serve with cooked rice."
+    },
+    {
+      "Id": 19,
+      "CuisineName": "Meatloaf",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/e2dbd1b91f6b45ebaa2012936dd03fee.jpg?mw=1300",
+      "Ingredients": "1 cup fresh breadcrumbs, 1/3 cup whole milk, 1 medium onion, 1 celery stalk, 4 garlic cloves, 2tbsp vegetable oil, 2 1/4tsp kosher salt divided, 1 1/2tsp freshly ground black pepper divided, 3tbsp Worcestershire sauce, 1 1/2lb ground beef chuck(preferably 20% fat), 1/2lb ground pork, 2 large eggs, 1/2cup ketchup.",
+      "Directions": "Preheat oven to 350F and adjust the rack to a central position.  In a large bowl, soak breadcrumbs in milk.  Line a baking dish with foil.  Finely chop the onion, celery, and garlic by hand or in a food processor.  Take a large skillet, place it over medium heat and heat the oil.  Add onion, celery, and garlic with 1tsp salt and 1/2tsp pepper and cook for 5-7min, stirring occasionally and then remove from heat.  Mix in the Worcestershire sauce, and transfer this mixture to bowl containing the soaked breadcrumbs.  Now, add beef, pork, eggs, 1/4cup ketchup, and and remaining salt and pepper.  Combine using your hands.  Form a meatloaf on a prepared baking sheet: it should be about 5-inches wide and well-packed.  Apply the remaining 1/4cup ketchup on the top using a brush.  Bake for 60-75min.  The meatloaf is ready when the thermometer insterted in the center reads 155F.  Leave the meatloaf to rest for 15min and then slice.  Serve with additional ketchup."
+    },
+    {
+      "Id": 20,
+      "CuisineName": "Reuben",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/b6373cf742f54c92be10f28b386be6b1.jpg?mw=1300",
+      "Ingredients": "2 1/4 cups drained sauerkraut, 1/4 cup chopped sweet onion, 3tbsp chopped parsley, 3/4 creamy Russian dressing, 16 slices rye bread, 3/4lb sliced corned beef, 3/4lb sliced Swiss cheese, Butter or margarine softened.",
+      "Directions": "Toss together sauerkraut, onion and parsley, then spread each slice of bread with Russian dressing.  Top the eight bread slices with corned beef, followed by cheese and sauerkraut.  Lastly, cover with the eight remaining slices.  Spread a light coating of butter on both sides of the sandwiches then grill them in a skillet on a griddle until the cheese melts and the bread is toasted and golden in color."
+    },
+    {
+      "Id": 21,
+      "CuisineName": "Corn on the cob",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/6c2eafbce0f447088c81546cd681a8c0.jpg?mw=1300",
+      "Ingredients": "4 ears corn shucked, Butter for serving, kosher salt.",
+      "Directions": "Preheat grill to high and heat for 10min.  Add corn and cook, turning often until charred all over, about 10min.  Spread butter over warm corn and season with salt."
+    },
+    {
+      "Id": 22,
+      "CuisineName": "Chicken Pot pie",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/62e8a5dd3d824b5292c72defc3470e2f.jpg?w=905&h=510",
+      "Ingredients": "1lb skinless boneless chicken breast halves cubed, 1 cup sliced carrots, 1 cup frozen green peas, 1/2 cup sliced celery, 1/3 cup butter, 1/3 cup chopped onion, 1/3 cup all-purpose flour, 1/2 teaspoon salt, 1/4 teaspoon black pepper, 1/4 teaspoon celery seed, 1 3/4 cups chicken broth, 2/3 cup milk, 2 (9 inch) unbaked pie crusts",
+      "Directions": "Preheat oven to 425 degrees F.  In a saucepan, combine chicken, carrots, peas, and celery.  Add water to cover and boil for 15min.  Remove from heat, drain and set aside.  In the saucepan over medium heat, cook onions in butter until soft and translucent.  Stir in flour, salt, pepper, and celery seed.  Slowly stir in chicken broth and milk.  Simmer over medium-low heat until thick.  Remove from heat and set aside.  Place the chicken mixture in bottom pie crust.  Pour hot liquid mixture over.  Cover with top crust, seal edges, and cut away excess dough.  Make several small slits in the top to allow steam to escape.  Bake in the preheated oven for 30-35min or until pastry is golden brown and filling is bubbly.  Cool for 10min before serving."
+    },
+    {
+      "Id": 23,
+      "CuisineName": "Barbecue Ribs",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/cd52844a78dd4303a54f0ad0643692eb.jpg?mw=1300",
+      "Ingredients": "1/4 cup brown sugar, 2tbsp chili powder, Kosher salt and freshly ground black pepper, 1tsp dried oregano, 1/2 tsp cayenne pepper, 1/2 tsp garlic powder, 1/2 tsp onion powder, 2 racks baby back ribs, 1 cup low-sodium chicken broth, 2 tbsp apple cider vinegar, 1 cup barbecue sauce.",
+      "Directions": "Combine brown sugar, chili powder, 1 tbsp salt, 1 tsp black pepper, the oregano, cayenne, garlic powder and onion powder in a small bowl and rub the mixture on both sides of the ribs.  Cover and refrigerate 1 hour or overnight.  Preheat the oven 250 degrees F.  In a roasting pan, combine the broth and vinegar.  Add the ribs to the pan.  Cover with foil and tightly seal.  Bake 2 hours.  Remove the ribs from the pan and place them on a platter.  Pour the liquid form the pan into a saucepan and bring to a boil.  Lower the heat to a simmer and cook until reduced by half.  Add the barbecue sauce.  Preheat an outdoor grill to medium heat.  Put the ribs on the grill and cook about 5min on each side, until browned and slightly charred.  Cut the ribs between the ones and toss them in a large bowl with the sauce.  Serve hot."
+    },
+    {
+      "Id": 24,
+      "CuisineName": "Pot Roast",
+      "Region": "North America",
+      "Country": "United States",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/bc7c80192db2460b9c8c7af288d1ac34.jpg?mw=1300",
+      "Ingredients": "1 2-3lb beef chuck roast, kosher or sea salt and freshly ground black pepper, 4tbsp olive oil, 1 large yellow onion diced, 3 garlic cloves minced, 1tsp chopped fresh rosemary, 1tsp chopped fresh thyme, 1 cup medium-bodies red wine, 4 cups beef stock, 2 tbsp tomato paste, 3 large carrots peeled and cut into 2 inch pieces, 3 celery ribs cut into 2 inch pieces, 2 cups pearl onions ends removed and peeled, 1 bay leaf whole, 2 sprigs fresh rosemary, 2 sprigs fresh thyme.",
+      "Directions": "Before you start prepping the meat, place the oven rack in the lower half of the oven and then set it to 350F.  Pat dry the meat, season it generously with salt and pepper.  Heat two tablespoons of olive oil in a large Dutch oven over medium-high heat, then brown the meat evenly on all sides, about five minutes per side, and transfer the meat to a plate and set aside.  Next, set the heat to medium and add the remaining two tablespoons of olive oil.  Saute the onion, garlic, and chopped herbs, often stirring, until the onions are translucent, for about six minutes.  Now pour in wine and beef stock to deglaze the pot.  Take care to scrape up all the bits from the bottom.  Lastly, add the tomato paste, as well as the browned meat to the pot, then pour in the beef stock so that it reaches halfway up the meat.  Bring to a simmer, then remove from the stove, cover with a sheet of aluminum foil and then with a lid.  Place the pot in the oven and cook for 2 to 2 1/2 hours until the meat is tender.  Take the pot out of the oven and add to it vegetables, bay leaf, and herb springs, taking care they are neatly arranged around the meat, then cover and place back into the oven and cook for 20-30 minutes until the vegetables are done, and the meat is meltingly tender.  Place on a plate and keep covered with aluminum foil for 15 minutes.  Slice the meat against the grain: alternatively you may also use two forks to pull the meat into chunks.  Discard the bay leaf and herb sprigs.  For serving, arrange on a platter with vegetables and spoon over with the sauce.  It is suggested to pair them with a side dish of either mashed potatoes, buttered egg noodles, or rice."
+    },
+    {
+      "Id": 25,
+      "CuisineName": "Peru",
+      "Region": "Latin America",
+      "Country": "Peru",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/385f61bf908247b5ac663e6dc3beb95b.jpg?mw=1300",
+      "Ingredients": "720g fresh fillets (white fish such as corvina, sea bass, sole, flounder, grouper), 12 Peruvian limes, 2 red aji limo pepper, 2 red onions, 450g cooked sweet potato, 225g cooked corn, salt, fresh cilantro.",
+      "Directions": "First prepare the ingredients. Deseed and devein the aji limo peppers and slice them into strips.  Cut the onions into thin strips, then place them in ice-cold water. Cut fish filets into 2x2cm cubes.  Squeeze all the limes about halfway and set the juice aside.  Next place fish in a bowl, add salt and aji limo peppers.  Pour in the lime juice, blend well and let it marinate in the regrigerator for 5-30 minutes, depending on taste(the longer the marination time, the more 'cooked' the fish will be).  Drain the onion slices and add them to the bowl with fish and mix.  Serve with sweet potatoes and cooked corn.  Divide between plates, pour over with the marinade juices.  Garnish with cilantro and some more red aji limo peppers."
+    },
+    {
+      "Id": 26,
+      "CuisineName": "Milanesa",
+      "Region": "Latin America",
+      "Country": "Argentina",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/8ae6e3c99b2d41a2a15c57d23a337b4e.jpg?mw=1300",
+      "Ingredients": "2lb beef round thinly sliced, 2 eggs beaten, 2 cups breadcrumbs, 2 garlic cloves chopped, 3 tbsp parsley chopped, salt, black pepper ground, vegetable oil(for frying)",
+      "Directions": "Slice the beef into a centimeter thick cutlets.  Cut off all the fat and the sinew to get as clean of as cutlets as possible.  Tenderize the cutlets with a mallet until half a centimeter thick.  Whisk the eggs with chopped garlic, chopped parsley, salt, and pepper.  Drench the cutlets in the egg mixture, then let them soak in it in the regrigerator for 45min.  Heat the oil over medium-high heat until it reaches 170C.  Coat the cutlets in breadcrumbs and fry them on both sides for a few minutes, then place them on paper towels to drain.  Serve warm, with some of the following: French Fries, mashed potatoes, green salad, potato salad, or roasted peppers."
+    },
+    {
+      "Id": 27,
+      "CuisineName": "Feijoada",
+      "Region": "Latin America",
+      "Country": "Brazil",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/ddcefce88a9a4f968d2452be1ecaf2ee.jpg?mw=1300",
+      "Ingredients": "200g dried beef, 200g salted or smoked pork ribs, 200g salted pork feet, 100g salted pork tails, 100g salted pork ears, 150 smoked or salted pork loin, 100g paio sausage, 100g Portuguese sausage, 100g smoked beef tongue, 50g bacon, 900g black beans, 2 cups oil, 200g chopped onion, 100g chopped garlic, 6 bay leaves, 2 oranges, cut in half.",
+      "Directions": "Clean the salted meat thoroughly by removing the excess fat and hairs.  Soak in water for 24 hours. Change the water 3 to 4 times during this period.  Boil the meat for 20 minutes over high heat.  Throw away the water the meat has been cooked in.  Place the beans, bay leaves, oranges, dried beef, pork feet, and pork ear in a large pot filled with water.  Cook for 30min.  Then add ox tongue, pork tail, and pork ribs and cook for another 30 minutes.  Finally, add the pork loin, paio sausage, Portuguese sausage, and bacon and cook for 30 more minutes.  During cooking, remove and discard any fat that floats on the surface and use a fork to check the degree of softness for each piece of meat.  If you estimate a particular piece is already cooked, take it out of the pot and set aside.  Meanwhile, heat the oil in a frying pan and saute onion and garlic until lightly browned.  Serve with white rice, sauteed cabbage seasoned with olive oil and garlic, and a maioc farofa.  Remove the orange halves from the cooking pot, and stir in sauteed onion and garlic.  Take the meat out of the pot, cut into smaller pieces if necessary, then put back into the pot and simmer for 10-15min over low heat."
+    },
+    {
+      "Id": 28,
+      "CuisineName": "Arepa",
+      "Region": "Latin America",
+      "Country": "Venezuela, Columbia",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/aaa50fed110a4cabbeffb4c52e5fa6cf.jpg?mw=1300",
+      "Ingredients": "2 1/2 cups lukewarm water, 1 teaspoon salt, 2 cups pre-cooked white corn meal, 1/4 cup vegetable oil",
+      "Directions": "Stir water and salt together in a bowl.  Gradually stir corn meal into water with your fingers until mixture forms a soft, moist, malleable dough.  Divide dough into 8 golf ball-size balls and pat each one into a patty about 3/8-inch thick.  Heat oil in a skillet over medium heat until shimmering.  Working in batches, cook corn patties in hot oil until golden brown, 4-5 minutes per side.  Transfer cooked arepas to a paper towel-lined plate to drain until cool enough to handle.  Slice halfway through each cake horizontally with a thin serrated knife to form a pita-like pocket."
+    },
+    {
+      "Id": 29,
+      "CuisineName": "Chimichurri",
+      "Region": "Latin America",
+      "Country": "Argentina",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/00fc3f52336b4a899ef05358d222ae59.jpg?mw=1300",
+      "Ingredients": "1 cup packed fresh parsley washed and dried, 5 medium cloves garlic peeled, 2 tbsp oregano leaves, 1/2 cup oil, 1/4 cup red wine vinegar, 1 tsp kosher salt, 1/4 tsp red pepper flakes",
+      "Directions": "Finely chop parsley, and mince garlic.  In a medium bowl combine oregano, parsley, and garlic, and pour in oil and vinegar.  Add salt and red pepper flakes.  Mix until well combined.  Serve or refrigerate for up to 2 days."
+    },
+    {
+      "Id": 30,
+      "CuisineName": "Lomo Saltado",
+      "Region": "Latin America",
+      "Country": "Peru",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/9bdbd996c9354b65b855a9d0f6f0fdfa.jpg?mw=1300",
+      "Ingredients": "2 tbsp vegetable oil, 1lb sirloin steak cut into strips, salt, black pepper, 1/2 red onion sliced, 2 cloves garlic minced, 1 tbsp aji amarillo paste, 2 tbsp soy sauce, 1 tbsp white vinegar, 1 tbsp fresh cilantro chopped, 1lb french fries cooked hot, white rice cooked.",
+      "Directions": "Heat 1 tbsp of oil in a large pan over high heat.  Add the steak, season with salt and pepper, and cook until browned, 5-6 minutes.  Remove from the pan.  Heat the remaining tbsp of oil in the same pan, then add the red onion and cook for about 5min until softened and browned.  Add the tomato, garlic, and aji amarillo paste, and cook for another 5-7 min, until the tomatoes have released some of their juices, but are still intact.  Add the soy sauce and vinegar and stir to combine, let cook for 1 minute.  Add the steak, fries, and cilantro.  Toss gently to coat the fries in the sauce.  Serve with rice."
+    },
+    {
+      "Id": 31,
+      "CuisineName": "Escondidinho",
+      "Region": "Latin America",
+      "Country": "Brazil",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/9ff66fd2f9bf4cc581ce163f07d25d8a.jpg?mw=1300",
+      "Ingredients": "MASHED CASSAVA/YUCA: 2.2lbs cassava/yuca frozen or fresh, 2 tbsp butter softened or melted, 1 to 1-1/4 heavy cream warm, or whole milk or coconut milk, 1 to 2 tbsp Knorr chicken flavored bouillon powder, salt and pepper, 2 cups of any shredded melting cheese of your preference.  CHICKEN: 6 strips thick-cut uncooked smoked bacon medium diced, 1/2 large yellow onion small diced, 2 garlic cloves minced, 1-1/2lbs roasted chicken shredded, 1 cup collard greens cut into thin strips, 1/2 cup dry white wine, 1-1/2 cups tomato sauce, Salt and pepper to taste, 1 cup cooked corn kernels, 1/4 cup chopped parsley or cilantro",
+      "Directions": "MASHED CASSAVA/YUCA: If using fresh cassava or yuca, peel it first.  Then, place peeled cassava in a pot filled with cold water and let boil over high heat for about 15-20min or until fork-soft.  Remove from the heat, reserve about 1 cup of the water and drain.  Place cooked cassava on a cutting board and while cassava is still warm but can be handled without burning, remove the woody fiber from the center.  Place warm cassava back into the pot, pour the reserved warm water on top, and mash very well using a masher.  Stir in the butter, heavy cream, chicken bouillon, salt and pepper to taste.  Set aside.  Cheese will be used later in the assembling of the dish.  Preheat oven to 350F.  Butter or spray a 13x9 inch baking dish and set aside.  TO PREPARE CHICKEN: In a medium to large non stick dutch oven, cook the diced bacon over medium-high heat for about 5-6min, stirring occasionally with a wooden spoon.  Remove bacon from the pan with a slotted spoon, place into a bowl or plate, and set aside.  In the same pan where bacon has just cooked, sweat the onion in the residual bacon fat over medium heat for about 2-3min, stirring occasionally.  Then add minced garlic and let cook for about 1 minute over medium-high heat for 1-2min, stirring occasionally.  Add the greens and saute for about 1 min.  Add the wine and let almost evaporate.  Stir in the tomato sauce, the reserved cooked bacon, and salt and pepper to taste.  Let cook uncovered over medium heat for 3-4min.  Remove from the heat, stir in the cooked corn kernels, and the chopped parsley or cilantro.  Set aside.  CHICKEN PIE ASSEMBLY: Spoon chicken mixture in one single layer into the greased baking dish.  Layer mashed cassava/yuca on top of the chicken layer.  Finish by sprinkling shredded cheese on top of the chicken layer.  Finish by sprinkling shredded cheese on top of the mashed cassava/yuca, distributing uniformly.  Cover tightly with a sheet of aluminum foil.  Bake for 30-40min.  Serve Esondidinho de frango warm by itself of accompaniied by a fresh salad or steamed vegetables."
+    },
+    {
+      "Id": 32,
+      "CuisineName": "Acaraje",
+      "Region": "Latin America",
+      "Country": "Brazil",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/f565b09227b742b3a5b7b5914227d5ae.jpg?mw=1300",
+      "Ingredients": "16oz dry black-eyed peas, 2 onions chopped, salt, 1/2lb shrimp, 4 cups coconut milk, 1 1/2oz roasted peanuts, 2 1/2oz cashews, 1 cup manioc flour toasted, Grated ginger, 3 cups dende oil, 1/2 onion with peel, salsa.",
+      "Directions": "In a food processor add the peas and process until coarse.  Transfer to a bowl and cover with cold water.  The skins will float to the top. Scoop them out and discard.  Allow peas to soak for 8 hours.  Drain water.  In food processor, add the soaked peas and half the chopped onion.  Blend until it turns into a paste.  Transfer to a large mixing bowl; sesaon with salt and mix with a wooden spoon until the volume doubles.  In a blender add the shrimp, coconut milk, peanuts, cashews, remaining chopped onion, manioc flour and ginger.  Blend until well combined, then transfer to a pan.  Season with salt.  Cook mixture over medium heat, stirring so it doesn't thicken.  Add some drops of palm oil, just enough to give it color and flavor.  In a deep-sided pan, add palm oil.  Place half the onion in the pan to gauge cooking temperature.  Place spoonfuls of the shrimp mixture in the oil, and let it fry until it's golden on both sides.  Remove from oil and allow to cool slightly.  Slice in half; stuff with pea mixture, salsa and shrimp."
+    },
+    {
+      "Id": 33,
+      "CuisineName": "Salchipapas",
+      "Region": "Latin America",
+      "Country": "Peru",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/81b433ea05e043c4a9b8b97f535d6ea8.jpg?mw=1300",
+      "Ingredients": "1 large Russet potato peeled and cut in sticks, oil for frying, salt, 1 beef sausage, ketchup, mustard, aji amarillo paste, mayonnaise, parsley chopped for garnish.",
+      "Directions": "Fry the potatoes in batches in hot oil over high heat until golden, then place them on a paper-lined plate and sprinkle with salt.  Slice the sausage into rounds or ovals, then stir-fry in a teaspoon of oil until golden and crispy.  Now add the fries to the pan with sausages.  Serve while still warm, with ketchup, mayonnaise, mustard, and aji amarillo paste."
+    },
+    {
+      "Id": 34,
+      "CuisineName": "Picadillo",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/f9c517e5c54d4c96b21d100a9bd581f7.jpg?mw=1300",
+      "Ingredients": "1 1/2lbs ground beef, 1 medium yellow onion minced, 4 cloves garlic minced, 3-4tbsp olive oil, 1 14.5oz can diced tomato, 1/2 cup raisins, 1 cup beef broth, 3/4 cup Manzanilla Olives, 1 medium baking potato cubed, 2 medium carrots cubed, 3/4 cup frozen green peas, Salt and pepper to taste.",
+      "Directions": "Heat oil in cooking pot.  Saute onion and garlic until the onion becomes soft and translucent.  Slowly add the ground beef.  Cook until it turns light brown.  Add diced tomato, beef broth, and raisins.  Stir and let boil. Cover and cook for 15min.  Add olives, carrots, potato, and green peas.  Stir and cover.  Cook for 10-12min.  Season with crushed black pepper and salt.  Cook for 3min more.  Transfer to serving plate."
+    },
+    {
+      "Id": 35,
+      "CuisineName": "Ropa Vieja",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/8d55a8dc11fe4061ae44bed6795eb1dd.jpg?mw=1300",
+      "Ingredients": "3lbs chuck roast, brisket, or flank steak.  2tbsp extra-virgin olive oil.  2 large onions chopped.  2 red bell peppers chopped. 2tbsp Diamond Crystal or 3 1/2 tsp salt.  8 garlic cloves finely grated.  1/2 cup dry white wine.  4tsp sweet paprika.  1tbsp dried Mexican or Italian oregano.  2tsp ground cumin.  1tsp black pepper.  1/2tsp cayenne pepper.  1 28oz can whole peeled tomatoes. 2 bay leaves.  3/4 cup pimiento-stuffed Spanish olives, halved crosswise.  2tsp distilled white vinegar. (for serving: Chopped cilantro, white rice, maduros, and black beans)",
+      "Directions": "Pat roast dry with paper towels.  Heat oil in large heatproof pot over high.  Cook chuch roast, turning occasionally until browned on both sides, 4-7min per side.  Transfer to plate.  Place rack in lower third of oven; preheat to 250C.  Cook onion, bell peppers, and salt, stirring occasionally until softened and beginning to brown, 12-14min.  Add garlic and cook, stirring frequently and scraping bottom of pan until vegetables are golden brown, 3-5min.  Stir in wine and cook, stirring occasionally, until evaporated.  Stir in paprika, oregano, cumin, black pepper, and cayenne until vegetables are coated; continue to cook, stirring, until spices are fragrant, about 1 minute.  Add tomatoes and coarsely break up with a spoon.  Bring to a boil and cook stirring occasionally, until liquid is reduced by half, about 5min.  Nestle roast into tomato mixture and tuck in bay leaves on either side.  Cover and transfer to oven.  Braise roast and vegetables until meat is very tender and shreds easily, 2 1/2-3 hours.  Let cool 15min.  Skim excess fat from sauce; discard bay leaves.  Using a potato masher or 2 forks, tear and smash beef into sauce until it's shredded and incorporated into sauce.  Stir in olives and vinegar.  Divide ropa vieja among plates.  Top with cilantro.  Serve with rice, maduros, and beans alongside."
+    },
+    {
+      "Id": 36,
+      "CuisineName": "Boliche",
+      "Region": "Latin America",
+      "Country": "Cuba",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/81fd3768548c4ac5a093642ceed53b35.jpg?mw=1300",
+      "Ingredients": "4lbs beef roast top round, 1/2lb chorizo, 8 stuffed olives sliced, 1 orange fresh squeezed juice, 1/2 lemon fresh squeezed juice, 1tsp salt, 1tsp cumin, 1/2 tsp pepper, 1 tsp oregano, 2 tbsp olive oil, 3 Roma tomatoes diced, 1 onion medium diced, 4 garlic cloves minced, 8 sprigs cilantro tied, 2 bay leaves, 3 cups water, 2 tbsp tomato paste.",
+      "Directions": "Place meat in a resealable bag and add the orange juice, lemon juice and salt. Marinate 8-12 hours.  In a small bowl place salt, pepper, cumin, and oregano.  Insert knife front to back and make an incision across the front.  Stuff with chorizo and olives.  Sprinkle with spice mixture.  Insert skewers (top to bottom) to hold filling in place.  Heat olive oil in a Dutch oven and add the meat.  Brown on all sides.  Turn heat to medium and add the tomatoes, onions, garlic, cilantro, bay leaves, water, and tomato paste.  Cover and cook on low for about 4 hours, turning every 15min or so.  Everytime you turn the meat pour the juice over it to keep the meat hydrated.  Generally served with rice, beans and plantains."
+    },
+    {
+      "Id": 37,
+      "CuisineName": "Carne Asada Tacos",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/images/recipes/d2f9d1143d3f4e0db65ddc362a3e24c5.jpg?mw=1300",
+      "Ingredients": "MARINADE: 2-3 cloves garlic sliced, 1 tsp fresh cracked pepper, 1 tsp kosher salt, 1/2 tsp Mexican oregano, Juice of 1 large lime, 1/4 cup olive oil.  AVAOCADO SALSA: 1 small Hass avocado, 1 serrano pepper, roughly chopped, 1 tbsp cilantro, 1 tbsp white onion, Juice of 1/2 lime, 1/3 cup + 2 tsp cold water, salt.  OTHER: 1.1lb skirt steak, 18 small corn tortillas, 1 small white onion finely diced, 1/3 cup cilantro chopped, 1/2 cup radishes sliced, 2 limes sliced into wedges.",
+      "Directions": "In blender mix all the marinade ingredients until smooth.  Add more salt if necessary.  Pour the marinade into a plastic bag and place the steak inside.  Zip the bad and marinate in the refrigerator for 2 hours.  Clean blender and add ingredients for avaocado salsa.  Blend until creamy, add more salt if required, and pour into serving dish.  Cover with some plastic film and refrigerate until serving time.  Prepare the garnishes - chop the onion and the cilantro, slice the radishes, and cut the limes into wedges.  Cover and chill until ready to serve.  Allow the meat to come to room temperature for at least 40-50min before grilling.  Preheat the outdoor grill for about 8-10min to medium/high heat, with lid closed.  Brush grates with some oil.  Remove any excess marinade from the meat and place it onto the grill.  Grill for approximately 7-10min.  Taking into account the thickness of the steak.  Turn over halfway through the cooking process.  If you wish your steak to be medium/rare, grill until the internal temperature reaches 130-135F.  For a medium cooked steak, let the temperature reach 145F.  Place the steak onto a cutting board and cover it loosely with some foil paper.  Let it rest for 5-7min.  In the meantime, warm the tortillas.  Slice the meat into thin strips, then cut into small, bite-sized chunks.  Assemble tacos with two tortillas stacked.  Top with avocado salsa, onion, cilantro, radishes and lime."
+    },
+    {
+      "Id": 38,
+      "CuisineName": "Nachos",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/eafb6093ae6c45e892134d37318077b4.jpg?mw=1300",
+      "Ingredients": "3 corn tortillas, 1 cup shredded longhorn cheese, 1 tbsp canola oil, 12 pickled jalapeno slices",
+      "Directions": "Begin by preheating oven to 350F, Apply oil to both sides on each tortilla using a brush.  Cut them into quarters and bake for 7-10 minutes until they become darker brown, but not burnt. Grate the cheese and sprinkle it on top of each tortilla quarter evenly, then top with one slice of pickled jalapeno per triangle.  Place the nachos in a baking dish and bake for 3 more minutes, so the cheese becomes bubbly.  Alternatively you can bake the nachos under a broiler for one minute.  Keep a close watch on the nachos, so they don't burn."
+    },
+    {
+      "Id": 39,
+      "CuisineName": "Breakfast Burrito",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/2f2175d0b10c4befbcca74cf8b5491ff.jpg?mw=1300",
+      "Ingredients": "FOR BURRITO: 1/4 cup vegetable oil, 3 large russet potatoes shredded, 1/2 tsp salt, freshly ground black pepper, 1 medium onion chopped, 1 garlic clove minced, 2-3 large eggs lightly beaten, 4 flour tortillas warmed, 8 slices bacon cooked until crisp, 6-8oz mild cheddar cheese grated.  FOR GREEN CHILE SAUCE: 2tbsp vegetable oil, 1/2-1 medium onion finely chopped, 2-3 garlic cloves minced, 1 tbsp all-purpose flour, 2 cups chopped roasted mild to medium-hot New Mexican green chile fresh or thawed frozen, 2 cups chicken or beef stock. FOR RED CHILE SAUCE: 8oz dried whole red New Mexican chile pods, 4 cups water or chicken stock, 2 tbsp vegetable oil, 1 medium onion minced, 3 garlic cloves minced, 1-2 tsp crumbled dried Mexican oregano or marjoram, 1 tsp salt.",
+      "Directions": "Start with preparing the green and red chile sauce.  For the green chile sauce, saute onion and garlic in a saucepan over medium heat for about 5min, until the onion becomes soft.  Add flour, stir, and cook for another 1-2min.  Now, add the chile and chicken or beef broth, and season with salt.  After mixture boils, turn down the heat and simmer for 15min.  The sauce should be thickened but still liquid.  For the red chile sauce, warm up a heavy skillet and toast the dried whole chile pods for 1-2min on each side.  Let them cool, put on some rubber gloves, and then break them up, removing stems and seeds.  Process them in a blender with 2 cups of water or chicken stock.  Heat the oil, and saute onion and garlic in a saucepan until the onion withers.  Stir in the blended chile, oregano, marjoram, and salt.  Pour in the remaining water or chicken stock, puree, reduce the heat and continue simmering for 20-25min.  Now prepare the burritos.  Preheat oven to 400F.  Slice the onions and grate the potatoes.  Heat the oil in a large skillet and add the potatotes.  Season with salt and pepper, even out, and cook for several minutes.  Then turn the potatoes over using a spatula, add onion and garlic, pat down and continue cooking for 12-15min, turning over occasionally, until the potatoes are golden brown and crispy.  Whisk the eggs and pour them over the potatoes.  Stir until the eggs are cooked, but still soft.  Fill each of the 4 tortillas with 1/4 of the potato-egg mixture and 2 slices of bacon.  Roll gently, so the seam side is on the bottom, and transfer to a baking tray.  Drizzle with red and green chile sauce and sprinkle with grated cheese.  Bake for 5 min, until the cheese has melted, and serve immediately."
+    },
+    {
+      "Id": 40,
+      "CuisineName": "Pozole",
+      "Region": "Latin America",
+      "Country": "Mexico",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/306b8ed64f454564b20368465152b209.jpg?mw=1300",
+      "Ingredients": "3L water, 1/2kg pozolero corn, 1/2 tbsp lime, 30g garlic, 1 tbsp mixed herbs, 1 1/2kg mixed pork, 1 tbsp salt, 50g onion.  CHILI DE ARBOL SAUCE: 100g dried chili de arbol without stems, 1 clove garlic, 1 cup pineapple vinegar, salt.  GARNISH: 1 onion finely chopped, 3 radishes sliced, 1/2 head romaine lettuce shredded, 6 lemons, 30g dry oregano.",
+      "Directions": "Place water, pozolero corn, and lime into a large pot and bring them to a boil.  Leave overnight, and on the next day drain the water and hull the corn kernels.  Put the cleaned corn kernels into a pot of clean water.  Cook until the corn bursts.  In a separate pot, cook the pork meat in water with salt, garlic, onion, and herbs until it softens.  Strain the broth and cut the meat into small pieces.  Return the meat and the broth to the pot of pozole.  Adjust the seasoning and bring to a boil.  To make the chili de arbol sauce, lightly toast dried chilis in a frying pan with a clove of garlic.  Process the chilis in a blender, add roasted garlic, vinegar, and salt.  Pulse again until a thick sauce is formed.  To serve, pour the pozole into separate serving bowls and serve with chili de arbol sauce, onion, radishes, lettuce, lemon, and oregano and on the side."
+    },
+    {
+      "Id": 41,
+      "CuisineName": "Mofongo",
+      "Region": "Latin America",
+      "Country": "Puerto Rico",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/b3a3637665314d46a4657c9bf7401cd3.jpg?mw=1300",
+      "Ingredients": "4 green plantains, 1lb of chicharron, 3 garlic cloves mashed, 4tsp of olive oil, 2 cups frying oil.",
+      "Directions": "Peel the plantains and cut them into 1 1/2 inch slices.  Place them in salted water for 15min to soak.  Drain on a cloth.  Fry the plantains in a 350F oil for about 12min until just golden.  Do not let them get very brown othewise they won't mash well.  Drain on paper towels.  Mash in mortar and pestle in batches, with some of the mashed garlic, olive oil and some chicharron.  Shape into four domes, one per each serving.  Serve as is, or with broth or meat."
+    },
+    {
+      "Id": 42,
+      "CuisineName": "Pizza Margherita",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/recipes/a99232294df34cc49be27526f6de291d.jpg?mw=1300",
+      "Ingredients": "MAKING THE DOUGH: 1L water, 40-60g salt, 3g fresh yeast, 1.6-1.8kg flour.  THE TOPPING: 60-80g canned peeled tomatoes, 6-7g virgin or extra virgin olive oil, 80-100g mozzarella/fior di latte, a few fresh basil leaves leaves, 5-7g hard cheese grated",
+      "Directions": "MAKING THE DOUGH: Dissolve salt in water, then add the yeast to the water and dissolve.  Immediately add a portion of the flour to the water and mix.  Add the remaining flour in batches, gauging how much flour is enough.  Knead for a minimum of 15-20min, but ideally 30min.  The dough is of ideal consistency when it's a bit sticky on the hands, and on the sides of a bowl, you're mixing it in.  Shape it into a ball, then lightly coat with flour, to prevent losing moisture as it rises.  FERMENTING THE DOUGH: Place the dough in a large bowl, then cover it with a cloth and store it in a warm place for two hours.  After two hours have passed, shape the dough into balls weighing either 200 or 280grams, depending on the size of the pizza you're making, 22-24cm or a 28-35cm one."
+    },
+    {
+      "Id": 43,
+      "CuisineName": "Mousse",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/71aba52873554307b73d405a4255058b.jpg?mw=1300",
+      "Ingredients": "311g of dark chocolate, 6 large eggs, 36g butter(half salted, half unsalted), 48g sugar, Pinch of salt",
+      "Directions": "Use a bain-marie(double boiler) to melt the chocolate and the butter until creamy and completely melted.  Cool slightly.  After separating the egg yolks and whites, place the egg whites in an immaculately clean big bowl.  Make sure ther are no traces of fat left in the bowl since that can stop the egg whites from fluffing.  Add a pinch of salt and beat the egg whites until stiff peaks.  Be mindful not to overbeat the whites.  Whipping gently, add the egg yolks and the sugar to the melted chocolate, one at a time.  When the mixture combines fully, lightly fold in a third of the egg whites.  Now, add the remaining egg whites, blending carefully.  Transfer the mousse into ramekins or bowls and put in the refrigerator to harden for at least 4-6 hours."
+    },
+    {
+      "Id": 44,
+      "CuisineName": "Paella",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/0b456cded8e245acb83036114c806091.jpg?mw=1300",
+      "Ingredients": "360g paella rice, arroz bomba or arroz redondo.  400g chicken meat with bone in, pieces of approx 4x4cm.  400g rabit meat with bone in, pieces of approx 4x4cm.  200g fresh Spanish garrofon beans or butter beans.  300g of green beans, in pieces of approx 4cm.  1 large tomato grated.  Approx 20 saffron strings soaked in a bit hot water.  1 sprig of rosemary.  1800ml of water.  100ml of extra virgin olive oil.  Salt.",
+      "Directions": "Place the paellera over a medium flame and fry the meats in olive oil for approximately 20 min, until golden brown.  Season with some salt during the frying process.  Next, add the fresh beans and lightly brown them.  Push the sauteed ingredient to the sides of the paellera and add the grated tomato in the center of the skillet.  Sautee the tomato until it becomes dark red, then combine it with the rest of the ingredients already in the pan.  Stir in the saffron and the liquid it was soaking in.  Pour the water in, throw in a rosemary sprig, and bring to a boil.  Measure the amount of liquid in the paellera using a spoon or a ruler, season with some salt.  When a bit less than half of the liquid has evaporated, add the rice.  Distribute the rice and the other ingredients evenly across the pan.  Take out the rosemary sprig.  Cook the paella over a high flame for approximately 8min, then lower heat, and cook for another 8 min, or until the liquid evaporates.  Now, turn on the heat again to make the soccarat.  When you hear and smell the toasting of the rice, remove the skillet from the heat.  Let it settle for about 5min before serving."
+    },
+    {
+      "Id": 45,
+      "CuisineName": "Pommes Frites(Belgian Fries)",
+      "Region": "Europe",
+      "Country": "Belgium",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/37a5c7e2ca0f45aca4111c3b06796b1d.jpg?mw=1300",
+      "Ingredients": "2 lbs bintje potatoes, vegetable oil, salt",
+      "Directions": "Peel the potatoes cut them first into 1cm thick slices and then into strips that are 1cm wide.  Place them in water for a few minutes, so that as much starch as possible gets washed out.  Take them out of the water and pat them dry thoroughly.  Fill a deep fryer or a frying pan with oil then heat it to a 160C.  Fry the potatoes in batches, adding only a handful at a time, for four to eight minutes, depending on the thickness.  Make sure to flip them often, so they do not stick.  Place them on a large plate lined with a paper towel and leave them to cool for at least half an hour.  Next, up the heat to 190C, then fry the potatoes a second time, but this time for two minutes only until they are golden and crisp.  Sprinle with salt, and serve with mayonnaise."
+    },
+    {
+      "Id": 46,
+      "CuisineName": "Risotto",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/70f5cf7e2f2540dcb0452825b0971837.jpg?mw=1300",
+      "Ingredients": "500g risott rice, 60g butter, 30g beef marrow, 2L beef broth, 1 onion finely diced, 1 pinch of saffron dissolved in a cup of broth, grated Parmesan, Salt.",
+      "Directions": "In a large heated saucepan add butter, diced onion, and marrow, the saute over a low flame until the onion becomes see-through.  Add the rice and mix thoroughly so that the rice absorbs the flavors.  Increase the heat and gradually start to add the hot beef broth to the rice, a ladle at a time, all the while mixing in regular, circular motions.  Each time the rice soaks up the broth, add some more.  Cook for approximately 15min, making sure the rice remains al dente.  Add the remaining broth with the saffron dissolved in it and turn off the heat.  Add grated parmesan and season with some salt."
+    },
+    {
+      "Id": 47,
+      "CuisineName": "Pretzel",
+      "Region": "Europe",
+      "Country": "Germany",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/a3d9f03625f14029a24dcadc88910171.jpg?mw=1300",
+      "Ingredients": "FOR THE DOUGH: 500g flour all purpose, 1 package yeast rapid rise, 1 1/2 tbsp sugar, 4 tbsp butter melted, 300ml water lukewarm.  FOR THE LYE: 1 1/2L water, 1 1/2 tsp salt, 2 tbsp baking soda. OTHER: 1-2tbsp coarse salt",
+      "Directions": "Attach a kneeding hook onto the stand mixer.  Add the flour, sugar, and yeast into the mixing bowl and combine with a spoon. Melt the butter and mix in with lukewarm water.  Kneed the dough at low speed for approximately 6min, gradually adding the butter and water mixture into the dry ingredients.  If you decide to use a handheld mixer instead, knead with hooks for approximately 10min.  Coat a bowl with some flour, then place the dough in.  Cover with a kitchen towel and leave to rise for about an hour or until the dough doubles in size.  Knead the rested dough with your hands, shape it into a long roll, and cut into 12 equal chunks(approx 70g each)  Next, roll the chunks into 20-inch strips, making sure that the middle part remains thicker than the ends.  The ends of the strips should be thick as a pencil.  Shape the strips into pretzels.  To make the lye, pour water into a high-sided saucepan, season with salt, and bring to a boil.  Remove the saucepan from the heat, then gradually and carefully add the baking soda, all the while stirring.  The soda will produce bubbles.  Bring the mixture back to a boil, then dunk the pretzels into the lye for 30 seconds (ensure they are completely covered in liquid)  Cover a cooling rack with some baking paper.  Use a skimming ladle to transfer the pretzels onto the rack.  Dry them with some paper towel, if necessary.  Make a horizontal cut in the thick part of the pretzel and sprinkle with some coarse salt.  Arrange the pretzels onto a baking tray covered with parchment paper and leave to rise for 15-20min.  Bake the pretzels on the middle rack in an oven preheated to 180-190C for 15-20min.  Remove the pretzels from the oven and allow them to cool on the cooling rack."
+    },
+    {
+      "Id": 48,
+      "CuisineName": "Tagliatelle al ragu alla Bolognese",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/8889349736294b0a929b69eb29d67dad.jpg?mw=1300",
+      "Ingredients": "3 tbxp olive oil or 50g butter, 300g coarse minced beef, 150g pancetta(unsmoked) finely diced, 50g carrots finely diced, 50g celery finely diced, 50g onion finely diced, 300g tomato passata or peeled tomatoes, Beef or poultry stock as needed, 1 cup whole milk, 1/2 cup red wine, salt and pepper, 1/2 cup whipping cream",
+      "Directions": "Start by melting and browning pancetta in a heavy-bottomed saucepan over medium-low heat until the fat melts away.  Add olive oil or butter, carrots, celery, and onion.  Saute the vegetables for about 10-15min or until soft.  Add minced beef, turning the heat up to high, and constantly stirring.  When the meat is well browned, pour in the wine and stir until it completely evaporates.  Stir in tomato passata or peeled tomatoes, partially cover and let it simmer slowly for about 2 hours, adding some stock as necessary and occasionally stirring.  Towards the end of cooking, once the beef is tender, add a cup of milk to soften the acidity of tomatoes.  Season to taste with salt and pepper.  Lastly if ragu is to be served with dry pasta instead of fresh taglatelle add 1/2 cup liquid whipping cream to the sauce."
+    },
+    {
+      "Id": 49,
+      "CuisineName": "Quiche",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/ec9dfc952dd148a8bbcf43cdbac6569a.jpg?mw=1300",
+      "Ingredients": "SHORTCRUST PASTRY: 200g flour, 100g butter, 1 pinch of salt, cold water as needed.  FILLING: 4 eggs, 200 ml creme fraiche, 200g smoked bacon, Pepper & nutmeg as desired, butter for frying.",
+      "Directions": "Preheat oven to 180C.  Place flour and salt into a large bowl, add the cubes of butter and work the butter into the flour with your fingers until the mixture becomes breadcrumb like.  Knead, adding cold water tablespoon by tablspoon to the flour and butter mixture just until it comes together into a smooth dough.  Wrap the ball of dough in cling film and refrigerate for 30min.  Lightly flour your working surface, then place the ball of dough on the flour and roll it out to fit a 23cm quiche pan, making sure you roll it out enough to cover the bottom and the sides of the pan.  Place the dough into a quiche pan that you've lined with baking paper, taking care it covers the bottom and the sides.  Cut off any excess dough.  Prick the dough with a fork.  Place baking paper over the dough, fill the pastry shell with beans or rice, then bake the crust for 10min.  Remove the rice or beans, along with the baking paper, and bake for another 10min.  Let the dough cool a bit.  Meanwhile, cut the bacon into strips, then fry it in a small amount of butter, just until it's cooked through and rendered but not crisp.  Drain the bacon paper towels, and throw away the rendered fat.  Arrange the strips of bacon on the bottom of the quiche shell.  Next, whisk the creme fraiche and the eggs in a separate bowl.  Add pepper and nutmeg, if desired.  Also, if needed, strain the custard to remove any leftover egg chunks.  Then pour the custard over the bacon into the quiche shell.  Bake for 15min."
+    },
+    {
+      "Id": 50,
+      "CuisineName": "Pasta Carbonara",
+      "Region": "Europe",  
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/990d2b4155d248ff8838ca8350be1d78.jpg?mw=1300",
+      "Ingredients": "12oz spaghetti, rigatoni, tonnarelli, or mezze maniche.  4oz guanciale(or rindless bacon, if guanciale is not available).  1/4 cup pecorino Romano, finely grated(or Parmigiano-Reggiano).  4 fresh large egg yolks, salt, black pepper freshly ground.",
+      "Directions": "If you'd like the end up with a crispier guanciale, first cut the guanciale into 1/2cm slices, then stack them, and cut into 5cm long strips.  If you'd like the guanciale to have more of a chew to it, crispy on the outside and soft on the inside, cut it into dices that are 1/2x1/2cm.  Add the yolks, the pecorino Romano, and a pinch of freshly ground black pepper to a bowl, then mix with a whisk.  Saute the guanciale(do not add any oil) over medium heat for 2 min, until crisp and rendered.  Take off heat and let it cool.  Cook the pasta according to package directions.  However drain it (preserve some of the pasta cooking water for later) a bit sooner than it states on the packaging, as it needs to be just shy of al dente.  It will continue to cook when mixed with the sauce.  Add the reserved pasta cooking water to the pan with guanciale, then add the pasta and stir thoroughly.  Next, take the pan with the guanciale and pasta of heat, then add the yolk and cheese mixture and stir quickly; otherwise, the eggs might get scrambled.  Season with more freshly ground pepper.  Serve lukewarm on warmed plates."
+    },
+    {
+      "Id": 51,
+      "CuisineName": "Fish and Chips",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/952be31521114ce89c8525996e17dbce.jpg?mw=1300",
+      "Ingredients": "FOR THE CHIPS: 800g unpeeled even size potato.  2 tbsp olive oil.  FOR THE PEAS: 300g frozen garden pea, 1 tbsp olive oil, 2 tsp lemon juice.  FOR THE FISH: 650g skinless haddock, hake or cod fillet, cut into 4 equal-size pieces.  50g self-raising flour, plus 1 tbsp, 50g cornflour, 1 egg white, 125ml ice-cold sparkling water, 1 lemon cut into wedges, 600ml sunflower oil for frying.",
+      "Directions": "To prep the potatoes, scrub them and cut them first into 1.5cm slices, and then cut each slice into 1.5cm thick chips.  Transfer the chips to a large saucepan and cover them with water.  Once the water is boiling, lower the heat and leave to simmer for only four minutes, then drain, and transfer onto clean cloth.  Pat dry the chips and leave them to cool.  While the chips are cooling, set the oven to preheat to 220C.  Once heated, place a large, shallow non-stick tray with one tbsp of olive oil onto the oven and leave it to warm for 10min.  Place the now cooled chips in a bowl and toss them with the remaining oil.  Arrange them in a single layer on a hot tray and bake them first for 10min, then turn them over and bake for another 5min.  Now, turn the chips a second time and bake them for 5-8min until they crisp up then place them on a paper towel to drain.  While the chips are still baking, you can prepare the peas.  Cook them in boiling water for four minutes.  Drain them and transfer them to a bowl, then using the back of a fork, lightly crush them.  Mix in the oil, lemon juice, and freshly grated pepper, then cover and set aside.  Put 1 tbsp of flour on a plate and pat dry the fish fillets with paper towels.  Coat each fillet in flour and pat off the excess.  Separately combine 50g flour, cornflour, a pinch of salt, and some ground pepper, then in another bowl whisk an egg white until it bubbles up.  Pour the water into the flour mix, carefully whisking as you pour, then add the egg white and whisk just until it mixes into the batter, which should not be entirely smooth, and you want to make sure you keep as many bubbles as possible.  Half-fill an heavy non-stick wok or a pan with oil and heat it to 200C.  Dip the fish fillets into the batter, making sure they are evenly coated and then immediately place them in hot oil.  Fry two fish fillets at a time for 5-6 minutes, turning them halfway through, all the time making sure the oil doesn't fall or go above 200C.  Use a slotted spoon to take the fillets out of the oil and place on a paper towel to drain.  Repeat the process with the remaining fillets.  Reheat the peas and divide them between plates, then add to each a portion of fish, chips and lemon wedges."
+    },
+    {
+      "Id": 52,
+      "CuisineName": "Fondue", 
+      "Region": "Europe",
+      "Country": "Switzerland",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/79b9b4bc2e8140659f854da1dced600c.jpg?mw=1300",
+      "Ingredients": "1 garlic clove halve, 1lb Gruyere cheese grated, 1/2lb Emmentaler cheese or other Swiss cheese grated, 1 cup dry white wine, 1 tbsp plu 1 tsp cornstarch, 1 tsp fresh lemon juice, 1 1/2 tbsp kirsch, Freshly ground pepper, Freshly grated nutmeg",
+      "Directions": "Rub the inside of a cheese fondue pot or medium enameled cast-iron casserole with the garlic clove; discard the garlic.  Combine the grated Gruyere and Emmentaler with the wine, cornstarch and lemon juice in the fondue pot and cook over moderate heat, stirring, occasionally, until the cheeses begin to melt, about 5 minutes.  Add the kirsch and a generous pinch each of pepper and nutmeg and cook, stirring gently, until creamy and smooth, about 10min; don't overcook the fondue or it will get stringy.  Serve at once."
+    },
+    {
+      "Id": 53,
+      "CuisineName": "Pizza Napoletana",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/785295d4ab6f4f0bab43d5fcf2e123b6.jpg?mw=1300",
+      "Ingredients": "THE DOUGH: 1L water, 40-60g salt, 3g fresh yeast, 1.6-1.8kg flour, THE TOPPING: 60-80g canned peeled tomatoes, 6-7g virgin or extra virgin olive oil, 80-100g mozzarella/fior di latte, a few fresh basil leaves, 5-7g hard cheese grated",
+      "Directions": "MAKING THE DOUGH: Dissolve salt in water, then add yeast to the water and dissolve.  Immediately add a portion of the flour to the water and mix.  Add the remaining flour in batches, gauging how much flour is enough.  Knead for a minimum of 15-20min, but ideally 30min.  The dough is of ideal consistency when it's a bit sticky on the hands, and on the sides of a bowl you're mixing it in.  Shape it into a ball then lightly coat with flour to prevent losing moisture as it rises.  FERMENTING THE DOUGH: Place the dough in a large bowl then cover it with a cloth and store it in a warm place for two hours.  After two hours have passed, shape the dough into balls weighing either 200 or 280g, depending on the size of the pizza you're making.  A 22-24cm or a 28-35cm one.  Once you've shaped the balls place them all on a plate and cover them with a damp cloth and let them prove for a minimum of six hours.  SHAPING THE DOUGH: Once at least six hours have passed, take a ball of dough, place it on a lightly floured surface.  Pressing on the ball of dough with the thumbs of your fingers, starting from the center and going towards the edges, shape into a disc, turning the dough several times in the process.  As a result of this action, you should end up with a disc that has about a 1-2cm raised rim with a center that should be approximately 0.3cm thick.  THE TOPPING: Arrange the topping(listed amounts are for a single pizza) as follows; First, place the crushed, peeled tomatoes in the center of the pizza, then spread them with a spoon all over, except the rim, in a spiraling fashion.  Next, scatter the mozzarella or fior di latte evenly over the surface.  Followed by a sprinkling of hard grated cheese, if you're using it.  Place a few basil leaves on top, and to finish, drizzle with extra virgin olive oil, which should be applied in a circular motion, starting from the center outwards.  BAKING: Place the pizza on a pizza peel and then slide it into a wood-fired oven with a quick wrist motion, so the topping stays in place.  Bake for 60-90 seconds in a wood-fired oven at a temperature of about 485C, checking the doneness by carefully lifting the edges of the pizza.  Also, the pizza should be rotated as it bakes but kept in the same cooking area, so every part gets baked evenly.  WHEN DONE:  The finished pizza should have a thick tomato sauce with melted mozzarella and basil leaves that have browned but are not burnt."
+    },
+    {
+      "Id": 54,
+      "CuisineName": "Lobster Bisque",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/0809873b805340dcbdb18110564779ef.jpg?mw=1300",
+      "Ingredients": "5-6 tbsp of mirepoix, 105g butter, 1.25L of consomme or fish stock, 75g short-grain rice, 2 small lobsters, 7 tbs of dry white wine, 3 tbs of cognac, salt, pepper, cayenne pepper, bouquet garni, 150ml creme fraiche",
+      "Directions": "Start by sauteing mirepoix in 40g butter and add to it two small lobsters that you've cut into pieces together with salt, pepper, and a bouquet garni.  Saute everything until the lobster shells turn red.  In a small ladle heat up 3 tbsp of cognac, pour that over the lobster, set alight and stir well.  Next, add 7 tbps of dry white wine and cook until it's reduced by two-thirds, then follow by adding 150ml of consomme and cook carefully for the next ten min.  When cold, shell the lobsters, finely dice the tail meat and save for garnishing later.  Pound the shells and process them with the rice cooked in 500ml of consomme, together with the cooking liquid.  Press that through a fine sieve and combine the shell puree together with the remaining consomme and boil for 5-6 minutes.  Make sure the bisque has cooled slightly before serving, add a dash of pepper, creme fraiche, and the remaining butter cut up into small pieces.  To finish, add the diced tail meat and serve piping hot."
+    },
+    {
+      "Id": 55,
+      "CuisineName": "Chorizo",
+      "Region": "Europe",
+      "Country": "Spain",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/5c1f3d5983594f4cad2f0e20fe445afb.jpg?mw=1300",
+      "Ingredients": "blank",
+      "Directions": "blank"
+    },
+    {
+      "Id": 56,
+      "CuisineName": "Gyros",
+      "Region": "Europe",
+      "Country": "Greece",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/254a002208804e0fa92fa354655fdaac.jpg?mw=1300",
+      "Ingredients": "FOR PORK GYROS: 1 pork tenderloin cut into strips, 1 clove garlic chopped, 1/2 red onion sliced, 3-4 tbsp of olive oil, 1-2 tbsp red wine vinegar, 1 tbsp oregano, thyme, rosemary, 1/2 tbsp honey.  FOR TZATZIKI SAUCE: 1 cucumber, 2 cloves garlic, 1/4 cut extra virgin olive oil, 500g yogurt, 1-2 tbsp red wine vinegar, salt and freshly ground pepper.  TO SERVE: 4 pita breads, 1 red onion sliced, 1 tomato sliced, fried potatoes, lettuce.",
+      "Directions": "Begin with preparing the pork gyros: cut the tenderloin into thin strips and place them in a large bowl.  Add garlic, onion, olive oil, vinegar and herbs and combine squeezing with your hands.  To finish, add honey, cover the bowl, and place it into the fridge for at least 2 hours and preferably overnight.  Heat a large non-sticking pan.  Toss in the pork with the entire marinade and saute for 1 minute without stirring.  Then, turn the ingredients on the other side and saute for another minute, until the meat is browned and crispy on the outside, but still soft and juicy on the inside.  Now, prepare the tzatziki sauce.  Pulse olive oil and garlic in a food processor until garlic is completely smooth and no chunks are left behind.  Grate the cucumber, season with salt and leave for 10min.  Now, drain the water out of the cucumber by wrapping it in a towel or a firm kitchen cloth and squeezing it with your hands.  Mix cucumber, blended garlic and olive oil, yogurt, vinegar, salt and pepper and put in a refrigerator to cool completely.  Preheat the oven to 250C.  Brush both sides of pita breads with some oil and season them with salt, pepper, and oregano.  Bake for 1 minute.  To finish, spread some tzatziki on the pita bread, arrange the gyros on top, and add sliced tomato and onion.  If you want to, you can also stuff some fried potatoes and lettuce in the pita bread.  Wrap the pita bread like a sandwich and serve."
+    },
+    {
+      "Id": 57,
+      "CuisineName": "Foie Gras",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/d2bb9ce304604df2b8f8789fde694ee0.jpg?mw=1300",
+      "Ingredients": "1 whole raw Grade A duck or goose foie gras at room temperature cleaned and deveined.  4 tsp kosher salt, 1/2 tsp freshly ground white pepper, 1/4 cup Sauternes or 3 tbsp Armagnac.",
+      "Directions": "Line a small roasting pan with either a folded kitchen towel or 6 layers of paper towels, and set the oven to preheat to 200F.  Sprinkle both sides of the liver lobes, as well as any loose pieces of liver, with salt and white pepper.  Sprinkle a third of the Sauternes in a terrine, then firmly press the larger lobe of foie gras smooth side down into the bottom of a terrine and pack any loose foie gras pieces into the bottom as well so that foie gras liver fits tightly.  Sprinkle with a third of Sauternes and place a smaller liver lobe into the terrine, smooth side up.  Press firmly, so it fits tightly, and the surface gets flat.  Tightly press the cling film onto the surface of the terrine to seal, then put a lid or foil on top of the terrine to cover it.  Place a terrine inside a roasting pan and fill it halfway up the terrine with hot water.  Put the roasting pan with the terrine inside into the preheated oven on a rack adjusted to the middle position.  Bake for 1 1/2 hours or until an instant-read thermometer reads 120F when inserted diagonally into the center of foie gras.  Take the terrine out of the pan, pour the water out and dispose of the towels.  Place the terrine back into the roasting pan and remove the lid.  Place a wrapped cardboard onto the surface of the foie gras, then put weights on top of the cardboard.  Leave the foie gras this way for 20 minutes at room temperature.  Take the weights and cardboard off the terrine and spoon back any fat that might have dripped over the side of the terrine onto the top to seal.  Cover the terrine and chill in the refrigerator for at least a day.  To unmold, run a hot knife around the edge of the foie gras and invert it on a plate.  Now, reinvert so that the side with the layer of fat is up.  For serving cut into slices with a heated sharp knife."
+    },
+    {
+      "Id": 58,
+      "CuisineName": "Focaccia",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://www.gimmesomeoven.com/wp-content/uploads/2017/03/Rosemary-Focaccia-Bread-Recipe-3.jpg",
+      "Ingredients": "Warm water, Sugar or Honey, Active dry yeast, Flour, Olive oil, Fresh rosemary",
+      "Directions": "Proof the yeast in the warm water and sugar.  Knead the dough, gradually add in flour, olive oil and salt.  Then knead for 5 minutes using the dough attachment or a stand mixer, or knead the dough by hand.  First dough rise.  Shape the dought into a ball and place it in a greased mixing bowl, and cover with a damp towel.  Let the dough rest in a warm location for 45-60min, or until it has doubled in size.  Second dough rise.  Shape the dough into a large circle or rectangle until that the dough is about 1/2 inch thick.  Cover and let the dough continue to rise for another 20 minutes.  Prepare the dough.  Heat oven to 400F.  Transfer the dough to a large parchment-covered baking sheet.  Use your fingers to poke deep dents.  Seriously, poke all the way down until you touch the baking sheet, all over the surface of the dough.  Then drizzle a tablespoon of two of olive oil evenly all over the top of the dough, and sprinkle evenly with the fresh rosemary needles and sea salt.  Bake for 20 minutes, or until the dough is slightly golden and cooked through.  Serve.  Remove from oven and drizzle with a little more olive oil if desired.  Slice, and serve warm."
+    },
+    {
+      "Id": 59,
+      "CuisineName": "Beef Pirog",
+      "Region": "Eastern Europe",
+      "Country": "Russia",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/2505620dcddf44ffa1fd21446d1626a4.jpg?mw=1300",
+      "Ingredients": "FOR FILLING: 2lbs ground beef, 4 medium potatoes, 1 red pepper thinly sliced, 1 carrot quartered and thinly sliced, 1 onion diced, 1 bunch green onions thinly sliced, 1tsp black pepper, 1tbsp salt, 1/4 cup water or broth, 2tbsp oil.  FOR DOUGH: 4 cups flour 500g, 1 cup melted butter(about 200g), 4 teaspoons baking powder, 1/2 cup hot water, 1tsp salt, 1 egg, 1 egg yolk for egg wash.",
+      "Directions": "To prepare dough, place the flour, salt and baking powder into a large bowl.  Add the melted butter and hot water, and mix using a spoon.  When mixed, it will still feel a bit dry, add the egg and mix.  If you add the egg with the hot butter, it can cook the egg, which ruins the dough.  Place the dough on a lightly floured surface.  The dough will be soft, so gently knead to keep the dough soft.  Prepare the vegetables.  Mix together the ground beef, thinly sliced vegetables, black pepper, salt, water and oil.  Cut the dough in 2/3 and 1/3 pieces.  The 2/3 will be used as the base of the Pirog pie, and the 1/3 piece will be the cover.  Roll the dough into about 1/2cm or 1/4 thick.  Put the larger dough inside a 8.5 x 11.5 baking pan, including up the sides. You can lightly grease the pan if you like, however the dough has enough butter so I find it doesn't stick.  Place the meat mixture inside and cover with the small piece of dough.  Pinch the dough edges together to seal.  Cut off any excess dough and set aside to make a dough pattern on top.  Using a fork, pierce the dough randomly across the top, to allow steam to escape when cooking.  Ensure the holes seal up, you can also cut a round circle in the middle.  Roll out the excess dough, and cut some leaf patterns.  Place on top of the pie.  Beat the egg yolk and brush the dough for a golden finish.  Preheat the oven to 350F/180C.  Place into the oven and cook for about 50-60min until golden brown, the potatoes are soft and the meat runs clear."
+    },
+    {
+      "Id": 60,
+      "CuisineName": "Moussaka",
+      "Region": "Eastern Europe",
+      "Country": "Greece",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/d714f264955840a980db8b9cfbf66d3b.jpg?mw=1300",
+      "Ingredients": "1lb chopped meat(traditionally minced or ground lamb), 3tbsp butter or lard, 3tbsp chopped onions, 1 cup tomato sauce, 1/2 cup dry breadcrumbs, 1 cup grated cheese, 2tbsp chopped parsley, 1 cup water, 3 or 4 round eggplants, salt, ground pepper, ground nutmeg.  BECHAMEL SAUCE: 1 quart milk, 1 cup flour, 3-4 tbsp butter, 2 eggs, salt, white pepper, grated nutmeg.",
+      "Directions": "Heat the butter or lard and saute chopped onions until browned.  Next, add the meat and stir until mixture reaches crumbly texture.  Stir in tomato sauce, wine, water, salt, pepper, parsley and nutmeg.  Use a lid to cover the pan and cook over low heat for one hour.  Cut the eggplants in thick slices.  Sprinkle with salt and let strain in a colander.  Fry the eggplant slices in deep fat, and strain again.  Moussaka can be made using other vegetables, such as potatoes, the combination of potatoes and eggplants, or eggplants, potatoes and pumpkins.  Prepare the bechamel by slowly heating milk, flour, butter and salt, white pepper and grated nutmeg.  And the eggs, and whisk until thick and completely smooth.  Place the eggplants in shallow pan and sprinkle with breadcrumbs.  Remove the meat from stove and stir in half the amount of grated cheese and half the breadcrumbs.  Using a spoon, spread an even layer of cooked meat over the fried eggplants.  Pour the bechamel sauce over the meat and eggplants.  Place the remaining cheese and breadcrumbs on top.  Finish with melted butter and bake for 15 minutes.  The moussaka is done when the top has turned golden brown.  Allow to cool and serve cut in squares."
+    },
+    {
+      "Id": 61,
+      "CuisineName": "Zakuski",
+      "Region": "Eastern Europe",
+      "Country": "Russia",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/e08c6bbc843c4dfdac898f96eeb9636d.jpg?mw=1300",
+      "Ingredients": "500g herring, 2-4 beets, 4-5 potatoes, 2-3 carrots, 1 onion, 4-5 eggs, 250g mayonnaise.  FOR DECORATION: Parsley, canned green peas",
+      "Directions": "Prepare three cooking pots.  In the first one, boil unpeeled potatoes and carrots for 20-30min, until they are soft.  In the second one, boil beets for 40-45min, depending on their size.  Finally, hard boil the eggs in the third one, about 10 minutes.  Set aside and cool.  Cut the herring into fillets and then into smaller pieces.  Peel and finely chop the onions.  If they taste bitter, soak them in shortly in boiling water.  Peel the vegetables and the eggs and prepare one or two flat-bottomed salad bowls.  Now start making layers.  Cover the bottom with a layer of herring.  Top evenly with chopped onions.  Take a coarse grater and grate a layer of potatoes, so they fully cover the onions.  Then spread mayonnaise on top.  Grate the eggs and spread them evenly on the surface, so they form the fourth layer.  Again, cover the mayonnaise.  Grate the carrots, create the fifth layer, and cover with mayonnaise.  Finish with a layer of grated beets on top and gently pat with your hands.  Decorate with fresh parsley and canned green peas.  Cool in the refrigerator for at least two hours and serve."
+    },
+    {
+      "Id": 62,
+      "CuisineName": "Carpaccio",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/e6cfb28c91114888845f8ebc5d4d6ee7.jpg?mw=1300",
+      "Ingredients": "1kg of young beef sirloin, salt.  CARPACCIO SAUCE: 250g homemade mayonnaise, 1tsp freshly squeezed lemon juice, 1-2tsp Worcestershire sauce, 30-45ml milk, freshly ground pepper, salt.",
+      "Directions": "First, take a piece of young beef sirloin and remove every trace of fat, gristle, and silver.  Place the meat in the refrigerator and leave to cool.  When the sirloin has cooled down completely, cut it into thin slices using a sharp knife or a slicing machine.  Place slices of meat on 6 shallow plates so each plate is fully covered.  Salt lightly and return to fridge for at least 5 minutes.  To make the carpaccio sauce, mix mayonnaise, Worcestershire sauce and lemon juice in a bowl.  Add milk to dilute slightly, and to taste with salt and pepper.  Drizzle the carpaccio sauce over the meat, and serve immediately."
+    },
+    {
+      "Id": 63,
+      "CuisineName": "Kasha",
+      "Region": "Eastern Europe",
+      "Country": "Russia",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/ee60c7c639314b76918e97a37e547531.jpg?mw=1300",
+      "Ingredients": "1 cup buckwheat groats, 2 cups water, salt, 30g vegetable oil, butter to taste.",
+      "Directions": "Wash buckwheat groats several times or under running water.  Transfer them to an adequate-sized pot, and cover with water.  Add salt and vegetable oil.  Cover and cook over medium heat until the water evaporates.  If you wish, add butter into the cooked kasha and let it melt.  Serve hot."
+    },
+    {
+      "Id": 64,
+      "CuisineName": "Meringue (Ile Flottante)",
+      "Region": "Europe",
+      "Country": "Switzerland",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/067b25afb8124d089b73c9e595a7ad62.jpg?mw=1300",
+      "Ingredients": "800ml milk, 1 vanilla bean, 8 egg yolks, 8 egg whites, 1 pinch of salt, 290g caster sugar.  FOR CARAMEL: 100g caster sugar, 2 tbsp water.",
+      "Directions": "Split the vanilla bean and scrape it into the milk.  Bring the milk to a boil, and in the meantime break the eggs, separating the egg whites from the egg yolks.  Now prepare the meringue.  Preheat the oven to 180C.  Whisk the egg whites into a firm snow with a pinch of salt and 40g sugar, added gradually.  Transfer the whisked egg whites into a savarin mold 22cm in diameter.  Place the mold into a bain-marie and bake for 30 minutes, until the top begins to brown slightly.  Let it cool completely.  Meanwhile, whip 8 egg yolks and 250g of sugar in a large bowl until they become light and fluffy.  Heat the vanilla-flavored milk and pour it slowly over this mixture, stirring constantly.  Transfer the custard into a cooking pot and cook over low heat, until it thickens.  Now, pour the custard into a large bowl whose diameter is larger than the one of the savarin mold, and place in a refrigerator to cool completely.  Remove the meringue from the mold and put it on top of the custard.  Now prepare the caramel.  In a heavy bottomed saucepan, melt sugar in water over very low heat.  After it has melted, increase the heat slightly and bring to a boil.  Do not stir, but rather tip the saucepan to distribute the heat.  Drizzle the caramel over the meringue.  Refrigerate until ile flottante is ready to be served."
+    },
+    {
+      "Id": 65,
+      "CuisineName": "Cannoli",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/c07579e068274383a2ab5b116b5df5c4.jpg?mw=1300",
+      "Ingredients": "FOR THE SHELLS: 150g plain flour, 50g caster sugar, 25g lard, 10g cocoa powder, 1 egg, 1tbsp Marsala or white wine, extra virgin olive oil.  FOR FILLING: 500g sheep's milk ricotta, 150g sugar, vanilla extract, dark chocolate, candied orange peel, chopped pistachios.",
+      "Directions": "Add all the ingredients for the pastry shells to a large bowl.  While mixing continuously, add wine or vinegar, then knead until you have a firm ball of dough with a texture similar to Play-Doh.  Cover the bowl with a kitchen towel, and set aside for 30 minutes so that the dough can rest.  Using a rolling pin, roll the dough out to thin sheets.  Alternatively, you can use a pasta machine for that.  Draw out an oval template on a piece of parchment paper, and use it to cut out oval shapes from the sheets of dough.  Wrap each cut-out piece of dough around a cannoli tin tube, making sure the two edges of the dough overlap.  Brush with a beaten egg white in between the edges of the dough, then overlap, and press lightly so the dough sticks together.  Once all cannoli shells are assembled, fry in hot lard or olive oil.  Transfer each finished cannoli onto a baking tray lined with paper towels to drain.  Wait for them to dry and cool completely, then remove the tubes.  Strain the ricotta through a fine mesh sieve, then combine the ricotta with sugar, vanilla extract, and chocolate flakes. Fill the piping bad with ricotta cream, then pipe the filling on each side of each cannoli shell.  Once all the cannoli shells are filled with ricotta cream, decorate them with candied orange peel and ground pistachios.  Dust with powdered sugar and serve immediately."
+    },
+    {
+      "Id": 66,
+      "CuisineName": "Souvlaki",
+      "Region": "Europe",
+      "Country": "Greece",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/90c413e6606d4c69af350324c8e69835.jpg?mw=1300",
+      "Ingredients": "1 kg pork shoulder boneless, 1 medium onion grated, 3 cloves of garlic minced, 1 tsp salt heaping, 1 tsp black pepper heaping, 1/4 cup olive (or canola) oil, 1 tsp dried Greek oregano heaping.",
+      "Directions": "Cut off any excess fat or membranes from the meat, then cut it into equal sized cubes.  Toss the meat in a large bowl together with all the marinade ingredients, then refrigerate for a minimum of five hours (best overnight).  Also place the wooden skewers in a shallow container filled with water overnight.  The next day take the meat out of the refrigerator and first wait until it comes to room temperatur and skewer it.  Grill the souvlaki over medium-high heat, about 3-4 minutes per side.  Keep warm until ready to serve.  Sprinkle the grilled souvlaki with lemon juice, salt, and Greek oregano.  Serve just with bread, or inside a pita with tzatziki sauce and toppings of your choice."
+    },
+    {
+      "Id": 67,
+      "CuisineName": "Greek Salad",
+      "Region": "Europe",
+      "Country": "Greece",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/acc4fd5eba9c41c1b655b5f3cce086e1.jpg?mw=1300",
+      "Ingredients": "3 large tomatoes, 1 cucumber, 1 onion(red or white), 1/2 tsp dried Greek oregano, 150g feta cheese, 8 black olives, olive oil, red vinegar, salt, some caper",
+      "Directions": "First prepare the vegetables.  Cut up tomatoes into wedges, cucumber into thick slices and thinly slice the onion.  Place the vegetables into a bowl, then add the cubes of feta cheese, olives, oregano, and optionally, capers.  Season with salt, to taste, and pour over with olive oil.  And, if using red-wine vinegar, first, make a dressing with olive oil, before you add it to the salad.  Now, toss the salad to combine and serve."
+    },
+    {
+      "Id": 68,
+      "CuisineName": "Gaufre (Belgian Waffle)",
+      "Region": "Europe",
+      "Country": "Belgium",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/e45454b9d6be4a63aac8c0fc0e717f79.jpg?mw=1300",
+      "Ingredients": "15g fresh beer yeast or 1g instant yeast, 125g whole milk, 125g flour, 1.25g salt, 7.5g white sugar, 2g orange zest, 3 eggs, 125g melted butter, 1 large spoonful of whipped cream.",
+      "Directions": "Combine the milk, flour and yeast in a medium sized bowl and let the mixture rise for 90 minutes.  Next, add the salt, sugar, orange zest, 1 whole egg and 2 egg yolks.  Mix to blend.  Gently combine the butter with the mixture.  Gently combine the butter with the mixture.  Beat 2 egg whites to soft peaks.  Fold the egg whites and the whipped cream into the batter.  Let the batter rise for about 2 hours, until it doubles its volume.  Cook the waffles at 191C/375F for 3 minutes.  Before serving, lightly dust them with some fine sugar."
+    },
+    {
+      "Id": 69,
+      "CuisineName": "Borscht",
+      "Region": "Europe",
+      "Country": "Ukraine",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/8bc2a081e04948f7a4413f1c9b2bd78d.jpg?mw=1300",
+      "Ingredients": "FOR BORSCHT: 3 medium beets peeled and grated, 4tbps olive oil divided, 8 cups chicken broth + 2 cups water, 3 medium yukon potatoes peeled and sliced into bite sized pieces, 2 carrots peeled and thinly sliced.  FOR ZAZHARKA: 2 celery ribs trimmed and finely chopped, 1 small red bell pepper finely chopped, 1 medium onion finely chopped, 4 tbsp ketchup or 3 tbsp tomato sauce. ADDITIONAL FLAVORINGS: 1 can white cannelini beans with their juice, 2 bay leaves, 2-3 tbsp white vinegar or to taste, 1 tsp sea salt, 1/4 tsp black pepper freshly ground, 1 large garlic clove pressed, 3 tbsp chopped dill.",
+      "Directions": "Peel, grate and/or slice all vegetables (keeping sliced potatoes in cold water to prevent browning until ready to use then drain)  Heat a large soup pot (5 1/2 Qt or larger) over medium/high heat and add 2 tbsp olive oil.  Add grated beets and saute 10 minutes, stirring occasionally until beets are softened.  Add 8 cups broth and 2 cups water.  Add sliced potatoes and sliced carrots then cook for 10-15 minutes or until easily pierced with a fork.  While potatoes are cooking, place a large skillet over medium/high heat and add 2 tbsp oil.  Add chopped onion, celery and bell pepper.  Saute stirring occasionally until softened and lightly golden (7-8 minutes).  Add 4 tbsp Ketchup and stir fry 30 seconds then transfer to the soup pot to continue cooking with the potatoes.  When potatoes and carrots reach desired softness, add 1 can of beans with their juice, 2 bay leaves, 2-3 tbsp white vinegar, 1 tsp salt, 1/4 tsp black pepper, 1 pressed garlic clove, and 3 tbsp chopped dill.  Simmer for an additional 2-3 minutes and add more salt and vinegar to taste."
+    },
+    {
+      "Id": 70,
+      "CuisineName": "Cordon Bleu",
+      "Region": "Europe",
+      "Country": "Switzerland",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/ed4e3c89a6e541a2acd6a61be25247df.jpg?mw=1300",
+      "Ingredients": "2 boneless pork cutlets pounded as thin as possible, Kosher salt and freshly ground black pepper, 2oz Emmentaler cheese thinly sliced, 2oz deli ham thinly sliced, 1/3 cup flour, 1 egg beaten, 1/2 cup breadcrumbs, 1 cup canola oil, 3 tbsp unsalted butter, lemon wedges.",
+      "Directions": "Beat the cutlets as thinly as possible then season them with salt and pepper.  Layer cheese and ham on one cutlet, taking care that you have 1/2 inch border along the edge, then top with the other cutlet.  Coat the stuffed cutlet first in flour, then dip it in egg, the dredge in breadcrumbs.  Heat oil and butter over medium heat, then once hot, fry each side for eight minutes until brown and crisp.  Serve hot with lemon wedges."
+    },
+    {
+      "Id": 71,
+      "CuisineName": "Ratatouille",
+      "Region": "Europe",
+      "Country": "France",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/5a9748c2067c4e00bfbad4334e858518.jpg?mw=1300",
+      "Ingredients": "3 onions, 500g tomatoes, 500g peppers(red, yellow and green), 500g zucchini, 500g eggplants, 100ml of olive oil, 2 cloves of garlic, 1 sprig of thyme, 1 bay leaf, 1 pinch of saffron threads, pepper freshly ground, salt.",
+      "Directions": "Wash and prep the vegetables.  Slice the onions, core the tomatoes and cut into cubes.  Halve the peppers; deseed and remove all the white parts, then cut into julienne strips.  Cut the ends of the zucchini and eggplants off, then cut into cubes.  Heat a tablespoon of olive oil in a skillet, and two tablespoons of olive oil in a dutch oven.  Saute each vegetable separately in the skillet, then transfer into a Dutch oven.  Start with the onions, followed by peppers, eggplants, zucchini, and tomatoes.  Add a tablespoon of olive oil to the skilled before you saute each new vegetable.  Crush the garlic cloves with the palm of your hand, then add them unpeeled to the Dutch oven, together with thyme, bay leaf, and saffron.  Season with salt and pepper.  Bring to a boil, then transfer to an oven preheated to 210C to simmer for 20 minutes."
+    },
+    {
+      "Id": 72,
+      "CuisineName": "Crostini",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/4e67bf18c38c4e8cbb36617b827ade5f.jpg?mw=1300",
+      "Ingredients": "2 chicken livers, 50g butter, 1 teaspoon of capers, some broth, salt, homemade bread.",
+      "Directions": "Clean and wash the chicken liver, and cook them in some broth until cooked, then drain.  Finely chop the capers and the liver then combine them in a bowl together with butter.  Mash using a fork until blended.  Season with salt to taste and spread over slices of toasted homemade bread."
+    },
+    {
+      "Id": 73,
+      "CuisineName": "Spaghetti alle vongole",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/df1dc40d4e1d46a485f263585ee6421c.jpg?mw=1300",
+      "Ingredients": "350g spaghetti, 1.5kg carpet-shell clams cleaned, 2 garlic cloves, 1 bunch parsley, 6 tbsp extra-virgin olive oil, 1 tip of the knife of peperoncino, salt.",
+      "Directions": "Saute the clams in two tablespoons of olive oil, together with one peeled and crushed garlic clove, and a small amount of previously washed and chopped parsley.  Cover with a lid, and cook over high heat until the clams open, shaking the pan from time to time.  Pluch the meat out of the clams, setting aside some of the clam shells for later, while discarding the rest.  Filter the cooking liquid.  Saute the remaining garlic clove in four tablespoons of olive oil.  Add the pepperoncino, clam meat, and the cooking liquid, and saute for a few minutes.  Next cook the spaghetti al dente, drain, and put them in the pan with clams, then mix everything well while still on the stove.  Plate and decorate with clam shells and parsley."
+    },
+    {
+      "Id": 74,
+      "CuisineName": "Parmigiana",
+      "Region": "Europe",
+      "Country": "Italy",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/e8a5cb3b7220453b809890fe5d4ca1a5.jpg?mw=1300",
+      "Ingredients": "4 eggplants medium sized, 5 hard boiled eggs sliced, 8 ripe tomatoes peeled, seeded and chopped.  1 clove of garlic, 1 tsp sugar, basil, salt, pepper, extra virgin olive oil, 150g tuna cheese diced, 150g caciocavallo cheese grated.",
+      "Directions": "Wash the eggplants, cut the stems off and slice them lengthwise into about 1/2 inch thick slices; sprinkle with salt and drain in a colander for about 30 minutes.  Meanwhile, prepare the tomato sauce: heat the olive oil in a large saucepan over medium-high heat and start by sauteing garlic for 1-2 minutes.  Then add chopped tomatoes to the saucepan and bring to a simmer.  Stir in the sugar and season with salt and pepper.  Simmer for another 4-5 minutes, occasionally stirring until the sauce has thickened, then remove from the heat and reserve to the side.  Once they're drained, dry the eggplant slices with a kitchen paper towel, and fry in sizzling hot oil until golden brown and almost crispy.  Spread a few tablespoons of tomato sauce evenly over the bottom of the prepared baking dish, followed by a single layer of eggplants, then slices of hard boiled eggs, diced tuma cheese, basil leaves, grated caciocavallo cheese and another few spoonfuls of tomato sauce.  Repeat these layers until you've used all the ingredients, finishing with eggplants and a good sprinling of grated caciocavallo.  Bake in a pre-heated oven at 180C for about 20 minutes or until well crisped and bubbly.  Serve warm or cold."
+    },
+    {
+      "Id": 75,
+      "CuisineName": "English Breakfast",
+      "Region": "Europe",
+      "Country": "England",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/b92a3d74b4cf48c28abba34197798049.jpg?w=905&h=510",
+      "Ingredients": "2 pork sausages, 1 tomato, 2 tbsp butter, 2 rashers bacon, 110g mushrooms, 1 (220g) tin baked beans, 1 large egg, 2 slices white or brown bread, salt and pepper, 1 sprig parsley.",
+      "Directions": "Set the oven to preheat to 220C/430F.  Place a pan over medium heat and once it has warmed, brown the sausages on every side, then cook them for five minutes.  Next, put them in a baking dish and bake for 10 minutes in the oven.  With a knife make a cross on the bottom of the tomato, then place in the baking tray together with the sausages, cross side up.  Bake the tomato and the sausages for 10 minutes, then turn the heat off and leave them inside the oven, so they remain warm.  In the same frying pan in which you've fried the sausages, first melt a tablespoon of butter, then fry mushrooms and bacon over high heat for seven minutes.  Once the mushrooms have softened, and the bacon is crispy transfer them to the oven, so they keep warm.  Add the beans to a small saucepan and cook over medium heat, stirring constantly.  Lastly, fry the egg, taking care that the yolk does not break and toast the bread, then spread the remaining butter over the toast.  Arrange the ingredients, sausages, bacon, beans, tomato, mushrooms, fried egg, and toast on a warm plater, then season with salt and pepper and serve."
+    },
+    {
+      "Id": 76,
+      "CuisineName": "Wiener Schnitzel",
+      "Region": "Europe",
+      "Country": "Austria",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/b11d13d7b8964b528bea8d19928f95b6.jpg?mw=1300",
+      "Ingredients": "4 veal cutlets, 150-180g each.  2 eggs beaten, 100g coarse ground flour, 100g breadcrumbs, salt, pepper, clarified butter and/or vegetable oil, lemon wedges or slices for garnish",
+      "Directions": "Place flour, breadcrumbs and beaten eggs into three separate wide and shalow containers.  Lay out the veal cutlet on a cutting board.  Remove any excess fat, then beat it with a meat pounder until very thin(2-4mm). Season both sides with salt and pepper and set aside on a plate.  Repeat this step with the remaining cutlets.  Dip each cutlet first into flour, then into the beaten eggs, taking care that the cutlets are completely coated in the egg wash before you place them in breadcrumbs.  Coat each cutlet in breadcrumbs by shaking the container, so that the breadcrumbs can reach every part of the cutlet without you using your fingers and possibly removing the previous layers of flour and eggs.  Carefully press on the breaded cutlet with the back of a fork, as that will help the coating fluff up even more during frying.  In a large frying pan melt enough clarified butter(or a combination of butter and a few tablespoons of vegetable oil) for the cutlets to be able to float.  The butter is at a frying temperature if when you sprinle it with some flour or breadcrumbs, it starts bubbling and sizzling.  At that point place the breaded cutlets into the pan and fry between 2-4 on one side, then flip using a spatula and fry for another 2-4 minutes. Once the schnitzels are golden brown on each side place them on a paper towel, then pat them lightly with a paper towel to soak up the excess fat.  Serve while still hot, with a side of your choice.  Either parsley potatoes, rice, potato salad, or mixed salad and lemon wedges to drizzle over the meat."
+    },
+    {
+      "Id": 77,
+      "CuisineName": "Pierogi",
+      "Region": "Eastern Europe",
+      "Country": "Poland",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/11be2ebc03d342df8ede1510e1057ecc.jpg?mw=1300",
+      "Ingredients": "FOR FILLING: 5 yellow potatoes(or 3 russet), 8oz Farmer cheese, 1tbsp Blue cheese, 2tbsp Cheddar cheese, 1 Onion(sweet, yellow, large) chopped, 1/2tsp Garlic powder, 1/2tsp Onion powder, 1tbsp Oil or ghee for onion, Kosher salt and freshly ground black pepper.  FOR DOUGH: 3 cups Whole purpose flour, 1/2 cup 2% Milk, 1/2 to 3/4 cup Warm water, 1 tbsp Butter melted and unsalted, A little kosher salt.  FOR TOPPINGS: 1 Onion(large, yellow) chopped, 3 slabs Bacon chopped, 1/2 cup Sour cream, 2 tbsp Oil or ghee for frying.",
+      "Directions": "FOR FILLING: Place potatoes in a pot, cover with water and cook until fork tender.  Heat up oil or ghee in frying pan, add onions and cook until golden brown.  Once potatoes are cooked, using a potato ricer or potato masher, mash potatoes.  Add farmer cheese and mix.  Add onions, other cheeses, spices, salt, pepper and mix well. FOR DOUGH: Pour the flour on a counter or other surface that will allow you to make the dough.  Add a pinch of salt.  Make a little hole in a middle and start adding milk and butter.  Add a little water at the time and work the dough until you can form a ball about 10-15minutes.  Once done, cover it with the big bowl and let it rest for about 20-30 minutes.  Roll the dough until thin and using either cookie cutter or large wine glass cut the circles; Place 1 teaspoon of the filling in the middle of the circle.  We one half of the circle and then seal it together.  Boil large pot of water and season with salt.  Once water is boiling put about 8 pierogi in at a time.  Once they come up to the surface let them cook for 1 minute then remove.  If you want to fry them, use 1 tbsp of oil or ghee and fry pierogi on each side until golden brown."
+    },
+    {
+      "Id": 78,
+      "CuisineName": "Beef Stroganoff",
+      "Region": "Europe",
+      "Country": "Russia",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/a3078ca2ae154366aed6f4e3aa61bc82.jpg?mw=1300",
+      "Ingredients": "BEEF STROGANOFF: 1 1/2lb beef tenderloin trimmed and cup into strips 2 inches long and 1/2 inch thick, 2 tbps butter, 1 small onion sliced paper thin, salt, freshly ground pepper, 2tbsp butter, 2 tbsp flour, 1tsp dry mustard, 1 cup rich beef bouillon, 1/4 cup sour cream, parsley chopped.  POTATO STRAWS: 4 baking potatoes, vegetable oil for deep frying, salt",
+      "Directions": "First step is make the rich beef bouillon.  Cook 2 cups of bouillon until so much of it evaporates that you're left with half(1 cup of rich bouillon).  Saute the onions in two tablespoons of butter, then once golden and soft, add the beef strips.  Turn the heat to high and cook, stirring from time to time, for a few minutes.  Sprinkle in the salt and pepper in the amount according to your taste.  Set aside, but make sure it stays warm until you work on the sauce.  Melt the two tablespoons of butter over medium heat, then stir in the flour and the mustard and cook for a mere minute.  Pour in the bouillon, little by little while constantly whisking, until it turns into a sauce and then add in the sour cream.  Add the sauce to the pan with the meat, add more salt and pepper if needed, and cook just until warmed.  Peel, then cut the potatoes into thin matchsticks.  Fry the potatoes in batches in oil preheated to 365F taking care not to overcrowd the pot so the temperature of the oil drops too much.  Take the potato straws out of the oil once they are golden and place them on a paper towel-lined tray to drain.  When you're ready to serve the dish, fry the potato straws in batches one more time in the same oil, only for a second or two, but this time heated to 370F.  The final result should be crisp and brown potato straws.  Lay the potato straws on a paper towel-lined tray to drain, then salt them as desired.  For serving, divide the meat and the sauce between plates and top them with potato straws."
+    },
+    {
+      "Id": 79,
+      "CuisineName": "Feijoada a Portuguesa",
+      "Region": "Europe",
+      "Country": "Portugal",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/8f9426e1cdf9419fafc796f757616678.jpg?mw=1300",
+      "Ingredients": "200g dried beef, 200g salted or smoked pork ribs, 200g salted pork feet, 100g salted pork tails, 100g salted pork ears, 150g smoked or salted pork loin, 100g paio sausage, 100g Portuguese sausage, 100g smoked beef tongue, 50g bacon, 900g black beans, 2 cups oil, 200g chopped onion, 100g chopped garlic, 6 bay leaves, 2 oranges cut in half.",
+      "Directions": "Clean the salted meat thoroughly by removing excess fat and hairs.  Soak in water for 24hours. Change the water 3-4 times during this period.  Boil the meat for 20 minutes over high heat.  Throw away the water the meat has been cooked in.  Place the beans, bay leaves, oranges, dried beef, pork feet, and pork ear in a large pot filled with water.  Cook for 30 minutes.  Then add ox tongue, pork tail, and pork ribs and cook for another 30 minutes.  Finally add the pork loin, paio sausage, Portuguese sausage, and bacon and cook for 30 more minutes.  During cooking, remove and discard any fat that floats on the surface and use a fork to check the degree of softness for each piece of meat.  If you estimate a particular piece is already cooked, take it out of the pot and set aside.  Meanwhile, heat the oil in a frying pan and saute onion and garlic until lightly browned.  Serve with white rice, sauteed cabbage and seasoned with olive oil and garlic, and a manioc farofa.  Remove the orange halves from the cooking pot, and stir in sauteed onion and garlic.  Take the meat out of the pot, cut into smaller pieces if necessary, then put back into the pot and simmer for 10-15 minutes over low heat."
+    },
+    {
+      "Id": 80,
+      "CuisineName": "Gulyas (Goulash)",
+      "Region": "Europe",
+      "Country": "Hungary",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/c248dc8942e1454f92e8e140141d02e7.jpg?mw=1300",
+      "Ingredients": "2 medium onions, 2tsp butter, 1tsp caraway seeds, 2tbsp paprika, 1/4 cup flour, 1 1/2lb stewing beef, 2 cups beef broth, 1 cup diced tomatoes, 1tsp salt, 1/4tsp pepper. OPTIONAL: 1 1/2 cup carrots, 3 cups potatoes.",
+      "Directions": "In a large pot, melt butter and add onion.  Cook until translucent.  Stir in caraway seeds and paprika and mix well.  In a bowl, dredge the stew beef with flour.  Add beef to the onion mixture and cook for about 2-3 minutes.  Slowly add about 1/4 cup of the beef broth to lift the brown bits off the bottom of the pan.  Then add remaining broth, diced tomatoes (potatoes and carrots if using), salt and pepper.  Stir and bring to a boil, cover, then reduce to a simmer for about 1 1/2 - 2 hours or until tender."
+    },
+    {
+      "Id": 81,
+      "CuisineName": "Sushi (Hosomaki)",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/fde953e5aa504e8c83a84691582b0399.jpg?mw=1300",
+      "Ingredients": "SUSHI RICE: 2 rice cooker cups japanese short grain rice, 2 inch kombu (dried kelp), 4 tbsp rice vinegar, 2 tbsp sugar, 1 tsp salt, water.  HOSOMAKI: 1 Persian/Japanese cucumber, 6.8oz sashimi-grade tuna, 1 box natto(fermented soybean), 5 sheets nori(seaweed), Soy sauce, Wasabi, Sushi ginger.  TEZU: 1/4 cup water, 1 tbsp rice vinegar.",
+      "Directions": "Rinse the rice several times to extract as much starch as possible, then soak it in water for at least half an hour.  Use a wet cloth to softly wipe the kombu, making sure not to remove the white powdery material on the surface.  Cook the rice in a rice cooker.  Throw in some dried kelp for extra flavor.  Mix rice vinegar, salt, and sugar in a small pan and bring to a boil over a medium-high flame, stirring until the sugar dissolves.  Leave to cool.  Transfer the cooked rice into a dampened flat-bottomed dish, add the sushi vinegar, and mix lightly.  Place a wet cloth over the dish and set aside.  To make hosomaki, cut both ends of the cucumber, then cut it lengthwise in half and repeat the process 2 more times, removing the seeds - you should end up with 8 strips.  After slicing the tuna into 1/4-1/2 inch pieces, cut those pieces into 1/4-1/2 inch thick long strips.  Season natto with some so sauce or the seasoning included in the package, then mix until gooey.  In a small bowl, combine 1/4 cup water and 1 tbsp rice vinegar.  Dipping your hands into this vinegared water stops the rice from sticking.  Halve the longer side of the rectangular seaweed.  Shiny side down, place the half sheet on the bamboo sushi mat, the longer side of the sheet parallel with the side of the mat nearest to you.  Leave 3-4 slats visible on this nearest side.  Moisten the measuring cup with vinegared water and scoop a mere 1/2 cup into your wet hand.  After placing the rice on the left-center of the nori sheet, spread it acros, leaving a 1 inch space along the top edge.  Next place one filling in the middle of the rice and holding it down with your fingers, roll the sushi over the filling, landing at the edge of the rice layer.  Lightly shape and tighten the roll through the mat.  After removing the mat, roll the sushi once more to seal the edge of the seaweed.  Cut the roll into 6 parts, moistening the knife with a damp cloth perpetually.  Serve with condiments."
+    },
+    {
+      "Id": 82,
+      "CuisineName": "Ramen",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/b6b9680a32c84a9381a1ea5f5e529698.jpg?mw=1300",
+      "Ingredients": "100g pork, 2 small oysters, 40g prawns, 120g cabbage, 1 kikurage mushroom, 2 spring onions, 80g onion, 40g kamaboko, 120g bean sprouts, 4 tsp lard, 1.6L chicken stock, 3 tbsp soy sauce, 2 tbsp sake, 1.5 tsp salt, pepper, 4 packs champon noodles.",
+      "Directions": "Cut the pork into bite-sized pieces.  Wash the oysters with saltwater, remove the shells from the prawns.  Cut the cabbage and kikurage mushroom into strips and finely slice the onion, the spring onion, and the kamaboko.  Heat the lard in a wok.  Quickly fry the pork, shrimps, onions, and kamaboko, stirring constantly.  Pour in the chicken stock and bring to a boil, then season with soy sauce, sake, salt, and pepper.  Add champon noodles, oysters, and bean sprouts and boil until the noodles are cooked.  Serve hot."
+    },
+    {
+      "Id": 83,
+      "CuisineName": "Dim sum",
+      "Region": "Asia",
+      "Country": "China",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/a000ac2b437b4c5aae6ca6b6b8ac384f.jpg?mw=1300",
+      "Ingredients": "FOR THE DOUGH: 250g flour, 1 egg, water.  FOR THE FILLING: 2 mushrooms, 100g carrot, 300g celery, 80g bean curd skin, ginger, 5 cloves garlic, green onion, 1 egg, 2-3 tbsp cooking oil + 500ml for frying, salt, pepper.",
+      "Directions": "Start with making the wrapper dough.  Sift flour into a large bowl and make a well in the middle.  Add egg and some water, and mix with a pair of chopsticks.  Add water gradually and knead into an elastic, smooth dough. Cover with plastic wrap and let it rest for 10 to 15 minutes.  Then, knead the dough, wrap it again, and let it rest for another 10 to 15 minutes.  Meanwhile, make the filling.  Chop the mushrooms, carrot, celery, and bean curd skin into very fine pieces. Peel the ginger and grate it.  Remove the husk from the garlic cloves and mince them. Place the vegetables in a large bowl, add sesame oil, and stir well.  Chop the green onion finely and set aside.  Break the egg into a small bowl, whisk and set aside.  Now, make the wrappers.  Remove the plastic wrap from the dough and knead it.  Lightly flour the working surface and roll out the dough with a rolling pin until almost trasparent.  Cut the dough into 4x4-inch squares.  Next fry the filling.  Heat 2 to 3 tbsp of cooking oil in a wok, add green onions and stir-fry for 5 to 10 seconds.  Then, toss in the vegetable mix and stir-fry for 3 to 5 minutes.  Season with salt and pepper.  Stir and set aside.  Now, assemble the spring rolls.  Put some filling in the middle of each wrapper.  Fold the bottom corner over the filling, then repeat with the left and right one.  The spring roll should resemble an open envelope at this point.  Roll the spring roll and seal the edges with the egg you have whisked previously.  Repeat with the remaining wrappers and filling.  Heat 500ml of cooking oil in a large wok.  Fry the spring rolls in small batches for approximately 2 minutes, until they turn golden.  Drain on paper towels, let them cool slightly, and serve warm."
+    },
+    {
+      "Id": 84,
+      "CuisineName": "Jiaozi",
+      "Region": "Asia",
+      "Country": "China",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/cdc9ff6690ad42ab9e96cbfff7d1af69.jpg?mw=1300",
+      "Ingredients": "FOR DOUGH: 300g flour, water, 2 tsp salt.  FOR FILLING: 400g minced pork, 400g suan cai - Chinese sauerkraut, 3 tbsp sunflower seed oil, 2 tsp white sugar, 10g green onions, 1 small piece ginger, 3 tsp soy sauce, salt.",
+      "Directions": "First, prepare the dough.  Mix flour and salt and add just enough water to get a smooth, elastic dough which does not stick to your hands.  Cover the dough and leave it to rest for for at least 30 minutes.  In the meantime, prepare the filling.  First, wash the suan cai and green onions and peel the ginger.  Chop the onions into small pieces and grate the ginger.  In a large bowl, combine pork, green onions, ginger, sunflower oil, salt, sugar and some cold water.  Squeeze the suan cai using your hands to drain it, cut it into smaller pieces, then stir it into the filling mixture.  Dust the working surface with flour and divide the dough into two pieces.  Roll out each half into a thin, long rope and cut it into smaller pieces similar to gnocchi.  Press each piece with the palm of your hand to get a flat circle.  Then using a rolling pin, roll it out, so the middle is slightly thicker than the edges.  Now, fill each dumpling wrapper with 1-1.5 tbsp of filling.  Place the dough circle on the palm of your left hand, drop the filling into the middle, and fold in half, sealing the edges, so they get a pleated appearance.  Repeat until all the wrappers are filled.  Boil a pot of water.  Add dumplings, and when the water starts boiling again pour in 1 cup of cold water.  Repeat three times.  When the dumplings start floating on the surface, take them out and serve."
+    },
+    {
+      "Id": 85,
+      "CuisineName": "Kimchi",
+      "Region": "Asia",
+      "Country": "South Korea",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/2afd12a4d2434e649bd9c00ef63f517e.jpg?mw=1300",
+      "Ingredients": "4.8kg (2 heads) Korean cabbage, 700g coarse salt, 4kg(20 cups) water, 1kg radish, 100g watercress, 200g small green onion, 200g mustard leaf, 200g oyster, FOR WASHING THE OYSTER: 6g (1/2 tbsp) salt, 400g (2 cups water) water. SEASONING: 130g ground red pepper, (100g 1/2 cup) salted anchovy juice, 100g salted shrimps, 12g (1 tbsp) sugar, 200g green onion, 80g (5 tbsp) minced garlic, 36g (3 tbsp) minced ginger. KIMCHI LIQUID: 100g (1/2 cup) water, 2g (1/2 tsp) salt.",
+      "Directions": "First prepare the cabbage.  Remove the outer leaves and trim the bottoms.  Cut each cabbage head in half.  Prepare a large bowl, fill it with 20 cups of water and 350g of salt, and stir until the salt has dissolved.  Rub the remaining 350g of salt between the cabbage petioles.  Immerse the cabbage in salt water cutting side up, and let it rest for 3 hours.  Turn the cabbage over, and soak for another 3 hours.  Then rinse the cabbage 3-4 times with running water and leave to drain for 1 hour.  In the meantime, wash and trim the radish, watercress, small green onion, and mustard leaves.  Cut the radish into 5cm long and 0.3 cm wide pieces, and the other vegetables into 4 cm long pieces.  Use mild salt water to wash the oyster.  Drain and set aside.  Mince the salted shrimps finely, reserving the liquid.  Mix ground red pepper with the salted shrimp liquid and the salted anchovy juice.  Pour red pepper liquid over the shred radish.  Mix well, add the remaining seasonings - sugar, green onion, garlic, and ginger, and mix again.  Add vegetables and oyster, mix gently, and season with salt.  Wrap the seasoned vegetable mixture into individual cabbage leaves.  Fold the leaves tightly to keep the vegetables in place.  Place the filled cabbage leaves into a jar until the jar is 70=80% full.  Place marinated outer leaves on top.  Mix the ingredients for kimchi liquid.  Pour it into the jar and press the filled vegetables down.  Leave the kimchi to ferment for 1-2 days at room temperature, then store in the regrigerator.  This will slow down the fermentation, but the kimchi will get more sour as time passes."
+    },
+    {
+      "Id": 86,
+      "CuisineName": "Baozi",
+      "Region": "Asia",
+      "Country": "China",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/4c265ad0d0e4421c8d16613b22e6ff72.jpg?mw=1300",
+      "Ingredients": "WRAPPERS: 2/3 cup all-purpose flour, 40ml (1/8 cup) water.  MEAT JELLY: 2.2 lbs pork skin without fat, 17 cups water, 2 cups green onion, 2 cups ginger, 2 cups cooking wine.  FILLING: 1/2 cup of minced pork, 1 tsp salt, 1 tsp sugar, 1 tsp white pepper powder, 2 tps rice wine, 2 tsp light soy sauce, 2 tps green onion, 2 tsp ginger, a splash of sesame oil.",
+      "Directions": "Mix the flour and the water until combined, then knead until you have a smooth dough.  Cover with cling film and let the dough rest for 30 minutes.  Shape the dough into a long roll, the divide into 10 same sized pieces.  Flatten each piece with the heel of your palm, then roll them out into a circle.  For the pork jelly, first, cut out all the fat from the pork skin, then blanch it.  Add all the ingredients for the pork jelly into a large pot and cook over high heat until boiling, then lower the heat until simmering.  Simmmer 2-3 hours, then filter, and throw away all the solids.  Pour the stock into a wide shallow pan, and wait until it cools and solidifies.  Once solidified, cube the pork jelly, and mix 2/3 cup of jelly with the rest of the ingredients to make the filling.  To assemble the dumpling, first, place the wrapper on your left palm and put the filling in the middle of the wrapper, then pinch the wrapper with your right hand.  Make creases with your left hand, and pinch with your right one, rotating the wrapper as you go.  Do the same to make the rest of the dumplings, and remember to seal the top of each dumpling.  Place the dumplings in a parchment paper-lined bamboo basket, place it over a wok of boiling water, cover with a lid and steam for about 10 minutes."
+    },
+    {
+      "Id": 87,
+      "CuisineName": "Biryani",
+      "Region": "Asia",
+      "Country": "India, Iran",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/8fd2297171484b88be3e3e6815979690.jpg?mw=1300",
+      "Ingredients": "750g (1.5lb) chicken thighs. MARINADE: 2/3 cup yoghurt(plain), 1/2 cup water, 2tbsp vegetable oil, 6 garlic cloves, 2 tsp finely grated fresh ginger, 1/8 tsp ground tumeric, 1/4 tsp cinnamon, 1/2 tsp cayenne, 1/2 tsp ground cardamom, 2 tsp garam marsala, 2 tsp coriander, 1 tbsp cumin, 2 tbsp paprika, 1 3/4 tsp salt. PAR BOILED RICE: 2 tbsp salt, 10 cloves, 5 dried bay leaves, 1 star anise, 6 green cardamom pods, 2 1/4 cups uncooked basmati rice. CRISPY ONIONS: 2 medium onions(halved & finely sliced), 1 cup oil(for frying)  SAFFRON: 1tsp saffron threads, 2tbsp warm water. BIRYANI: 1 cup coriander/cilantro(chopped), 1/4 cup ghee or unsalted butter.  GARNISH: Crispy onions, chopped coriander/cilantro, yoghurt.",
+      "Directions": "Mix marinade in a large pot.  Add chicken and coat well.  Marinade 20 minutes to overnight. BOILED RICE: Bring 3L water to boil, add salt and spices.  Add rice, bring back up to the boil then cook for 4 minutes, or until rice is just cooked still a bit firm in the middle.  Rice will taste salty at this stage, disappears in teh next stage of cooking.  Drain immediately.  Set aside.  CRISPY ONIONS: Heat oil in a large saucepan over medium high heat.  Cook onion in batches for 3-4 minutes, until golder brown.  Don't burn, they become bitter.  Remove onto paper towel lined plate.  Repeat with remaining onion.  SAFFRON: Place in a bowl, leave for 10 minutes.  BIRYANI: Place pot with chicken in it onto a stove over medium heat.  Cover and cook for 5 minutes, remove lid.  Cook for 5 minutes, turning chicken twice. Remove from heat.  Turn chicken so skin side is down, it should cover most of the base of the pot.  Scatter over half the onion then half the coriander.  Top with all the rice.  Gently pat down and flatten surface.  Drizzle saffron across rice surface in random patter, then drizzle over ghee.  Place lid on.  Return to stove over medium heat.  As soon as you see steam, turn down to low then cook for 25 minutes.  Remove from stove, rest with lid on for 10 minutes."
+    },
+    {
+      "Id": 88,
+      "CuisineName": "Tonkatsu",
+      "Region": "Asia",
+      "Country": "Japan",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/bad3bf5847bc4dee9ad59f1d9ca84725.jpg?mw=1300",
+      "Ingredients": "120-150g piece of tonkatsu pork or boned pork cutlet, 1cm thick.  Salt, pepper, 2tbsp white flour, 3tbsp panko breadcrumbs",
+      "Directions": "Make small cuts all around the edges of the meat and into the meat overall, or use a meat tenderizer and bash lightly.  This makes the meat less likely to curl and shrink up during cooking.  Lightly season the meat with salt and pepper.  Prepare three containers with flour, beaten egg and panko.  Coat the meat in the flour first, then dip in the beaten egg and coat in the breadcrumbs.  Prepare enough oil to completely immerse the cutlet and heat to 180C.  Put the cutlets in the oil for 30 seconds.  Take the cutlets out, and let the oil cool down to 170C.  Remove any breadcrumbs from the oil.  Fry the cutlets one at a time for about 2-3 minutes.  Drain and serve immediately.  If the diners will be using chopsticks, slice the meat.  Complete with raw shredded cabbage, a lemon wedge and tonkatsu sauce."
+    },
+    {
+      "Id": 89,
+      "CuisineName": "Hummus",
+      "Region": "Asia",
+      "Country": "Lebanon, Iraq, Israel, Syria, Turkey, Palestine",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/61d5db7fc3cc42c896813471d334d052.jpg?mw=1300",
+      "Ingredients": "1 cup dried chickpeas, 1/2 cup tahini, juice from 1 squeezed lemon, 1-2 garlic cloves, 1/2 tsp cumin, 1tbsp + 1/8=1/4 tsp baking soda, salt, olive oil, parsley",
+      "Directions": "Inspect the chickpeas for any damaged grains, stones, and any possible debris, then throw them away.  Wash the chickpeas until the water is clear; you will need to wash them several times.  Place them in a pot of water together with a tablespoon of baking soda and let them soak overnight.  The next day, wash them and put them in a pot of fresh water to soak for a few additional hours.  Thoroughly wash the chickpeas, then put them in a pot filled with water then add the rest of the baking soda.  Cook for 1-1 1/2 hours until the chickpeas are tender to the point they can be smashed by pressing them between two fingers.  While the chickpeas are cooking it is recommended to change the water midway during cooking.  Also, as the chickpeas are cooking, remove any foam or peels that come to the surface.  Once cooked, strain the chickpeas but reserve the cooking water for later.  Grind the chickpeas in a food processor, then wait until they cool a bit before continuing.  When cooled a bit, add the remaining ingredients and grind to the desired texture.  If it's still too thick, add some of the cooking water.  Serve warm, topped with olive oil, and garnished with chopped parsley."
+    },
+    {
+      "Id": 90,
+      "CuisineName": "Bulgogi",
+      "Region": "Asia",
+      "Country": "South Korea",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/eee2ad665ef54610b8aeb5a43ce74677.jpg?mw=1300",
+      "Ingredients": "1lb flank steak thinly sliced, 5tbsp soy sauce, 2 1/2 tbsp white sugar, 1/4 cup chopped green onion, 2tbsp minced garlic, 2tbsp sesame seeds, 2tbsp sesame oil, 1/2tsp ground black pepper.",
+      "Directions": "Place beef in a shallow dish.  Combine soy sauce, sugar, green onion, garlic, sesame seeds, sesame oil, and ground black pepper in a small bowl.  Pour over beef.  Cover and refrigerate for at least 1 hour or overnight.  Preheat an outdoor grill for high heat, and lightly oil the grate.  Quickly grill beef on hot grill until slightly charred and cook through, 1 to 2 minutes per side."
+    },
+    {
+      "Id": 91,
+      "CuisineName": "Kofte",
+      "Region": "Asia",
+      "Country": "Turkey",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/152cb7ea0d3947b8bb61cec0428391ca.jpg?mw=1300",
+      "Ingredients": "2lbs ground beef 80% lean, 1/2 cup breadcrumbs, 2 onions finely grated and excessive juice removed, 4 cloves garlic mashed, 1 1/2 tsp salt, 1tsp black pepper, 1 tsp cumin, 1tsp red pepper flakes or Aleppo pepper, 1tsp dried thyme, 1tsp chili powder, 1/4 cup water, 1tsp baking soda, 1tsp lemon juice.",
+      "Directions": "In a large bowl, combine ground beef, breadcrumbs, finely diced onion and mashed garlic.  Add in spices. In a small bowl, mix baking soda, water and lemon juice.  Pour this into the ground beef mixture.  Mix well with your hand.  Knead it for 5 minutes so that everything is combined well.  Cover and let it sit in the refrigerator overnight or at least 2-3 hours.  Roll them into meatballs.  Heat olive oil in a cast iron pan or any non-stick pan.  Cook the meatballs over high heat, flipping them over  or shaking the pan occasionally so that all sides are cooked for about 3 minutes.  Don't overcrowd the pan, cook the meatballs in batches until they finish or save some to freeze."
+    },
+    {
+      "Id": 92,
+      "CuisineName": "Butter Chicken",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/f110acd777ca43889ceafb24c17f752d.jpg?mw=1300",
+      "Ingredients": "700g of chicken, FOR MARINADE: 1tsp red chili powder, 1tsp ginger and garlic paste, salt, 1/2kg curd.  FOR GRAVY: 175g white butter, 1/2tsp black cumin seeds, 1/2kg tomato pureed, 1/2tsp sugar, 1tsp red chili powder, salt, 100g fresh cream, 4 green chillies sliced, 1/2tsp fenugreek leaves crushed.",
+      "Directions": "First prepare the chicken.  In a mixture of red chili powder, ginger, garlic paste, salt, and curd, leave the chicken to marinate in the refrigerator for a minimum of six hours, but best overnight.  The following day, roast the marinated chicken in the oven preheated at 200C for 10-12 minutes.  The meat should not be fully cooked, but only about 3/4 done.  Next, start making the gravy.  Melt one-half of the butter in a pan and then add the tomato puree and cook for 2-3 minutes before you start adding cumin seeds, sugar, red chili powder, and salt.  Now, add the chicken, the remaining butter, fresh cream, sliced green chilies, and fenugreek leaves.  Saute for 3-4 minutes, then continue cooking until the chicken is done.  Serve ladled over a bowl of rice or with a side of naan bread."
+    },
+    {
+      "Id": 93,
+      "CuisineName": "Tandoori Chicken",
+      "Region": "Asia",
+      "Country": "India",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/bdab2e7920f0409188d0b3646826893a.jpg?mw=1300",
+      "Ingredients": "1 whole chicken without skin (approx 1600-1700g) FIRST MARINADE: 1 1/2 tbsp lime juice, 1 tsp red chili powder, 1 tsp salt.  SECOND MARINADE: 1/2 cup yoghurt, 1tbsp garlic paste, 1tbsp ginger paste, 1/2 tsp black salt, 1tsp garam masala powder, 1/2 tsp dried fenugreek leaves, refined oil for basting.",
+      "Directions": "With a knife make two incisions, to the bone, on the breast and drumsticks.  Prepare the first marinade by combining all of the ingredients and rub it into the chicken, then leave to marinade for an hour.  Next comes the second marinade.  Combine the ingredients and rub it into the chicken, then leave it to marinate for the next three hours.  Use a skewer to fix the chicken and then roast it at 180C in a preheated oven, grill, or a tandoor(if you have one).  Roast the chicken in the oven for 45 minutes.(In a tandoor it will take 10 min)  After 5 minutes baste the chicken with refined oil.  When done, remove the skewer and joint the chicken.  Serve the chicken with onion rings and lime wedges."
+    },
+    {
+      "Id": 94,
+      "CuisineName": "Kung Pao Chicken",
+      "Region": "Asia",
+      "Country": "China",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/91e1f0236e414f9dbaefe548f5384a20.jpg?mw=1300",
+      "Ingredients": "CHICKEN: 28oz boneless/skinless chicken breast cubed, 1tbsp shaoxing wine or dry sherry, 1tbsp light soy sauce, 2tsp baking soda, 1tsp cornstarch/corn flour.  SAUCE: 1/2 cup low-sodium chicken stock(or broth), 5tbsp light soy sauce, 2 tbsp Chinese black vinegar(or balsamic vinegar), 2 tsp dark soy sauce, 2tbsp sugar, 1tsp cornstarch/corn flour.  STIR FRY: 4 tbsp cooking oil divided, 1 1/2 tbsp garlic (4-6 cloves), 1tbsp ginger, 1/2 red bell pepper seeded and diced, 1/2 green bell pepper seeded and diced, 8-10 dried chillies cut into 1/2 inch pieces, 1tbsp Sichuan peppercorns lightly toasted and ground, 4 green onion/scallion stems cut into 1 inch pieces, 1/2 cup roasted/unsalted peanuts, 2 tsp sesame oil optional.",
+      "Directions": "Combine all ingredients for the chicken in a shallow bowl; cover and marinate for 10 minutes.  Whisk sauce ingredients together until sugar dissolves; set asid.  Heat a large skillet, pan or wok over high heat.  Add 2 tbsps of cooking oil, allow to heat up, then add marinated chicken.  Fry chicken for 3-4 minutes while occasionally stirring, until edges are browned.  Remove from heat and set aside.  Add remaining cooking oil into the same pan/wok.  Stir in garlic, ginger, chili diced peppers and Sichuan peppercorns and stir fry for 1 minute.  Give the prepared sauce a mix, then pour it into the pan and bring it to a boil while stirring.  Once it begins to thicken slightly, add chicken back into the pan/wok and mix all of the ingredients through the sauce until the chicken is evenly coated and sauce has thickened.  Stir in green onions, peanuts and sesame oil.  Toss well and continue to cook for a further 2 minutes to infuse all of the flavours together.  Serve immediately with steamed/cooked rice or fried rice!"
+    },
+    {
+      "Id": 95,
+      "CuisineName": "Biltong",
+      "Region": "South Africa",
+      "Country": "Africa",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/5f6305cd06204bd99c8647989afc2b62.jpg?mw=1300",
+      "Ingredients": "Beef(preferably silverside), rock salt, black pepper ground coarse, vinegar",
+      "Directions": "First prepare the beef, cut 1/2 inch thick strips along the grain, and make each strip around 6 inches long.  Season the meat with salt on each side. Leave it for one hour or longer if you wish your biltong to be saltier.  Then use a knife to scrape off the excess salt.  Put some vinegar in a bowl.  You can use apple cider vinegar or any other to your liking.  Brush vinegar on the meat, but do not dip.  Next season the meat by rubbing pepper and coriander on all sides.  Dry the meat by choosing one of the following methods: either hand it in a dry and cool place and turn on the ventilator, or dry the meat in a biltong box - a sealed wooden or cardboard box with holes with a 60w light bulb.  Dry the meat for 3-4 days - it needs to be hard on the outside and a little bit moist on the inside.  Do not consume if the meat turns green."
+    },
+    {
+      "Id": 96,
+      "CuisineName": "Bunny Chow",
+      "Region": "South Africa",
+      "Country": "Durban",
+      "Image": "https://www.africanbites.com/wp-content/uploads/2016/01/IMG_5295.jpg",
+      "Ingredients": "1lb chicken thighs or breast cut in bite sized pieces, 1/2 cup canola or cooking oil, 2-3 curry leaves, 1tsp minced ginger, 2tsp minced garlic, 1tbsp curry powder, 1 medium onion diced, 1 cinnamon stick, 1 1/2 tsp paprika, 3 green cardamom pods lightly crushed, 8oz or less potatoes cleaned and cut into cubes, 1 15oz can chickpeas rinsed and drained, 1/2 tsp cayenne pepper, 1 1/2 cup or more chicken broth, salt, pepper.",
+      "Directions": "When ready to cook, heat up large Sauce pan with oil, and add onions, garlic, ginger, cinnamon stick, curry leaves, cardamom pods, curry powder, stir occasionally for about 2-3 minutes until onions are translucent.  Add tomatoes followed by chicken, stir and saute for about 2-3 more minutes. Add chicken stock if necessary to prevent burns.  Next add chickpeas, potatoes and chicken broth, about 1 1/2 cup, add more as needed.  Bring to a boil and let it simmer until sauce thickens, it might take about 25 minutes or more.  Adjust for salt, pepper and stew consitency."
+    },
+    {
+      "Id": 97,
+      "CuisineName": "Piri Piri Chicken",
+      "Region": "South Africa",
+      "Country": "Africa",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/c6b34701a6774dca83b486992d618a4c.jpg?mw=1300",
+      "Ingredients": "Juice of 2 lemons, 1tbsp white vinegar, 1/4 cup extra virgin olive oil, 1/2 yellow onion chopped, 1 1/2 tsp minced garlic, 1 tsp salt, 1/2 tsp ground black pepper, 1 tsp cayenne pepper, 1 tbsp chili powder, 1 tbsp paprika, 1 tsp ground oregano, 1/2 tsp ground ginger, 2 lbs boneless skinless chicken breasts.",
+      "Directions": "In a large bowl, whisk together everything except for the chicken.  Add the chicken and toss with tongs to coat in the marinade.  Cover with plastic wrap and refrigerate overnight, or at least three hours.  When ready to cook, preheat your oven to 350F.  Heat an oven safe skillet over medium-high heat until very hot.  Use tongs to transfer the chicken breasts out of the bowl and into the pan, reserving the marinade.  Let cook for 2-3 minutes per side, until nice and browned.  Pour the reserved marinade into the pan and spoon the sauce onto the chicken.  Turn off the stove, and use oven mitts to transfer the pan to pre heated oven.  Let cook in oven for 15-20 minutes (depending on thickness of chicken breasts) or cooked through."
+    },
+    {
+      "Id": 98,
+      "CuisineName": "Svickova",
+      "Region": "Eastern Europe",
+      "Country": "Czech Republic",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/816ef03512524348a002bdbcb449f7ef.jpg?mw=1300",
+      "Ingredients": "1.5lbl beef sirloin, 2oz bacon fat, 1 cup beef or vegetable stock, salt, pepper, 1 tbsp vinegar, 1 large carrot diced, 7oz root celeriac diced, 1 medium parsley rood diced, 1 large onion chopped, 3.5oz butter melted, 10 black peppercorns, 4 allspice berries, 2 bay leafs, juice from 1 lemon or 1 tbsp vinegar, 1 cup heavy cream, all purpose flour if needed, sugar. BREAD DUMPLINGS: 2 pinches of salt, 1/2 tsp ground mace, 2 cups coarse flour, 2 cups semi coarse flour, Approx 1 cup lukewarm milk, 2 tsp sugar, 2-3 rolls or buns, 1 egg, 1 cube fresh yeast.",
+      "Directions": "Lard the meat (prick it with a knife or a big kitchen needle and stuff strips of bacon fat through the sirloin)  Season with salt and pepper.  Add the spices, diced root vegetables, lemon juice, vinegar and pour melted butter over the meat to seal it.  Let it marinate in a fridge overnight.  Add the stock, cover with a lid and braise in oven at 320F until the meat is very soft(you should be able to cut it with a fork).  Generally takes 2-4 hours.  Remove excess meat and press the vegetables through a fine sieve. Use a hand blender if the texture is still not very fine and creamy.  Add the cream and bring to boil, add salt, lemon, vinegar or sugar to taste.  If the sauce isn't thick enough, you can thicken it with flour.  Cut sirloin into half-inch thick circles; put these back into sauce to heat them through.  Serve with cranberry preserve.  Putting a little dollop of whipped cream in the sauce is also quite a traditional way of serving your svickova.  BREAD DUMPLINGS: First mix flours with the salt and spices.  Dissolve sugar in half the milk, add crumbled yeast and let it grow there a bit, until 'islands' of new yeast start to form on surface.  Pour egg into flour, then milk, and yeast.  Knead with your hands.  Keep adding milk until you have a nice dough that's not too dry and not too sticky.  Cut rolls or buns into small dice.  Mix bread into dough.  Form the dumpling mixture into rolls(2-3 inch diameter) will be fairly big after you let dough rise for 45 minutes.  Gently lower the roll into salted boiling water and cook for 16-19 minutes.  You want to take it out before crust gets slimy.  Prick with fork.  When you're ready to serve cut the dumpling into circles 2/3 inches thick."
+    },
+    {
+      "Id": 99,
+      "CuisineName": "Chlebicky",
+      "Region": "Eastern Europe",
+      "Country": "Czech Republic",
+      "Image": "https://allwaysdelicious.com/wp-content/uploads/2021/01/chlebicky-la-vert-2-682x1024.jpg",
+      "Ingredients": "1/2 cup unsalted butter, 1-3 tsp anchovy paste, 1 thick baguette, 4 hard boiled eggs, 2oz hard salami, 2oz deli sliced ham, 2oz cheese, 2 pickles sliced, 2 pickled beet sliced, 8 pimiento stuffed olives sliced, 1 4oz can sardines, fresh herbs like chives or dill",
+      "Directions": "In a small bowl, stir together the butter and anchovy paste until well comnbined.  Taste and add additional anchovy paste as needed.  Spread a bit of the anchovy butter onto each slice of bread.  Top each bread slice with assorted toppings.  Make each one different. Have fun! Serve immediately."
+    },
+    {
+      "Id": 100,
+      "CuisineName": "Bramboraky",
+      "Region": "Eastern Europe",
+      "Country": "Czech Republic",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/44a39b3cdc874bb3bc6eff9986d1c7f5.jpg?mw=1300",
+      "Ingredients": "2lbs potatoes, 2/3 cup all purpose flour, 1 egg, 1/2 cup milk(hot), 5 cloves of garlic(freshly pressed), 1 tbsp marjoram(dried), 1tsp caraway seeds(crushed), 1tsp salt, pork lard(for frying)",
+      "Directions": "Peel potatoes and finely grate them.  Leave it to stand for a moment and pour water out of mixture.  Meanwhile, heat milk until it gets hot.  Peel and press the garlic.  Pour hot milk over grated potatoes and mix.  Add garlic, flour, eggs, marjoram, caraway seeds, and salt.  Stir well to combine.  You will get semi-liquid batter.  Melt the lard in a pan on medium heat.  Place the mixture in the middle of hot pan.  Use a spatula or flat side of a spoon to flatten.  Spread mixture to make a bramborak about 6 inches wide.  Bramborak should be 1/4 inch thick.  Fry for about 3-4 minutes until golden.  Serve as quickly as possible while still crispy and taste the best."
+    },
+    {
+      "Id": 101,
+      "CuisineName": "Halusky",
+      "Region": "Eastern Europe",
+      "Country": "Slovakia",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/f1982ec2dbc84554b9665e5dd8afbd87.jpg?mw=1300",
+      "Ingredients": "1lb bacon diced, 1 large onion chopped, 5 large russet potatoes(peeled and chopped), 2tsp salt, 2 1/2 to 3 cups all purpose flour, 4 tbsp chopped chives",
+      "Directions": "Gather ingredients.  In large skillet over medium high heat, place the bacon cubes until brown.  If using onion, add to skillet and fry the mixture until the bacon is well cooked and onions are transparent, or about 5-7 minutes. Set aside and bring a large pot of salted water to a boil.  In a food processor, add chopped potatoes and process until completely pureed.  A little at a time, add salt, flour into the potato mixture, processing after each addition.  The batter is done when a spoon will stick straight up in the dough.  Place a third of the thick batter onto a cutting board.  Using a knife, scrape about 15 small bits of dough into the boiling water.  When they all float to the top, remove with a slotted spoon and place in a large colander to drain.  Repeat the process with all the remaining batter on the board, and remaining two thirds in the food processor. Once all the dumplings are cooked, add them into the large skillet with the bacon and combine well.  Serve immediately and garnish wiht chives.  Enjoy!"
+    },
+    {
+      "Id": 102,
+      "CuisineName": "Kapustnica",
+      "Region": "Eastern Europe",
+      "Country": "Slovakia",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/465a3e35ad064f1bb5d4048d5e26b16d.jpg?mw=1300",
+      "Ingredients": "150g smoked pork or ham, or ham hocks, 1/4tsp of all spice or nutmeg, 1 bayleaf, 1/2tsp of caraway seeds, 1 cup sauerkraut, 1 small onions sliced thinly, 2 small onions sliced thinly, 2tsp of paprika powder, 1 clove of garlic minced, 50g dried mushrooms, 1 hungarian or polish style smoked sausage, 1/2 tsp sugar, 1/2 tbsp vinegar, 1/2 tsp of dried marjoram, plain yogurt or sour cream for garnish.",
+      "Directions": "Add the smoked pork or ham, 3.5 cups of water, bay leaf, pepper, allspice, 1/2 tsp salt, all into a pot.  Bring to a boil then turn heat to low and cover with a lid and simmer for 30 minutes.  Meanwhile, slice onions thinly.  In a separate frying pan heat 1-2 tbsp of oil and saute the onions until translucent.  When onions are soft mix in 2 tsp paprika and stir into onions.  Remove from the heat.  Add sauerkraut to the pot with a little bit of the juice, after the initial 30 minutes is up.  Next stir in onions, mushrooms and garlic.  Cover with lid and simmer for another 30 minutes.  Remove ham from the soup.  Cut the meat from the bone and cut off any of the thick pieces of skin.  Chop up the meat into small pieces.  Return ham to pot and simmer another 20min.  If you have red wine, add 1/2 cup to give it more flavor.  Cut up the sausage and add it to the pot along with the vinegar, sugar, and marjoram.  Cook for another 5-10 minutes.  Add a little more vinegar, salt, pepper, and or sugar to adjust to your taste. Serve with a dollop of sour cream."
+    },
+    {
+      "Id": 103,
+      "CuisineName": "Aussie Spag Bol",
+      "Region": "Australia",
+      "Country": "Australia",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/176485ef64c7450fbef85297d86fc79c.jpg?mw=1300",
+      "Ingredients": "1tbsp olive oil, 1 brown onion finely chopped, 1 carrot finely chopped, 1 celery stick finely chopped, 100g shortcut bacon coarsley chopped, 2 garlic cloves crushed, 1 large zucchini finely chopped, 1kg Coles Australian 4 star Beef Mince, 2x400g cans Ardmona Chopped Tomatoes, 1 1/2 cups beef stock, 1 1/2 tbsp coarsley chopped fresh oregano, 500g spaghetti cooked, finely grated parmesan, fresh basil leaves.",
+      "Directions": "Heat oil in large heavy-based saucepan or stockpot over medium heat.  Cook the onion, carrot, celery and bacon for 5 minutes or until vegetables have softened.  Add garlic and zucchini and cook for 2min.  Add the mince and cook, using a wooden spoon to break up any lumps for 5min or until browned.  Add the tomato, stock and oregano.  Season with salt and pepper.  Bring to boil.  Reduce the heat to low and simmer, uncovered for 1 hour 10 minutes or until the mixture has thickened slightly.  Divide the spaghetti among bowls.  Top with bolognaise sauce.  Scatter over the parmesan and basil leaves to serve."
+    },
+    {
+      "Id": 104,
+      "CuisineName": "Chicken and Corn Soup",
+      "Region": "Australia",
+      "Country": "Australia",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/3d68e2ea5eb746c08154f99200d9b47d.jpg?w=905&h=510",
+      "Ingredients": "1kg chicken, 2L water, 2.5cm piece green ginger, 1 onion, 4 peppercorns, 3 sprigs parsley, 1tsp salt, 470g can creamed corn, salt, pepper, 2 chicken stock cubes, 1tsp sesame oil, 4tbsp cornflour, 4 tbsp water, 2 egg whites, 2 tbsp water, 2 slice ham, 5 shallots, 1/2 tsp grated green ginger(extra), 4 shallots(extra)",
+      "Directions": "Put chicken or chicken pieces into saucepan and add water, peppercorns, peeled and sliced ginger, peeled and quartered onion, parsley and salt.  Bring to boil over medium heat and skim well to remove any scum; reduce heat and simmer gently, covered, for one and a half hours.  Remove any scum from top of stock, strain and reserve six cups of the stock.  Combine in a large saucepan the reserved chicken stock, creamed corn, crumbled stock cubes, extra ginger, chopped shallots, salt, pepper and sesame oil and bring to boil.  Mix cornflour to smooth paste with the four tbsp of water; add to soup, stir until soup boils and thickens and then reduce heat, simmering for one minute.  Beat egg whites and extra water lightly and add soup in a thin stream, stirring well.  Removed meat from chicken or chicken pieces, shred finely (1 cup shredded chicken).  Add thinly sliced ham and chicken meat to soup, heat gently.  Top with extra chopped shallots."
+    },
+    {
+      "Id": 105,
+      "CuisineName": "Salt and Pepper Calamari",
+      "Region": "Australia",
+      "Country": "Australia",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/0c7282c84a454f28a4c13d6d52bcd599.jpg?w=905&h=510",
+      "Ingredients": "500g squid rings, 1/2 cup plain flour, 1 egg, 1/4 cup milk, 200g dried breadcrumbs, 2 tsp sea salt, 1 tsp Szechuan pepper pepper, 1/2 tsp black peppercorns, 1L vegetable oil",
+      "Directions": "Preheat oven to 150C.  Lightly dust calamari with flour, shaking off any excess.  Dip calamari into the combined egg and milk.  Combine the breadcrumbs, sea salt and pepper in a shallow bowl and coat calamari in this mixture.  Transfer to a plate and place in the fridge or 20 minutes.  Heat oil in a saucepan and deep fry calamari in batches until golden brown.  Drain on paper towels and keep warm in oven.  Serve with sweet chilli sauce."
+    },
+    {
+      "Id": 106,
+      "CuisineName": "Hakarl",
+      "Region": "Europe",
+      "Country": "Iceland",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/49be7c1c18294b85a5e9391489e0a012.jpg?mw=1300",
+      "Ingredients": "1/2 cup cubed Hakarl(Icelandic Fermented Shark Meat) TAMARIND-FISH-CHILI SAUCE: 3tbsp water, 1tbsp tamarind pulp, A squirt of chili pepper, 1/2 tsp fish sauce, 1/2 tsp brown sugar.",
+      "Directions": "MEAT: Mix the tamaring fish chili sauce with the Hakarl until all the meat has been coated.  Add more chili pepper if interested.  TAMARIND-FISH-CHILI SAUCE: Heat water and tamarind pulp in a small pot or pan.  Avoid boiling.  Mash the pulp gently to remove as much of the tamarind as possible.  Strain the liquid and scrape the back of the bottom of a strainer to remove as much tamarind sauce as possible. Return the liquid and tamarind sauce into a clean pan or pot.  Add chili pepper, fish sauce and sugar.  Stir until the sugar has dissolved."
+    },
+    {
+      "Id": 107,
+      "CuisineName": "Kjotsupa",
+      "Region": "Europe",
+      "Country": "Iceland",
+      "Image": "https://cdn.tasteatlas.com/images/dishes/ae50e83a7669487ba94dc399e4e81a4b.jpg?mw=1300",
+      "Ingredients": "2 to 2 1/2lbs Mutton or Lamb, bone-in, cut into rough pieces.  1 large rutaba chopped, 4 large carrots chopped, 6 waxy potatoes chopped onion chopped, salt, pepper.",
+      "Directions": "Place meat in a large soup pot, such as a 6-quart dutch oven, and cover with cool water.  Slowly bring the meat and water to a boil and then reduce the heat to very low. Simmer the meat for about an hour, until it's very tender.  Skim away any surface scum.  Add the chopped vegetables and simmer until they're tender, about 20 more minutes.  Serve Kjotsupa hot."
+    },
+    {
+      "Id": 108,
+      "CuisineName": "Cholent",
+      "Region": "Asia",
+      "Country": "Israel",
+      "Image": "https://cdn.tasteatlas.com/Images/Dishes/c30ff429cba145c8b07759da9708232e.jpg?mw=1300",
+      "Ingredients": "2 1/2lbs large red potatoes peeled and halved, 2 whole onions chopped, 2 1/2lbs beef stew meat or brisket, cut into chunks, 2 marrow bones, 1 cup dried beans(lima, pinto, chickpeas, red beans), 1/2 cup pearl barley or coarse grain kasha, 3 whole garlic cloves, 6 eggs, 1/2 tsp black pepper, 1 quart low sodium chicken broth, 1 tbsp kosher salt, 1 1/2 tsp paprika, 1 1/2 tumeric, 1 tsp cumin, 1/4 tsp cayenne, 1 kishke, water",
+      "Directions": "In large slow cooker, place the potatoes in a single layer on bottom of the cooking vessel.  Sprinkle the onions over the potatoes.  Place the beef in a single layer on top of the onions and potatoes.  Place the two marrow bones in the meat, and add the kishke. Rinse the beans clean, checking for any stones or impurities.  If using barley or kasha do the same with the grains.  Sprinkle beans(raw or pre-soaked) and grains over top of the meat.  Place the three whole garlic cloves into the meat, evenly spaced.  Sprinkle the whole mixture with the black pepper.  If using eggs, rinse them well and then tuck them into the meat.  In a 4 cup container, whisk together the low sodium chicken broth, kosher salt, paprika, tumeric, cumin and cayenne.  Pour the liquid over the cholent.  Add additional water until all of the beans and pieces of meat are covered.  The grains soak up a lot of liquid.  Cover the slow cooker.  Cook on low heat for 16 hours.  Check occasionally as it's cooking.  Add additional water if neccessary.  When done, peel the egg shells off of the eggs."
+    }
+]

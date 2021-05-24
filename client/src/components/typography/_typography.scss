@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Chango';
+    src: url('../../fonts/Chango-Regular.woff2') format('woff2'),
+        url('../../fonts/Chango-Regular.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KoHo', sans-serif;
+    src: url('../../fonts/KoHo-Light.woff') format('woff2'),
+        url('../../fonts/KoHo-Light.woff2') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}

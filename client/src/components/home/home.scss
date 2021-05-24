@@ -1,0 +1,262 @@
+@use '../typography/typography' as *;
+@use '../partials/reset.scss' as *;
+
+.Hero {
+    height: 100vh;
+    width: 100vw;
+    min-width: 32rem;
+    background-image: linear-gradient(
+        rgba(black, 0.3), 
+        rgba(black, 0.3)),  
+        url(../../assets/tvHero.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 0 1.6rem;
+    margin: auto;
+    text-align: center;
+
+    &__Header--Wrapper {
+        display: flex;
+        justify-content: center;
+    }
+
+    &__Header {
+        font-family: Chango;
+        font-size: 5rem;
+        color: #E50914;
+        margin-top: 2rem;
+    }
+
+    &__Sub-Header--Wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 20rem;
+    }
+
+    &__Sub-Header {
+        font-family: Chango;
+        font-size: 1.3rem;
+        line-height: 2rem;
+        color: #FFF;
+        margin-top: 3rem;
+        text-align: left;
+        width: 90%;
+    }
+    
+    &__Sub-Header-2 {
+        font-family: Chango;
+        font-size: 1.3rem;
+        line-height: 2rem;
+        color: #FFF;
+        margin-top: 2rem;
+        text-align: left;
+        width: 90%;
+    }
+
+    &__Sub-Header--span {
+        color: #F5F5F5;
+        border-bottom: 2px solid #F5F5F5;
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+
+    &__Button--Container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+        
+    &__Button {
+        width: 16rem;
+        height: 6rem;
+        background-color: #E50914;
+        color: #FFF;
+        text-decoration: none;
+        font-family: Chango;
+        font-size: 1.6rem;
+        text-transform: uppercase;
+        margin-top: 2rem;
+        padding-top: 2rem;
+        border-radius: .5rem;
+    }
+
+    &__Cocktail {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__Cocktail--Paragraph {
+        font-family: Chango;
+        font-size: 1.3rem;
+        line-height: 2rem;
+        color: #FFF;
+        margin-top: 3rem;
+        text-align: left;
+        width: 90%;
+    }
+
+    &__Cocktail--Paragraph-Span {
+        color: #F5F5F5;
+        border-bottom: 2px solid #F5F5F5;
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+
+    &__Cocktail--Button--Container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+        
+    &__Cocktail--Button {
+        width: 16rem;
+        height: 6rem;
+        background-color: #000000;
+        color: #E50914;
+        text-decoration: none;
+        font-family: Chango;
+        font-size: 1.6rem;
+        text-transform: uppercase;
+        margin-top: 2rem;
+        padding-top: 2rem;
+        border-radius: .5rem;
+    }
+
+    &__Cuisine--Button--Container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+        
+    &__Cuisine--Button {
+        width: 16rem;
+        height: 6rem;
+        background-color: #000000;
+        color: #E50914;
+        text-decoration: none;
+        font-family: Chango;
+        font-size: 1.6rem;
+        text-transform: uppercase;
+        margin-top: 2rem;
+        padding-top: 2rem;
+        border-radius: .5rem;
+    }
+}
+
+
+@media (min-width: 550px) {
+    .Hero {
+    
+    &__Header {
+        font-size: 7rem;
+    }
+
+    &__Sub-Header {
+        font-size: 1.8rem;
+        line-height: 3rem;
+    }
+    
+    &__Sub-Header-2 {
+        font-size: 1.8rem;
+        line-height: 3rem;
+    }
+
+    &__Sub-Header--span {
+        font-size: 1.8rem;
+        line-height: 3rem;
+    }
+
+    &__Cocktail--Paragraph {
+        font-size: 1.8rem;
+        line-height: 3rem;
+    }
+
+    &__Cocktail--Paragraph-Span {
+        font-size: 1.8rem;  
+        line-height: 3rem;
+    }
+
+    &__Cocktail--Button--Container {
+        margin-top: 3rem;
+    }
+
+  }
+} 
+
+.ContactInfo {
+    color: white;
+    position: absolute;
+    bottom: 1rem;
+    left: 0;
+    max-width: 30rem;
+    opacity: 0.4;
+}
+
+@media (min-width: 768px) {
+    .Hero {
+        &__Header {
+        font-size: 9rem;
+    }
+
+    &__Sub-Header {
+        font-size: 2.5rem;
+    }
+
+    &__Sub-Header-2 {
+        font-size: 2.5rem;
+    }
+
+    &__Sub-Header--span {
+        font-size: 2.5rem;
+    }
+
+    &__Cocktail--Paragraph {
+        font-size: 2.5rem;
+        margin-top: 3rem;
+    }
+
+    &__Cocktail--Paragraph-Span {
+        font-size: 2.5rem;  
+    }
+
+    &__Cocktail--Button--Container {
+        margin-top: 2rem;
+    }
+
+    }
+}
+
+@media (min-width: 1280px) {
+    .Hero {
+    &__Sub-Header--Wrapper {
+        margin: 3rem 0;
+    }
+    &__Sub-Header {
+        margin-top: 6rem;
+        width: 70%;
+    }
+
+    &__Sub-Header-2 {
+        margin-top: 6rem;
+        width: 70%;
+    }
+
+    &__Cocktail--Paragraph {
+        width: 70%;
+    }
+
+    &__Cocktail--Button--Container {
+        margin-top: 4rem;
+    }
+
+  }
+  
+}

@@ -1,0 +1,88 @@
+@use '../typography/typography.scss' as *;
+@use '../partials/reset.scss' as *;
+
+.Cocktail {
+    width: 100vw;
+    min-width: 32rem;
+    background-image: linear-gradient(
+        rgba(black, 0.9), 
+        rgba(black, 0.9)),  
+        url(../../assets/bar-background.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 5rem 1.6rem;
+    margin: auto;
+    text-align: center;
+    background-repeat: repeat-y;
+
+    &__Header--Wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__Link--Go-Back {
+        list-style: none;
+        text-decoration: none;
+    }
+
+    &__Go-Back {
+        font-size: 1.6rem;
+        color: white;
+    }
+
+    &__Back-Arrow {
+        height: 6rem;
+        width: 6rem;
+    }
+
+    &__Header {
+        font-family: Chango;
+        font-size: 7rem;
+        color: #FFF;
+        margin-top: 2rem;
+        margin-bottom: 8rem;
+        width: 80%;
+    } 
+
+
+    &__Info--Wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 2rem;
+        width: 85%;
+    }
+
+    &__Item--Wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 20rem;
+        list-style: none;
+        text-decoration: none;
+        margin: 3.5rem 2.5rem;
+    }
+
+    &__Item--Header {
+        font-size: 3rem;
+        color: #FFF;
+        font-family: Chango;
+        margin-bottom: 1rem;
+    }
+
+    &__Item--Image {
+        height: 20rem;
+        width: auto;
+        margin: auto;
+        margin-bottom: 1rem;
+    }
+
+    &__Item--Description {
+        color: #FFF;
+        font-size: 1.2rem;
+        font-family: Chango;
+    }
+}
