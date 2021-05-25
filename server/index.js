@@ -15,49 +15,6 @@ app.use('/countries', countryRoutes);
 app.use('/cocktailList', cocktailRoutes);
 app.use('/cuisineList', cuisineRoutes);
 
-app.get('/cocktails', (req, res) => {
-    const options = {
-        method: 'GET',
-        url: 'https://the-cocktail-db.p.rapidapi.com/randomselection.php',
-        headers: {
-          'x-rapidapi-key': '085290b6b2msh4fe3c028cba5609p1b6c39jsn5ee29378229e',
-          'x-rapidapi-host': 'the-cocktail-db.p.rapidapi.com'
-        }
-      };
-      
-      axios.request(options)
-      .then(function (response) {
-        res.json(response.data);
-      }).catch(function (error) {
-        console.error(error);
-      });
-});
-
-
-app.get('/cocktails/:cocktailId', (req, res) => {
-  const options = {
-      method: 'GET',
-      url: 'https://the-cocktail-db.p.rapidapi.com/randomselection.php',
-      headers: {
-        'x-rapidapi-key': '085290b6b2msh4fe3c028cba5609p1b6c39jsn5ee29378229e',
-        'x-rapidapi-host': 'the-cocktail-db.p.rapidapi.com'
-      }
-    };
-    
-    axios.request(options).then(function (response) {
-      console.log(response.data);
-      const Id = req.params.idDrink;
-      const cocktailDetails = response.data
-      console.log(req.params)
-      const selectedCocktail = cocktailDetails.find(cocktail => {
-        return cocktail.drinks.idDrink === Id
-      })
-      res.json(response.data);
-    }).catch(function (error) {
-      console.error(error);
-    });
-});
-
 app.get('/trailers/:query', (req, res) => {
     const options = {
       method: 'GET', 
@@ -79,14 +36,5 @@ app.get('/trailers/:query', (req, res) => {
     });
 });
 
-
-
-app.post('/', (req, res) => {
-    res.json('This is a Post Request');
-})
-
-app.put('/', (req, res) => {
-    res.json("Here is a put request");
-})
 
 app.listen(PORT, () => console.log(`Listening on ${PORT}`));
