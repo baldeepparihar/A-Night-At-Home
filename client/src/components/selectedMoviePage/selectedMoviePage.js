@@ -6,7 +6,7 @@ import YouTube from '../../assets/YouTube-DataAPI.jpg';
 import './selectedMoviePage.scss';
 import YouTube2 from 'react-youtube';
 
-function SelectedMoviePage(props) {
+function SelectedMoviePage() {
     const [term, setTerm] = useState('');
     const [videos, setVideos] = useState([]);
 
@@ -28,7 +28,7 @@ function SelectedMoviePage(props) {
     const requestTrailers = (searchQuery) => {
         const options = {
             method: 'GET',
-            url:  `http://localhost:8080/trailers/${searchQuery}`,
+            url:  `https://a-night-at-home-server.herokuapp.com/trailers/${searchQuery}`,
         };
 
         axios.request(options).then((response) => {

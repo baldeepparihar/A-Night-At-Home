@@ -3,6 +3,7 @@ const app = express();
 const countryRoutes = require('./routes/countries');
 const cocktailRoutes = require('./routes/cocktailList');
 const cuisineRoutes = require('./routes/cuisineList')
+require('dotenv').config();
 
 const PORT = process.env.PORT || process.argv[2] || 8080;
 const cors = require('cors');
@@ -15,6 +16,9 @@ app.use('/countries', countryRoutes);
 app.use('/cocktailList', cocktailRoutes);
 app.use('/cuisineList', cuisineRoutes);
 
+app.get('/', (req, res) => {
+  res.send('Hello World')
+})
 app.get('/trailers/:query', (req, res) => {
     const options = {
       method: 'GET', 

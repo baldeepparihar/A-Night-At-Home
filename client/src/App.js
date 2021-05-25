@@ -69,7 +69,7 @@ function App() {
   }
 
   const requestCountries = (selectedCountryCode) => {
-    axios.get(`http://localhost:8080/countries`)
+    axios.get(`https://a-night-at-home-server.herokuapp.com/countries`)
     .then((response) => {
       const countries = response.data;
       setCountries(countries);
@@ -92,7 +92,7 @@ function App() {
   }, []);
 
   const getCocktails = () => {
-    axios.get('http://localhost:8080/cocktailList')
+    axios.get('https://a-night-at-home-server.herokuapp.com/cocktailList')
     .then(res => {
       const jsonFileCocktails = res.data;
       setjsonCocktails(jsonFileCocktails);
@@ -103,7 +103,7 @@ function App() {
   }
 
   const getCuisine = () => {
-    axios.get('http://localhost:8080/cuisineList')
+    axios.get('https://a-night-at-home-server.herokuapp.com/cuisineList')
     .then(res => {
       const jsonFileCuisine = res.data;
       setjsonCuisine(jsonFileCuisine);
