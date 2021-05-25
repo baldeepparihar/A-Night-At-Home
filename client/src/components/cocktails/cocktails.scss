@@ -25,9 +25,8 @@
         margin-right: auto;
     }
 
-    &__Link--Go-Back {
-        list-style: none;
-        text-decoration: none;
+    &__Link--Go-Back:hover {
+        cursor: pointer;
     }
 
     &__Go-Back {

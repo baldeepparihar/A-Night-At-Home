@@ -39,6 +39,10 @@
         margin-top: 2rem;
     }
 
+    &__BackArrow--Link:hover {
+        cursor: pointer;
+    }
+
     &__BackArrow {
         height: 4rem;
         width: 4rem;

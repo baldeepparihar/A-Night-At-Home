@@ -58,10 +58,18 @@
         margin-bottom: 2rem;
     }
 
+    &__YouTube--Button:hover {
+        cursor: pointer;
+    }
+
     &__BackArrow--Link {
         display: flex;
         flex-direction: column;
         text-decoration: none;
+    }
+
+    &__BackArrow--Link:hover {
+        cursor: pointer;
     }
 
     &__BackArrow {

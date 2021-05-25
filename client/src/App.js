@@ -1,5 +1,5 @@
 import React, {useEffect, useState } from 'react';
-import {Route, Switch, useLocation, useRouteMatch} from 'react-router-dom';
+import {Route, Switch, useLocation } from 'react-router-dom';
 import Home from './components/home/home';
 import SelectedMoviePage from './components/selectedMoviePage/selectedMoviePage';
 import Spinner from './components/spinner/spinner';
@@ -11,25 +11,19 @@ import Cuisine from './components/cuisine/cuisine';
 import RegionListCuisine from './components/regionList/regionListCuisine';
 import SelectedCocktail from './components/cocktails/selectedCocktail';
 import SelectedCuisine from './components/cuisine/selectedCuisine';
-// import CocktailPage from './components/cocktailPage/cocktailPage';
-// import SingleCocktailPage from './components/singleCocktailPage/singleCocktailPage';
 import './App.css';
 import axios from 'axios';
 
-function App(props) {
+function App() {
   const [movies, setMovies] = useState('');
   const [countries, setCountries] = useState('');
   const [selectedCountry, setSelectedCountry] = useState('');
-  // const [cocktails, setCocktails] = useState([]);
-  // const [singleCocktail, setSingleCocktail] = useState('');
   const [jsonCocktails, setjsonCocktails] = useState('');
   const [jsonCuisine, setjsonCuisine] = useState('');
   const location = useLocation();
 
 
   useEffect(() => {
-
-    const KEY='AIzaSyA3rTRwqq0WkHLOAowBbrciI4iv0T0bvWg'
 
 
         const options = {
@@ -39,7 +33,7 @@ function App(props) {
             {
                 part:'bowling2',
                 maxResults:5,
-                key: KEY
+                key: 'AIzaSyA3rTRwqq0WkHLOAowBbrciI4iv0T0bvWg'
             }
         };
         
@@ -52,8 +46,6 @@ function App(props) {
         });
       
   }, []);
-
-  const test_country = {name: 'TestCountry'};
   
   const requestMovies = (country) => {
     const options = {
@@ -89,27 +81,12 @@ function App(props) {
       });
   }
 
-  // const requestCocktails = () => {
-  //   const options = {
-  //      method: 'GET',
-  //     url: 'http://localhost:8080/cocktails',
-  //   };
-    
-  //   axios.request(options).then(function (response) {
-  //     const cocktails = response.data
-  //     setCocktails(cocktails);
-  //   }).catch(function (error) {
-  //     console.error(error);
-  //   });
-  // }
-
   
   
   useEffect(() => {
     const country = location.pathname.split('/').pop();
     requestMovies(country);  
     requestCountries(selectedCountry);
-    // requestCocktails(singleCocktail);
     getCocktails();
     getCuisine();
   }, []);
@@ -145,12 +122,6 @@ function App(props) {
     <Switch>
     <Route path="/" exact component={Home}/>
     <Route path="/CountryList" exact render={() => <CountryList countries={countries} />} />
-    {/* <Route path="/CountryPage/:countryId" exact render={
-      (props) => {
-        const country = countries.find((item) => item.code === props.match.params.countryId);
-        return (<CountryPage {...props} country={country} movies={movies} />)
-      }
-    } /> */}
     <Route path="/CountryPage/:countryId" exact render={() => <CountryPage movies={movies} countries={countries} />} />
     <Route path="/selectedMoviePage/:name" exact render={() => <SelectedMoviePage movies={movies} />} />
     <Route path="/RegionListCocktails" exact render={() => <RegionListCocktails cocktails={jsonCocktails}/>}/>
@@ -166,17 +137,3 @@ function App(props) {
  
 
 export default App;
-
-
-
-
-
-{/* <Route path="/CocktailPage" exact component={() => <CocktailPage cocktails={cocktails} />} />
-    <Route path="/CocktailPage/:cocktailId" exact render={
-      (props) => {
-        console.log(cocktails)
-        const singleCocktail = cocktails.drinks.find((item) => item.idDrink === props.match.params.cocktailId);
-        return (<SingleCocktailPage {...props} cocktails={cocktails} singleCocktail={singleCocktail} />)
-      }
-    } /> */}
-
