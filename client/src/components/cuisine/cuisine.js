@@ -8,7 +8,6 @@ function Cuisine(props) {
     const params = useParams();
     const history = useHistory();
 
-
     const filtered = cuisine.filter((ct) => {
         return ct.Region === params.region;
     });

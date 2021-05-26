@@ -9,10 +9,8 @@ function SelectedCuisine(props) {
     const currentCuisine = params.name;
     const history = useHistory();
    
-    let idx = props.cuisine.findIndex(el => el.CuisineName === currentCuisine)
-
+    let idx = props.cuisine.findIndex(el => el.CuisineName === currentCuisine);
     const cuisine = props.cuisine[idx];
-    console.log(cuisine)
     
 
     return(

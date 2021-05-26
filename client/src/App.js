@@ -122,7 +122,7 @@ function App() {
     <Switch>
     <Route path="/" exact component={Home}/>
     <Route path="/CountryList" exact render={() => <CountryList countries={countries} />} />
-    <Route path="/CountryPage/:countryId" exact render={() => <CountryPage movies={movies} countries={countries} />} />
+    <Route path="/CountryPage/:countryId" exact render={() => <CountryPage movies={movies} countries={countries} requestMovies={requestMovies}/>} />
     <Route path="/selectedMoviePage/:name" exact render={() => <SelectedMoviePage movies={movies} />} />
     <Route path="/RegionListCocktails" exact render={() => <RegionListCocktails cocktails={jsonCocktails}/>}/>
     <Route path="/Cocktails/:region" exact render={() => <Cocktails cocktails={jsonCocktails}/>}/>

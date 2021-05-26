@@ -4,8 +4,6 @@ import BackArrow from '../../assets/back_arrow-white.jpg';
 import { Link } from 'react-router-dom';
 
 function CocktailPage(props) {
-    console.log({props});
-
     const { cocktails } = props;
 
     return (

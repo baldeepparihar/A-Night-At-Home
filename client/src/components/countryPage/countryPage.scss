@@ -56,19 +56,6 @@
         text-transform: uppercase;
     }
 
-    &__Refresh--Container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin: 1rem 0;
-    }
-
-    &__Refresh {
-        color: white;
-        font-family: 'Koho', sans-serif;
-        font-size: 1.5rem;
-    }
-
 }
 
 
@@ -128,6 +115,14 @@
     }
 
     &__Runtime {
+        color: #FFF;
+        font-size: 1.4rem;
+        font-family: 'Koho', sans-serif;
+        font-weight: bold;
+        margin-top: 1rem;
+     }
+
+     &__TrailerClick {
         color: #FFF;
         font-size: 1.4rem;
         font-family: 'Koho', sans-serif;

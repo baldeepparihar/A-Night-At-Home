@@ -10,10 +10,7 @@ function SelectedCocktail(props) {
     const history = useHistory();
    
     let idx = props.cocktails.findIndex(el => el.CocktailName === currentCocktail)
-    console.log(idx)
-
     const cocktail = props.cocktails[idx];
-    console.log(cocktail)
     
 
     return(
